@@ -1,0 +1,3001 @@
+id_paciente,nombre,edad,sexo,distrito,servicio,fecha_atencion,monto
+P001,Miguel Díaz,51,M,San Borja,Pediatría,2024-11-29,310.76
+P002,Diego Martínez,78,M,La Molina,Traumatología,2024-10-17,169.1
+P003,Carmen García,21,F,Miraflores,Psicología,2024-12-14,93.18
+P004,Claudia Díaz,9,F,Surquillo,Traumatología,2024-02-09,256.72
+P005,Carlos Díaz,23,M,Surquillo,Urología,2024-08-23,236.87
+P006,Javier Fernández,57,M,Pueblo Libre,Pediatría,2024-07-03,225.71
+P007,Lucía Rodríguez,1,F,Jesús María,Medicina General,2024-09-24,466.25
+P008,María García,65,F,Lince,Medicina General,2024-01-29,459.3
+P009,Pedro Sánchez,23,M,No especificado,Pediatría,2024-06-30,274.47
+P010,Carmen Martínez,69,F,Magdalena,Pediatría,2024-04-17,353.35
+P011,María Díaz,17,F,Surco,Ginecología,2024-07-28,85.28
+P012,Diego Pérez,22,M,Jesús María,Oftalmología,2024-09-28,293.08
+P013,Miguel Rodríguez,88,M,Surco,Neurología,2024-08-17,83.24
+P014,Ricardo Sánchez,47,M,Magdalena,Dermatología,2024-02-08,86.07
+P015,Ana González,81,F,Magdalena,Urología,2024-06-05,230.53
+P016,Ana Fernández,2,F,Miraflores,Cirugía,2024-07-02,51.93
+P017,José Díaz,59,M,Jesús María,Urología,2024-06-16,387.71
+P018,Rosa García,76,F,Jesús María,Medicina General,2024-11-07,198.62
+P019,María Rodríguez,32,F,Jesús María,Cirugía,2024-12-23,303.5
+P020,Rosa López,47,F,Surquillo,Traumatología,2024-01-25,303.21
+P021,Carmen González,13,F,Pueblo Libre,Psicología,2024-09-22,282.04
+P022,Javier Díaz,18,M,La Molina,Medicina General,2024-06-24,161.04
+P023,Roberto Torres,62,M,Jesús María,Odontología,2024-02-22,374.2
+P024,Andrea Sánchez,80,F,Miraflores,Urología,2024-06-07,171.19
+P025,Isabel López,9,F,La Molina,Odontología,2024-03-03,230.15
+P026,José Sánchez,51,M,No especificado,Psicología,2024-10-24,388.92
+P027,Andrea Rodríguez,63,F,San Miguel,Ginecología,2024-12-03,185.05
+P028,Sofía López,43,F,Surco,Dermatología,2024-11-18,444.6
+P029,Patricia Gómez,30,F,Magdalena,Psicología,2024-05-25,191.53
+P030,Diego Díaz,39,M,Lince,Psicología,2024-10-04,246.57
+P031,Lucía Torres,32,F,Lince,Dermatología,2024-04-29,473.51
+P032,Diego González,51,M,Miraflores,Oftalmología,2024-07-11,333.49
+P033,Andrea Gómez,65,F,Magdalena,Medicina General,2024-12-11,355.01
+P034,Fernando Ramírez,89,M,Miraflores,Dermatología,2024-11-25,336.99
+P035,Claudia Pérez,50,F,San Borja,Psicología,2024-10-20,110.57
+P036,Diego González,4,M,San Miguel,Dermatología,2024-03-04,232.33
+P037,Lucía Sánchez,22,F,San Isidro,Cardiología,2024-02-16,300.51
+P038,Luis Gómez,83,M,Surquillo,Traumatología,2024-07-11,275.62
+P039,Rosa González,78,F,Surco,Traumatología,2024-05-25,275.96
+P040,José González,32,M,Lince,Dermatología,2024-12-06,253.64
+P041,Pedro Pérez,16,M,Pueblo Libre,Ginecología,2024-05-12,394.85
+P042,Miguel Torres,38,M,Magdalena,Pediatría,2024-05-05,451.49
+P043,Carmen López,71,F,Surco,Ginecología,2024-02-27,276.1
+P044,Juan Pérez,43,M,Surco,Psicología,2024-10-13,131.77
+P045,José Pérez,34,M,Lince,Cirugía,2024-10-06,168.01
+P046,Ana Torres,25,F,No especificado,Cirugía,2024-06-01,381.22
+P047,Miguel Torres,58,M,No especificado,Cardiología,2024-04-01,153.47
+P048,Carmen Ramírez,25,F,Jesús María,Psicología,2024-12-28,254.17
+P049,Sofía Torres,28,F,Pueblo Libre,Pediatría,2024-04-28,453.69
+P050,Lucía López,54,F,Magdalena,Psicología,2024-08-16,365.03
+P051,Antonio Sánchez,53,M,Pueblo Libre,Cirugía,2024-01-25,111.23
+P052,Isabel Fernández,55,F,Surquillo,Pediatría,2024-01-25,482.87
+P053,Miguel Fernández,49,M,Pueblo Libre,Urología,2024-12-26,68.39
+P054,Juan Sánchez,9,M,San Miguel,Urología,2024-09-05,246.19
+P055,Ana Sánchez,61,F,San Borja,Odontología,2024-11-02,415.41
+P056,Ricardo Ramírez,79,M,San Borja,Traumatología,2024-08-05,304.76
+P057,Patricia Rodríguez,11,F,Magdalena,Medicina General,2024-03-14,414.51
+P058,María Rodríguez,25,F,Surquillo,Oftalmología,2024-05-09,239.17
+P059,Sofía González,9,F,Lince,Oftalmología,2024-12-26,190.14
+P060,Juan Martínez,66,M,La Molina,Odontología,2024-03-12,191.78
+P061,Carlos Rodríguez,62,M,Magdalena,Ginecología,2024-05-31,434.57
+P062,Luis Martínez,45,M,La Molina,Cardiología,2024-03-31,161.97
+P063,Andrea López,29,F,La Molina,Ginecología,2024-10-21,469.49
+P064,Laura Sánchez,76,F,No especificado,Medicina General,2024-05-25,464.14
+P065,Andrea Rodríguez,86,F,Miraflores,Urología,2024-12-13,424.89
+P066,Claudia Ramírez,43,F,No especificado,Odontología,2024-11-08,205.69
+P067,Antonio Martínez,50,M,San Isidro,Cirugía,2024-05-23,272.98
+P068,Claudia Fernández,87,F,No especificado,Odontología,2024-07-15,480.64
+P069,Juan Díaz,58,M,Surco,Odontología,2024-02-08,475.56
+P070,Pedro Díaz,35,M,Miraflores,Traumatología,2024-02-13,313.69
+P071,Ricardo García,89,M,Jesús María,Dermatología,2024-05-01,79.3
+P072,Carmen Pérez,3,F,La Molina,Odontología,2024-08-24,420.4
+P073,Claudia García,12,F,San Borja,Cardiología,2024-06-29,155.56
+P074,Elena Pérez,57,F,Pueblo Libre,Pediatría,2024-10-07,158.55
+P075,Laura Sánchez,20,F,Surquillo,Traumatología,2024-05-27,416.08
+P076,Miguel Torres,51,M,La Molina,Oftalmología,2024-02-03,305.68
+P077,Antonio López,82,M,San Miguel,Medicina General,2024-08-05,441.67
+P078,Roberto Torres,14,M,Pueblo Libre,Cardiología,2024-03-10,433.71
+P079,Diego Rodríguez,78,M,Barranco,Pediatría,2024-10-23,470.0
+P080,Carmen Ramírez,3,F,San Isidro,Dermatología,2024-11-24,61.26
+P081,Javier Gómez,90,M,Surquillo,Medicina General,2024-03-10,182.82
+P082,Miguel Martínez,54,M,Magdalena,Pediatría,2024-09-05,313.07
+P083,Luis Fernández,90,M,Pueblo Libre,Odontología,2024-10-21,102.29
+P084,Javier Torres,81,M,San Miguel,Cirugía,2024-10-12,437.0
+P085,Antonio Fernández,56,M,Pueblo Libre,Medicina General,2024-03-28,293.0
+P086,Antonio Fernández,59,M,Jesús María,Traumatología,2024-03-02,102.54
+P087,Sofía Pérez,54,F,San Isidro,Oftalmología,2024-01-12,414.1
+P088,Fernando Sánchez,81,M,Barranco,Cardiología,2024-06-11,455.03
+P089,Sofía Pérez,47,F,Pueblo Libre,Cirugía,2024-08-03,80.7
+P090,Elena Ramírez,9,F,San Isidro,Medicina General,2024-11-30,131.61
+P091,Sofía Torres,87,F,Miraflores,Dermatología,2024-10-24,64.79
+P092,Carlos Sánchez,7,M,San Miguel,Urología,2024-09-01,354.98
+P093,Carmen Gómez,42,F,Jesús María,Traumatología,2024-06-20,228.73
+P094,Andrea Fernández,36,F,San Miguel,Cirugía,2024-10-31,174.79
+P095,Pedro González,23,M,Magdalena,Psicología,2024-10-28,361.67
+P096,Elena Martínez,24,F,Lince,Cirugía,2024-04-18,486.71
+P097,Javier Díaz,77,M,Barranco,Cirugía,2024-10-27,333.77
+P098,Miguel Pérez,24,M,Barranco,Medicina General,2024-03-24,224.3
+P099,Luis Sánchez,27,M,La Molina,Ginecología,2024-09-29,357.05
+P100,Elena Martínez,87,F,Pueblo Libre,Medicina General,2024-04-07,322.04
+P101,Claudia García,58,F,San Borja,Cardiología,2024-02-07,401.51
+P102,Elena Fernández,52,F,Magdalena,Psicología,2024-09-23,366.38
+P103,María Torres,77,F,Pueblo Libre,Dermatología,2024-10-03,259.13
+P104,Claudia Fernández,1,F,Jesús María,Cirugía,2024-02-07,340.79
+P105,Luis Díaz,47,M,Lince,Pediatría,2024-01-13,377.5
+P106,Ricardo Pérez,23,M,La Molina,Urología,2024-08-03,491.94
+P107,Pedro Pérez,57,M,Surco,Urología,2024-07-10,484.9
+P108,Carlos González,60,M,Miraflores,Traumatología,2024-06-28,271.46
+P109,Pedro López,78,M,Surquillo,Psicología,2024-11-22,111.95
+P110,Pedro Martínez,67,M,Pueblo Libre,Oftalmología,2024-09-16,275.45
+P111,Patricia Fernández,63,F,San Isidro,Cardiología,2024-04-02,186.15
+P112,Roberto González,65,M,San Borja,Traumatología,2024-11-05,466.95
+P113,Laura Ramírez,45,F,Barranco,Ginecología,2024-09-29,379.64
+P114,Ana González,65,F,La Molina,Oftalmología,2024-05-25,466.95
+P115,Elena Fernández,82,F,Pueblo Libre,Cirugía,2024-09-10,475.48
+P116,Sofía Gómez,88,F,No especificado,Dermatología,2024-10-12,269.76
+P117,Luis Martínez,21,M,Pueblo Libre,Urología,2024-02-14,499.71
+P118,Diego Martínez,32,M,San Miguel,Dermatología,2024-09-10,456.97
+P119,María Rodríguez,86,F,Miraflores,Psicología,2024-01-11,266.47
+P120,Andrea López,27,F,Lince,Cirugía,2024-06-15,170.47
+P121,Laura González,4,F,Surquillo,Oftalmología,2024-10-29,316.04
+P122,Laura Ramírez,6,F,Lince,Traumatología,2024-02-15,142.6
+P123,Roberto Díaz,54,M,La Molina,Dermatología,2024-12-11,217.43
+P124,Fernando Fernández,36,M,San Isidro,Cardiología,2024-01-15,351.73
+P125,Ana Díaz,46,F,Miraflores,Odontología,2024-01-28,408.14
+P126,Patricia Torres,23,F,San Miguel,Ginecología,2024-03-05,60.25
+P127,Ricardo Fernández,64,M,Pueblo Libre,Dermatología,2024-09-22,352.73
+P128,Ricardo Gómez,54,M,San Miguel,Oftalmología,2024-06-08,405.36
+P129,Lucía Díaz,18,F,Jesús María,Pediatría,2024-01-01,480.82
+P130,Javier Martínez,25,M,Pueblo Libre,Psicología,2024-11-02,149.12
+P131,Luis Gómez,77,M,No especificado,Ginecología,2024-10-17,271.25
+P132,Rosa Martínez,30,F,No especificado,Ginecología,2024-08-01,69.51
+P133,Javier Ramírez,42,M,Jesús María,Cardiología,2024-11-10,124.02
+P134,Carmen Martínez,38,F,Surquillo,Urología,2024-03-28,425.49
+P135,Lucía Gómez,44,F,Miraflores,Medicina General,2024-02-04,274.46
+P136,Miguel Rodríguez,48,M,San Miguel,Dermatología,2024-02-29,270.37
+P137,Andrea Fernández,53,F,Magdalena,Cirugía,2024-12-30,456.92
+P138,Laura Torres,41,F,Pueblo Libre,Pediatría,2024-05-26,175.21
+P139,Elena Martínez,36,F,No especificado,Traumatología,2024-04-11,137.55
+P140,Lucía Torres,60,F,San Miguel,Dermatología,2024-08-26,107.6
+P141,Lucía Díaz,84,F,Miraflores,Cirugía,2024-03-01,412.68
+P142,Elena Díaz,63,F,Miraflores,Medicina General,2024-11-01,248.53
+P143,Pedro Sánchez,15,M,La Molina,Odontología,2024-02-15,407.38
+P144,Ana Sánchez,24,F,Jesús María,Psicología,2024-07-14,488.7
+P145,Andrea Ramírez,39,F,Miraflores,Odontología,2024-07-27,289.76
+P146,Andrea Díaz,6,F,San Miguel,Medicina General,2024-04-27,220.66
+P147,José Torres,11,M,Pueblo Libre,Cirugía,2024-11-06,431.3
+P148,Lucía Pérez,85,F,Surquillo,Dermatología,2024-04-05,158.59
+P149,Laura García,48,F,San Isidro,Neurología,2024-10-25,364.98
+P150,Luis Díaz,80,M,No especificado,Odontología,2024-01-04,141.67
+P151,Miguel Pérez,37,M,No especificado,Neurología,2024-02-18,455.93
+P152,Andrea Díaz,89,F,Lince,Odontología,2024-02-14,214.98
+P153,Patricia Rodríguez,55,F,No especificado,Medicina General,2024-04-04,57.29
+P154,Rosa Sánchez,57,F,No especificado,Pediatría,2024-11-06,148.37
+P155,Antonio Ramírez,36,M,No especificado,Cardiología,2024-08-10,241.78
+P156,Antonio Martínez,11,M,Pueblo Libre,Oftalmología,2024-11-30,385.44
+P157,Rosa Ramírez,13,F,San Isidro,Neurología,2024-01-22,90.75
+P158,Diego González,25,M,San Miguel,Neurología,2024-10-08,496.05
+P159,Ana González,70,F,San Isidro,Oftalmología,2024-10-07,168.68
+P160,Rosa Gómez,53,F,Jesús María,Pediatría,2024-01-25,260.45
+P161,Lucía García,3,F,Barranco,Oftalmología,2024-06-14,498.18
+P162,Rosa Gómez,65,F,Magdalena,Psicología,2024-10-25,103.53
+P163,Luis García,20,M,San Borja,Medicina General,2024-08-07,53.4
+P164,José González,26,M,Jesús María,Odontología,2024-03-29,126.83
+P165,Miguel Fernández,40,M,No especificado,Psicología,2024-08-12,163.07
+P166,Laura Pérez,80,F,La Molina,Medicina General,2024-11-10,419.26
+P167,Andrea García,17,F,Barranco,Odontología,2024-12-27,326.87
+P168,Roberto Fernández,56,M,San Borja,Neurología,2024-12-27,380.78
+P169,Luis Sánchez,6,M,Jesús María,Traumatología,2024-02-21,423.23
+P170,Carlos López,1,M,Pueblo Libre,Ginecología,2024-03-07,420.37
+P171,Isabel Gómez,71,F,La Molina,Cirugía,2024-07-27,347.27
+P172,Juan Sánchez,24,M,Barranco,Odontología,2024-02-09,230.79
+P173,Fernando Pérez,78,M,La Molina,Psicología,2024-11-18,486.42
+P174,Ricardo Díaz,50,M,Barranco,Ginecología,2024-01-18,188.48
+P175,Luis Ramírez,72,M,San Borja,Neurología,2024-07-10,464.67
+P176,Isabel Rodríguez,6,F,San Isidro,Oftalmología,2024-06-26,380.96
+P177,Antonio Sánchez,48,M,San Miguel,Cirugía,2024-05-24,211.15
+P178,María Pérez,35,F,Miraflores,Urología,2024-04-01,60.06
+P179,Roberto Sánchez,17,M,No especificado,Traumatología,2024-12-22,498.94
+P180,Lucía Sánchez,33,F,Lince,Neurología,2024-03-17,207.08
+P181,Elena Sánchez,50,F,San Miguel,Urología,2024-06-06,151.29
+P182,Ana Fernández,27,F,San Borja,Medicina General,2024-07-13,157.0
+P183,Isabel Fernández,6,F,San Miguel,Traumatología,2024-04-20,431.27
+P184,Pedro Fernández,32,M,Miraflores,Odontología,2024-02-17,424.53
+P185,Lucía Díaz,86,F,Jesús María,Ginecología,2024-02-21,161.95
+P186,Miguel Torres,6,M,Magdalena,Neurología,2024-02-28,133.12
+P187,Carlos González,25,M,Magdalena,Pediatría,2024-01-15,283.29
+P188,Sofía Torres,85,F,Surquillo,Traumatología,2024-04-05,422.2
+P189,Antonio García,55,M,La Molina,Traumatología,2024-03-11,496.94
+P190,Laura Fernández,63,F,Pueblo Libre,Oftalmología,2024-02-05,404.81
+P191,Pedro López,70,M,Pueblo Libre,Urología,2024-09-05,482.25
+P192,María Fernández,69,F,San Isidro,Ginecología,2024-05-27,229.99
+P193,José López,18,M,San Miguel,Medicina General,2024-05-12,362.01
+P194,Laura Gómez,33,F,No especificado,Pediatría,2024-09-25,462.07
+P195,María Torres,40,F,Surquillo,Pediatría,2024-05-01,411.03
+P196,Laura Torres,55,F,Miraflores,Cirugía,2024-10-08,488.3
+P197,María Díaz,42,F,La Molina,Pediatría,2024-07-16,458.1
+P198,Laura Díaz,11,F,Pueblo Libre,Dermatología,2024-12-14,402.58
+P199,Isabel Sánchez,69,F,Miraflores,Medicina General,2024-05-31,296.33
+P200,Laura Fernández,1,F,Lince,Psicología,2024-08-01,237.46
+P201,Claudia García,7,F,La Molina,Medicina General,2024-07-03,495.04
+P202,Javier Díaz,50,M,Pueblo Libre,Cirugía,2024-05-08,79.82
+P203,Miguel Sánchez,24,M,Miraflores,Medicina General,2024-03-30,296.87
+P204,Lucía Ramírez,71,F,San Miguel,Cirugía,2024-01-15,457.07
+P205,Carmen Gómez,79,F,Magdalena,Cardiología,2024-07-13,365.52
+P206,Claudia López,70,F,San Miguel,Cardiología,2024-12-31,149.59
+P207,Luis López,70,M,Magdalena,Cirugía,2024-04-20,100.49
+P208,Javier Sánchez,13,M,Magdalena,Cardiología,2024-09-14,370.23
+P209,José Pérez,35,M,San Isidro,Psicología,2024-06-28,88.17
+P210,Isabel Díaz,79,F,San Isidro,Ginecología,2024-03-06,415.1
+P211,Ana González,18,F,No especificado,Odontología,2024-12-17,164.45
+P212,Isabel Sánchez,38,F,Magdalena,Neurología,2024-04-15,236.5
+P213,Isabel Gómez,68,F,Pueblo Libre,Ginecología,2024-10-20,185.28
+P214,Fernando Pérez,3,M,Lince,Urología,2024-01-28,130.32
+P215,Lucía Sánchez,13,F,San Miguel,Dermatología,2025-01-01,334.08
+P216,Carmen Fernández,19,F,San Miguel,Odontología,2024-10-26,136.9
+P217,Carlos Sánchez,80,M,Lince,Odontología,2024-04-16,450.42
+P218,Ricardo Ramírez,19,M,Surco,Dermatología,2024-08-16,460.37
+P219,Fernando Díaz,31,M,Lince,Dermatología,2024-05-28,400.26
+P220,Laura Ramírez,74,F,Miraflores,Dermatología,2024-02-13,85.17
+P221,Sofía Fernández,23,F,La Molina,Odontología,2024-07-05,54.02
+P222,Ana Sánchez,17,F,Miraflores,Pediatría,2024-03-13,134.75
+P223,Juan Martínez,31,M,Jesús María,Psicología,2024-05-02,94.07
+P224,Pedro Gómez,73,M,Magdalena,Pediatría,2024-01-17,456.41
+P225,Carlos González,11,M,No especificado,Medicina General,2024-07-02,216.81
+P226,Diego Gómez,2,M,San Miguel,Urología,2024-02-04,257.59
+P227,Diego Ramírez,36,M,La Molina,Medicina General,2024-03-05,88.4
+P228,Ricardo Gómez,22,M,Jesús María,Cardiología,2024-03-06,88.07
+P229,Rosa Díaz,37,F,Miraflores,Neurología,2024-08-01,313.55
+P230,Juan Martínez,74,M,Magdalena,Pediatría,2024-07-17,134.93
+P231,Antonio Pérez,90,M,Lince,Medicina General,2024-08-02,218.37
+P232,Antonio Sánchez,45,M,San Miguel,Medicina General,2024-02-11,74.08
+P233,Sofía García,84,F,La Molina,Medicina General,2024-03-10,230.73
+P234,Roberto Díaz,36,M,San Borja,Psicología,2024-01-24,416.07
+P235,Carmen Rodríguez,22,F,Miraflores,Odontología,2024-12-23,309.75
+P236,Laura Díaz,77,F,San Miguel,Medicina General,2024-11-06,165.21
+P237,Luis González,79,M,La Molina,Oftalmología,2024-03-27,55.83
+P238,Sofía Ramírez,80,F,Surquillo,Urología,2024-07-16,64.31
+P239,María Pérez,90,F,Jesús María,Urología,2024-03-01,65.62
+P240,Patricia Ramírez,17,F,Surco,Ginecología,2024-10-30,460.57
+P241,Juan López,11,M,Surquillo,Cardiología,2024-09-27,325.55
+P242,Pedro García,42,M,San Miguel,Traumatología,2024-10-17,304.1
+P243,Fernando Pérez,20,M,San Isidro,Pediatría,2024-11-02,177.66
+P244,Carmen García,57,F,Jesús María,Urología,2024-03-02,106.93
+P245,Isabel Torres,64,F,No especificado,Neurología,2024-08-17,419.62
+P246,Javier Gómez,21,M,No especificado,Cirugía,2024-08-29,494.33
+P247,Luis Fernández,23,M,San Borja,Dermatología,2024-10-20,127.26
+P248,Ana González,36,F,San Borja,Dermatología,2024-10-18,58.47
+P249,Fernando López,17,M,Lince,Psicología,2024-11-23,391.52
+P250,Luis Rodríguez,7,M,Barranco,Cirugía,2024-12-03,53.86
+P251,Pedro Fernández,86,M,Pueblo Libre,Medicina General,2024-01-27,275.29
+P252,Patricia Pérez,8,F,Magdalena,Neurología,2024-04-29,57.71
+P253,Javier Díaz,71,M,San Borja,Cirugía,2024-10-10,327.28
+P254,Andrea López,53,F,Surco,Pediatría,2024-03-24,412.58
+P255,Javier Martínez,21,M,Magdalena,Medicina General,2024-03-16,96.06
+P256,Antonio Fernández,56,M,Surco,Psicología,2024-05-19,63.62
+P257,Rosa Martínez,57,F,Miraflores,Ginecología,2024-03-31,243.12
+P258,José Martínez,51,M,San Borja,Odontología,2024-12-02,179.99
+P259,Pedro Ramírez,7,M,San Miguel,Pediatría,2024-04-17,274.29
+P260,Luis González,46,M,No especificado,Ginecología,2024-07-16,461.86
+P261,Lucía Rodríguez,4,F,Magdalena,Urología,2024-09-21,153.77
+P262,Andrea García,71,F,Lince,Traumatología,2024-08-17,188.87
+P263,Laura Torres,86,F,No especificado,Odontología,2024-03-04,138.15
+P264,Sofía Torres,51,F,Miraflores,Dermatología,2024-11-15,471.62
+P265,Juan Fernández,67,M,Lince,Odontología,2024-04-09,112.78
+P266,Pedro Pérez,30,M,Pueblo Libre,Medicina General,2024-08-14,100.45
+P267,Miguel Rodríguez,70,M,Magdalena,Ginecología,2024-06-02,330.44
+P268,José Pérez,89,M,San Borja,Ginecología,2024-03-23,458.78
+P269,Luis López,89,M,Miraflores,Oftalmología,2024-12-01,275.2
+P270,Roberto Gómez,83,M,Barranco,Ginecología,2024-06-26,444.28
+P271,Ricardo Sánchez,60,M,Miraflores,Odontología,2024-11-21,139.78
+P272,Luis Díaz,59,M,San Isidro,Medicina General,2024-11-20,255.65
+P273,Carlos Gómez,15,M,Surquillo,Medicina General,2024-09-07,128.25
+P274,Luis Torres,80,M,Surquillo,Medicina General,2024-06-08,327.02
+P275,Diego García,73,M,La Molina,Urología,2024-11-26,271.06
+P276,Ana Díaz,60,F,Jesús María,Dermatología,2024-10-06,363.91
+P277,Pedro Pérez,21,M,San Borja,Cardiología,2024-07-06,175.89
+P278,Miguel González,3,M,Miraflores,Psicología,2024-10-13,278.4
+P279,Patricia García,37,F,Magdalena,Odontología,2024-11-23,87.02
+P280,Rosa Ramírez,31,F,Surquillo,Cirugía,2024-09-03,435.4
+P281,Javier García,20,M,San Isidro,Oftalmología,2024-09-14,492.14
+P282,Diego López,44,M,San Borja,Dermatología,2024-06-19,209.93
+P283,José Rodríguez,28,M,San Miguel,Dermatología,2024-09-01,353.06
+P284,Miguel Torres,12,M,Pueblo Libre,Pediatría,2024-07-07,483.83
+P285,Roberto Torres,36,M,Surco,Odontología,2024-03-27,337.9
+P286,Antonio González,47,M,Jesús María,Medicina General,2024-12-14,309.24
+P287,Lucía López,63,F,San Isidro,Odontología,2024-07-10,359.54
+P288,Ana Torres,80,F,Jesús María,Medicina General,2024-01-22,160.51
+P289,Rosa Rodríguez,87,F,Miraflores,Psicología,2024-03-01,352.0
+P290,Andrea Martínez,81,F,Miraflores,Neurología,2024-09-24,91.02
+P291,Lucía Martínez,36,F,San Miguel,Ginecología,2024-10-04,459.22
+P292,Isabel Sánchez,85,F,Barranco,Cirugía,2024-08-09,330.32
+P293,Elena García,84,F,Surquillo,Neurología,2024-03-03,426.27
+P294,Lucía Fernández,2,F,Surquillo,Dermatología,2024-07-31,318.39
+P295,Fernando Díaz,71,M,Lince,Traumatología,2024-03-25,167.9
+P296,Laura Torres,42,F,San Miguel,Medicina General,2024-04-15,158.18
+P297,Sofía Torres,18,F,Surquillo,Cirugía,2024-10-09,433.2
+P298,Patricia González,4,F,Surquillo,Urología,2024-09-30,58.17
+P299,Lucía López,10,F,Surco,Dermatología,2024-10-06,484.13
+P300,Carmen García,55,F,Surquillo,Medicina General,2024-04-27,391.29
+P301,Sofía López,43,F,Barranco,Psicología,2024-03-16,286.07
+P302,Claudia Gómez,6,F,Miraflores,Oftalmología,2024-11-26,392.77
+P303,Antonio Ramírez,17,M,Magdalena,Traumatología,2024-09-21,294.29
+P304,Juan Rodríguez,25,M,San Miguel,Urología,2024-06-04,429.92
+P305,Miguel Gómez,89,M,No especificado,Ginecología,2024-03-10,456.84
+P306,Claudia Torres,34,F,Lince,Cirugía,2024-01-30,65.36
+P307,Miguel Díaz,25,M,Magdalena,Cardiología,2024-05-26,499.14
+P308,Javier López,84,M,San Isidro,Odontología,2024-11-13,272.09
+P309,Fernando Torres,69,M,Surco,Neurología,2024-11-13,273.9
+P310,Isabel Gómez,23,F,Barranco,Medicina General,2024-08-09,157.33
+P311,Miguel Díaz,12,M,San Isidro,Ginecología,2024-04-23,237.22
+P312,Carmen Fernández,47,F,Barranco,Medicina General,2024-07-03,318.74
+P313,Ana González,69,F,Surco,Neurología,2024-03-13,428.54
+P314,Isabel Ramírez,22,F,No especificado,Odontología,2024-01-27,319.67
+P315,Isabel Ramírez,81,F,Surquillo,Oftalmología,2024-04-08,184.67
+P316,Fernando Torres,4,M,San Miguel,Cardiología,2024-08-02,185.19
+P317,Fernando Torres,20,M,Miraflores,Ginecología,2024-12-10,323.24
+P318,Carmen Torres,39,F,La Molina,Odontología,2024-10-16,256.02
+P319,Ana García,70,F,Miraflores,Medicina General,2024-03-22,306.48
+P320,Roberto Rodríguez,3,M,Barranco,Neurología,2024-04-10,210.1
+P321,Andrea Torres,70,F,Magdalena,Psicología,2024-01-10,415.01
+P322,Juan Sánchez,38,M,Surquillo,Traumatología,2024-11-06,441.95
+P323,Juan Torres,53,M,La Molina,Urología,2024-07-29,499.66
+P324,Roberto García,41,M,San Miguel,Pediatría,2024-04-18,499.18
+P325,José Rodríguez,35,M,La Molina,Psicología,2024-02-20,390.29
+P326,Andrea Gómez,44,F,San Borja,Urología,2024-09-18,87.75
+P327,Claudia Martínez,69,F,Surco,Odontología,2024-10-05,338.31
+P328,Rosa González,12,F,Magdalena,Medicina General,2024-03-12,118.21
+P329,Diego García,55,M,Jesús María,Urología,2024-08-24,346.11
+P330,Laura Torres,56,F,No especificado,Urología,2024-03-06,422.64
+P331,Isabel López,21,F,San Isidro,Traumatología,2024-03-07,378.52
+P332,Laura García,45,F,Surquillo,Cirugía,2024-01-01,119.02
+P333,José Díaz,40,M,Surco,Traumatología,2024-08-01,151.9
+P334,Rosa Rodríguez,84,F,Magdalena,Medicina General,2024-08-22,423.59
+P335,Ana García,63,F,Surco,Psicología,2024-07-02,337.43
+P336,Andrea Rodríguez,50,F,Barranco,Cardiología,2024-02-09,62.46
+P337,Antonio Torres,54,M,San Borja,Neurología,2024-05-31,395.93
+P338,Carlos Torres,18,M,San Miguel,Odontología,2024-06-11,272.13
+P339,Miguel Ramírez,49,M,La Molina,Pediatría,2024-02-21,476.61
+P340,Claudia Gómez,79,F,Miraflores,Cardiología,2024-06-07,111.09
+P341,Rosa García,2,F,San Borja,Ginecología,2024-06-22,246.09
+P342,Roberto Rodríguez,46,M,Pueblo Libre,Ginecología,2024-08-28,223.71
+P343,Claudia Rodríguez,34,F,San Miguel,Medicina General,2024-04-06,388.02
+P344,Antonio García,28,M,No especificado,Ginecología,2024-01-08,283.92
+P345,Laura Martínez,19,F,Jesús María,Medicina General,2024-01-15,468.28
+P346,Diego Díaz,1,M,San Miguel,Urología,2024-06-07,354.6
+P347,Antonio Martínez,13,M,No especificado,Cardiología,2024-05-05,315.59
+P348,Patricia Rodríguez,5,F,Jesús María,Cardiología,2024-09-22,87.46
+P349,María Pérez,10,F,San Miguel,Urología,2024-01-19,178.09
+P350,Claudia García,22,F,Surco,Odontología,2024-11-22,201.94
+P351,Andrea López,21,F,San Miguel,Cirugía,2024-07-02,192.5
+P352,Ricardo Torres,56,M,Surco,Psicología,2024-12-25,457.41
+P353,Miguel González,67,M,Barranco,Psicología,2024-03-16,298.88
+P354,Claudia Pérez,70,F,Lince,Dermatología,2024-06-06,394.83
+P355,Lucía Pérez,12,F,Pueblo Libre,Traumatología,2024-07-16,71.46
+P356,Ricardo Díaz,47,M,No especificado,Oftalmología,2024-07-14,422.75
+P357,María López,42,F,Magdalena,Odontología,2024-06-08,488.61
+P358,Javier Pérez,84,M,La Molina,Neurología,2024-03-08,417.95
+P359,Miguel García,61,M,Surco,Oftalmología,2024-02-24,241.3
+P360,Ricardo Gómez,30,M,Surquillo,Medicina General,2024-02-24,216.69
+P361,Laura Sánchez,90,F,San Miguel,Odontología,2024-06-22,109.5
+P362,Pedro Díaz,71,M,Miraflores,Ginecología,2024-02-03,364.34
+P363,Andrea García,89,F,Magdalena,Oftalmología,2024-07-07,342.93
+P364,Javier Torres,53,M,Surco,Urología,2024-07-12,206.51
+P365,Roberto García,37,M,Surco,Medicina General,2024-09-02,128.87
+P366,Antonio Torres,79,M,Lince,Pediatría,2024-04-23,423.46
+P367,Rosa Torres,70,F,Lince,Medicina General,2024-11-25,208.97
+P368,Laura González,78,F,La Molina,Cirugía,2024-08-06,346.66
+P369,José Martínez,40,M,San Borja,Medicina General,2024-11-08,327.56
+P370,Ana Martínez,55,F,Surco,Medicina General,2024-06-22,420.6
+P371,Roberto Sánchez,73,M,Miraflores,Dermatología,2024-12-12,489.61
+P372,Isabel Torres,60,F,Surco,Traumatología,2024-11-27,85.64
+P373,Patricia García,7,F,Miraflores,Urología,2024-01-26,50.27
+P374,Diego Fernández,29,M,San Miguel,Urología,2024-01-09,311.06
+P375,Carmen Rodríguez,10,F,Miraflores,Urología,2024-06-18,154.91
+P376,Claudia Torres,11,F,La Molina,Neurología,2024-01-03,320.67
+P377,Ricardo López,16,M,Magdalena,Psicología,2024-06-21,374.57
+P378,Lucía González,58,F,No especificado,Cardiología,2024-02-19,97.37
+P379,Claudia Sánchez,88,F,Magdalena,Neurología,2024-02-11,219.18
+P380,Carmen Sánchez,44,F,Surquillo,Psicología,2024-04-16,470.78
+P381,Roberto López,51,M,San Borja,Traumatología,2024-12-06,110.76
+P382,Miguel Torres,88,M,Surco,Neurología,2024-08-04,278.32
+P383,Rosa Pérez,86,F,Surco,Psicología,2024-02-18,341.06
+P384,Antonio Fernández,12,M,Pueblo Libre,Urología,2024-06-18,230.39
+P385,Ricardo Torres,67,M,San Miguel,Medicina General,2024-05-21,334.87
+P386,María Sánchez,33,F,San Isidro,Neurología,2024-06-10,241.95
+P387,Fernando Gómez,33,M,Surquillo,Ginecología,2024-02-03,409.28
+P388,Lucía González,6,F,San Borja,Dermatología,2024-04-12,98.6
+P389,María Pérez,48,F,San Isidro,Odontología,2024-12-16,76.73
+P390,Javier González,16,M,Surco,Medicina General,2024-05-04,367.79
+P391,Laura López,36,F,San Borja,Odontología,2024-08-10,308.32
+P392,Laura Martínez,60,F,Lince,Neurología,2024-10-15,254.74
+P393,Antonio Gómez,87,M,Pueblo Libre,Urología,2024-06-13,382.84
+P394,Carmen Pérez,55,F,San Isidro,Cirugía,2024-01-10,404.09
+P395,Fernando Martínez,42,M,La Molina,Psicología,2024-07-09,484.19
+P396,Claudia López,18,F,Pueblo Libre,Traumatología,2024-02-05,422.23
+P397,Carmen Gómez,43,F,San Miguel,Dermatología,2024-03-09,182.42
+P398,Patricia Gómez,7,F,Surquillo,Medicina General,2024-12-29,174.47
+P399,Sofía Gómez,89,F,Miraflores,Ginecología,2024-05-22,485.78
+P400,Antonio Sánchez,79,M,San Miguel,Dermatología,2024-06-29,391.72
+P401,Carlos Díaz,5,M,Miraflores,Pediatría,2024-10-20,72.82
+P402,Carlos López,64,M,Miraflores,Odontología,2024-05-03,147.06
+P403,José López,46,M,San Miguel,Medicina General,2024-10-28,322.94
+P404,Antonio López,13,M,Surquillo,Traumatología,2024-06-19,239.62
+P405,Carlos López,58,M,No especificado,Psicología,2024-05-23,478.38
+P406,Carmen Sánchez,17,F,Surquillo,Medicina General,2024-05-01,475.41
+P407,Javier Torres,90,M,No especificado,Medicina General,2024-05-11,56.5
+P408,Miguel López,85,M,Jesús María,Medicina General,2024-01-29,262.31
+P409,Diego Sánchez,80,M,Magdalena,Dermatología,2024-10-13,373.77
+P410,Miguel García,77,M,Miraflores,Neurología,2024-03-02,388.09
+P411,Sofía García,44,F,Surco,Odontología,2024-12-22,423.48
+P412,José Fernández,71,M,Magdalena,Cirugía,2024-11-14,333.83
+P413,Ricardo Martínez,6,M,Magdalena,Ginecología,2024-10-26,268.93
+P414,Ricardo Martínez,59,M,Barranco,Pediatría,2024-05-13,199.98
+P415,Ricardo Fernández,5,M,No especificado,Oftalmología,2024-08-16,142.19
+P416,José Martínez,56,M,San Borja,Dermatología,2024-12-19,124.67
+P417,Carmen López,3,F,Surco,Odontología,2024-09-01,484.71
+P418,Juan Rodríguez,23,M,Jesús María,Traumatología,2024-10-03,395.76
+P419,Javier Ramírez,55,M,No especificado,Dermatología,2024-11-26,309.69
+P420,Diego López,75,M,San Isidro,Traumatología,2024-06-21,196.58
+P421,Miguel González,2,M,Barranco,Traumatología,2024-07-02,420.12
+P422,Miguel Sánchez,4,M,Surquillo,Cardiología,2024-08-27,442.08
+P423,Patricia Rodríguez,31,F,San Borja,Dermatología,2024-01-06,409.64
+P424,Sofía López,49,F,No especificado,Ginecología,2024-05-15,90.74
+P425,Sofía Díaz,43,F,Miraflores,Oftalmología,2024-07-03,101.51
+P426,Lucía Rodríguez,86,F,Miraflores,Urología,2024-09-29,469.45
+P427,Claudia Pérez,70,F,La Molina,Pediatría,2024-04-30,113.78
+P428,Andrea Fernández,60,F,Surquillo,Medicina General,2024-04-13,227.77
+P429,Miguel González,5,M,Surco,Oftalmología,2024-03-08,87.7
+P430,Antonio Pérez,64,M,Miraflores,Dermatología,2024-03-09,151.95
+P431,José Rodríguez,64,M,Surquillo,Traumatología,2024-04-25,214.97
+P432,Antonio Ramírez,30,M,Magdalena,Oftalmología,2024-11-21,411.07
+P433,Lucía Díaz,35,F,Miraflores,Psicología,2024-03-18,144.68
+P434,Carlos Ramírez,36,M,Jesús María,Oftalmología,2024-03-10,128.34
+P435,Pedro López,31,M,Miraflores,Traumatología,2024-06-30,380.36
+P436,Roberto Pérez,69,M,San Isidro,Urología,2024-03-22,359.49
+P437,Carmen García,59,F,Surquillo,Odontología,2024-07-20,91.94
+P438,Miguel González,90,M,Surquillo,Medicina General,2024-09-19,246.0
+P439,Sofía Martínez,42,F,La Molina,Cirugía,2024-02-28,195.91
+P440,Ana Pérez,55,F,San Borja,Psicología,2024-03-04,499.43
+P441,Andrea Díaz,61,F,Surquillo,Psicología,2024-06-24,325.68
+P442,Diego Gómez,58,M,Lince,Oftalmología,2024-01-07,323.06
+P443,Patricia Martínez,37,F,Lince,Cirugía,2024-04-27,418.9
+P444,Diego Torres,81,M,San Miguel,Cirugía,2024-12-26,142.9
+P445,Miguel Sánchez,76,M,Jesús María,Cirugía,2024-05-08,408.14
+P446,Juan Pérez,78,M,Pueblo Libre,Traumatología,2024-01-09,355.71
+P447,Diego González,77,M,San Miguel,Ginecología,2024-11-03,475.97
+P448,Laura Ramírez,71,F,Pueblo Libre,Traumatología,2024-11-07,56.7
+P449,Andrea Fernández,35,F,Miraflores,Psicología,2024-06-15,149.06
+P450,Patricia López,37,F,Miraflores,Odontología,2024-03-17,163.25
+P451,Ana Díaz,72,F,Magdalena,Urología,2024-09-13,475.28
+P452,Ricardo García,38,M,Jesús María,Traumatología,2024-12-15,374.19
+P453,Fernando Gómez,46,M,La Molina,Urología,2024-04-19,123.22
+P454,Luis Sánchez,12,M,Surco,Neurología,2024-03-14,367.72
+P455,Roberto Martínez,41,M,No especificado,Medicina General,2024-04-26,144.39
+P456,Fernando García,44,M,No especificado,Cardiología,2024-03-31,387.96
+P457,Laura García,66,F,Surco,Psicología,2024-05-01,340.61
+P458,Isabel López,60,F,Jesús María,Neurología,2024-05-12,269.28
+P459,Rosa González,68,F,Magdalena,Odontología,2024-02-03,57.41
+P460,Luis González,8,M,No especificado,Urología,2024-09-10,169.32
+P461,Pedro Ramírez,71,M,San Miguel,Dermatología,2024-09-18,401.14
+P462,Sofía García,39,F,La Molina,Medicina General,2024-08-03,186.8
+P463,Fernando Sánchez,70,M,Lince,Psicología,2024-11-16,455.91
+P464,Elena García,64,F,Lince,Dermatología,2024-02-19,55.84
+P465,Ana Martínez,17,F,San Isidro,Psicología,2024-06-05,416.8
+P466,Carlos Rodríguez,64,M,Surquillo,Urología,2024-11-02,68.51
+P467,Antonio Rodríguez,33,M,Miraflores,Odontología,2024-08-20,497.76
+P468,Miguel Martínez,45,M,No especificado,Odontología,2024-05-30,299.42
+P469,Carlos Torres,26,M,San Borja,Medicina General,2024-06-16,239.48
+P470,Javier González,8,M,Barranco,Traumatología,2024-02-25,317.7
+P471,Isabel Torres,30,F,San Miguel,Neurología,2024-02-18,254.01
+P472,Isabel González,3,F,San Miguel,Oftalmología,2024-05-20,311.77
+P473,Javier García,44,M,San Isidro,Cardiología,2024-11-17,139.97
+P474,Ricardo Torres,39,M,Jesús María,Cardiología,2024-07-19,464.77
+P475,Miguel Fernández,26,M,Jesús María,Dermatología,2024-06-19,144.69
+P476,Roberto Ramírez,61,M,Jesús María,Cirugía,2024-05-05,457.47
+P477,José García,3,M,Miraflores,Psicología,2024-05-20,191.79
+P478,Carmen González,47,F,Miraflores,Neurología,2024-12-18,429.12
+P479,Sofía Rodríguez,30,F,Surco,Psicología,2024-08-07,298.2
+P480,José Rodríguez,34,M,San Isidro,Medicina General,2024-11-07,307.33
+P481,José Gómez,65,M,Barranco,Urología,2024-06-01,211.18
+P482,Lucía Ramírez,40,F,Barranco,Dermatología,2024-11-19,63.67
+P483,Pedro Martínez,49,M,No especificado,Cardiología,2024-08-11,468.05
+P484,Elena Sánchez,85,F,San Borja,Cirugía,2024-11-03,392.78
+P485,Diego García,74,M,San Borja,Neurología,2024-06-26,111.15
+P486,Rosa García,49,F,Barranco,Medicina General,2024-05-18,447.56
+P487,Antonio Gómez,89,M,San Miguel,Dermatología,2024-04-20,247.64
+P488,Juan Díaz,31,M,Surquillo,Cirugía,2024-04-28,187.46
+P489,José Díaz,40,M,San Borja,Ginecología,2024-09-15,494.83
+P490,Ricardo Gómez,80,M,Barranco,Traumatología,2024-03-20,332.77
+P491,Luis Díaz,17,M,San Borja,Psicología,2024-11-28,66.02
+P492,Laura García,52,F,Jesús María,Ginecología,2024-02-01,155.44
+P493,Rosa Ramírez,30,F,Barranco,Dermatología,2024-10-11,98.4
+P494,Roberto González,62,M,No especificado,Oftalmología,2024-07-01,410.07
+P495,Juan Pérez,61,M,San Isidro,Cardiología,2024-06-04,305.11
+P496,Luis García,3,M,Jesús María,Medicina General,2024-07-06,383.92
+P497,Roberto Martínez,50,M,San Borja,Traumatología,2024-10-13,133.11
+P498,Claudia Fernández,29,F,No especificado,Pediatría,2024-07-07,132.96
+P499,Carmen Torres,15,F,Jesús María,Odontología,2024-03-21,170.08
+P500,José García,21,M,Surquillo,Medicina General,2024-05-18,79.64
+P501,Miguel Torres,29,M,Magdalena,Urología,2024-04-18,473.87
+P502,Sofía Ramírez,76,F,Lince,Odontología,2024-12-10,127.6
+P503,María García,52,F,Pueblo Libre,Dermatología,2024-11-28,334.88
+P504,Carmen López,55,F,La Molina,Medicina General,2024-12-17,459.37
+P505,Carlos Rodríguez,12,M,Jesús María,Oftalmología,2024-07-06,88.01
+P506,Juan López,83,M,Surquillo,Traumatología,2024-09-29,316.67
+P507,Ana González,40,F,San Borja,Medicina General,2024-06-08,124.42
+P508,Lucía Gómez,42,F,San Borja,Urología,2024-06-28,300.89
+P509,Rosa Gómez,62,F,Surco,Pediatría,2024-09-29,272.99
+P510,Fernando García,3,M,Magdalena,Medicina General,2024-09-09,118.79
+P511,Miguel Fernández,28,M,Miraflores,Medicina General,2024-06-29,187.63
+P512,Claudia Ramírez,16,F,Surco,Psicología,2024-12-28,336.06
+P513,Ricardo Ramírez,55,M,San Isidro,Cirugía,2024-09-26,250.06
+P514,Rosa Ramírez,55,F,Lince,Traumatología,2024-08-09,481.77
+P515,Laura Pérez,63,F,No especificado,Oftalmología,2024-07-01,450.5
+P516,Diego García,67,M,No especificado,Medicina General,2024-01-13,213.81
+P517,José López,47,M,San Isidro,Traumatología,2024-01-27,145.69
+P518,Antonio García,80,M,Barranco,Psicología,2024-08-14,336.97
+P519,Andrea Martínez,6,F,Jesús María,Pediatría,2024-12-13,483.12
+P520,Ricardo López,65,M,Lince,Traumatología,2024-03-03,429.38
+P521,Rosa García,74,F,Lince,Medicina General,2024-02-25,315.61
+P522,Miguel Pérez,12,M,Barranco,Traumatología,2024-10-05,157.41
+P523,Antonio Sánchez,68,M,Magdalena,Odontología,2024-06-11,468.02
+P524,Carlos Díaz,70,M,No especificado,Dermatología,2024-03-15,376.49
+P525,Claudia Ramírez,48,F,La Molina,Psicología,2024-10-17,343.79
+P526,Juan Pérez,27,M,La Molina,Medicina General,2024-04-30,247.48
+P527,Roberto García,36,M,Lince,Neurología,2024-03-01,248.79
+P528,Juan Rodríguez,81,M,San Borja,Medicina General,2024-08-11,289.85
+P529,José González,4,M,La Molina,Cardiología,2024-01-24,123.65
+P530,Laura Sánchez,75,F,Jesús María,Cardiología,2024-06-18,397.03
+P531,Elena Pérez,64,F,San Isidro,Odontología,2024-03-24,494.05
+P532,Roberto Torres,8,M,Jesús María,Odontología,2024-05-10,398.42
+P533,Luis Ramírez,85,M,La Molina,Cardiología,2024-09-06,462.0
+P534,Juan Torres,62,M,San Miguel,Neurología,2024-04-18,168.41
+P535,Ana Martínez,43,F,Barranco,Oftalmología,2024-02-16,425.73
+P536,Diego Torres,14,M,San Miguel,Urología,2024-11-12,238.74
+P537,Roberto Sánchez,24,M,La Molina,Dermatología,2024-06-15,419.38
+P538,Lucía Fernández,71,F,Pueblo Libre,Cardiología,2024-09-16,318.38
+P539,Carlos Torres,34,M,Magdalena,Cardiología,2024-10-19,402.5
+P540,María López,37,F,Barranco,Urología,2024-01-13,63.84
+P541,María Rodríguez,28,F,Jesús María,Neurología,2024-12-24,214.1
+P542,José Gómez,65,M,San Borja,Oftalmología,2024-04-28,271.36
+P543,Lucía Rodríguez,7,F,Pueblo Libre,Pediatría,2024-01-16,396.5
+P544,Diego Fernández,77,M,Pueblo Libre,Traumatología,2024-04-16,458.83
+P545,Fernando Díaz,8,M,San Isidro,Medicina General,2024-03-10,483.32
+P546,Carmen Pérez,73,F,San Isidro,Pediatría,2024-10-31,487.98
+P547,Pedro Sánchez,73,M,Magdalena,Medicina General,2024-12-19,117.99
+P548,Roberto Gómez,33,M,San Isidro,Medicina General,2024-01-01,204.11
+P549,Elena Fernández,57,F,Miraflores,Urología,2024-10-06,383.19
+P550,José Rodríguez,36,M,Jesús María,Cardiología,2024-08-04,419.31
+P551,Sofía Gómez,90,F,Surco,Pediatría,2024-11-07,184.15
+P552,Carmen Sánchez,86,F,Miraflores,Pediatría,2024-12-28,256.66
+P553,Carlos Sánchez,52,M,Surquillo,Odontología,2024-03-08,255.07
+P554,Elena García,82,F,Miraflores,Pediatría,2024-01-30,402.58
+P555,Laura Sánchez,71,F,San Isidro,Medicina General,2024-08-28,357.57
+P556,Javier Torres,4,M,San Borja,Odontología,2024-07-22,486.17
+P557,Claudia García,43,F,San Miguel,Urología,2024-01-25,218.2
+P558,Ricardo Pérez,52,M,San Borja,Neurología,2024-06-09,195.35
+P559,Diego Sánchez,79,M,San Borja,Cirugía,2024-11-14,256.78
+P560,Fernando Fernández,14,M,San Miguel,Traumatología,2024-02-14,240.05
+P561,Antonio Martínez,36,M,Lince,Psicología,2024-08-11,157.88
+P562,Sofía Sánchez,88,F,Magdalena,Cardiología,2024-12-22,417.49
+P563,Carlos López,36,M,Magdalena,Cirugía,2024-08-31,115.74
+P564,Luis López,21,M,Jesús María,Urología,2024-03-04,149.5
+P565,Roberto Fernández,83,M,Pueblo Libre,Neurología,2024-05-02,493.47
+P566,Carmen Pérez,30,F,San Isidro,Psicología,2024-06-24,340.09
+P567,Pedro López,54,M,La Molina,Medicina General,2024-12-23,256.91
+P568,Lucía González,60,F,Magdalena,Psicología,2024-01-02,468.48
+P569,Sofía Ramírez,61,F,No especificado,Medicina General,2024-09-30,64.89
+P570,Isabel Ramírez,82,F,No especificado,Odontología,2024-05-05,116.29
+P571,Luis Martínez,72,M,Magdalena,Pediatría,2024-11-02,290.82
+P572,Ricardo Gómez,47,M,Lince,Medicina General,2024-11-19,359.53
+P573,Andrea Ramírez,41,F,Jesús María,Cardiología,2024-04-27,404.89
+P574,Andrea Díaz,19,F,Lince,Dermatología,2024-01-10,206.51
+P575,Luis Martínez,29,M,San Miguel,Odontología,2024-01-05,471.47
+P576,Antonio Gómez,62,M,Surquillo,Neurología,2024-03-07,303.19
+P577,Javier Ramírez,9,M,San Isidro,Odontología,2024-10-07,399.0
+P578,María Sánchez,18,F,Miraflores,Cirugía,2024-02-24,337.82
+P579,Antonio Ramírez,41,M,Lince,Odontología,2024-08-24,443.02
+P580,Pedro Pérez,57,M,Magdalena,Pediatría,2024-08-23,157.27
+P581,Fernando Ramírez,63,M,Miraflores,Neurología,2024-10-15,134.09
+P582,Antonio Martínez,24,M,Jesús María,Urología,2024-04-02,477.12
+P583,Carlos Sánchez,62,M,La Molina,Medicina General,2024-02-05,248.97
+P584,Andrea Martínez,60,F,La Molina,Oftalmología,2024-02-26,135.94
+P585,Miguel González,73,M,Barranco,Traumatología,2024-04-17,419.52
+P586,Ana Sánchez,31,F,La Molina,Medicina General,2024-03-12,431.71
+P587,Carlos López,9,M,Lince,Neurología,2024-09-13,171.05
+P588,María Rodríguez,10,F,No especificado,Psicología,2024-06-20,263.1
+P589,Andrea Sánchez,2,F,San Isidro,Pediatría,2024-03-22,101.64
+P590,Javier Ramírez,1,M,Miraflores,Medicina General,2024-03-12,92.94
+P591,Rosa Pérez,33,F,Lince,Traumatología,2024-11-30,256.45
+P592,Antonio Fernández,70,M,Lince,Pediatría,2024-06-12,115.6
+P593,Elena Torres,83,F,Pueblo Libre,Ginecología,2024-11-15,449.43
+P594,Antonio García,73,M,La Molina,Cirugía,2024-10-05,295.48
+P595,Carmen Martínez,73,F,Magdalena,Urología,2024-07-17,347.68
+P596,Diego Rodríguez,88,M,Pueblo Libre,Oftalmología,2024-11-19,252.07
+P597,José López,26,M,No especificado,Odontología,2024-07-26,451.24
+P598,Ana Díaz,69,F,Lince,Pediatría,2024-12-06,337.78
+P599,Lucía Pérez,70,F,Pueblo Libre,Medicina General,2024-02-06,201.13
+P600,María Torres,53,F,Lince,Urología,2024-10-06,181.82
+P601,Rosa López,71,F,Miraflores,Traumatología,2024-08-20,476.22
+P602,Claudia Fernández,50,F,Surco,Psicología,2024-05-07,169.02
+P603,Antonio Fernández,65,M,Lince,Dermatología,2024-04-13,183.9
+P604,Pedro Sánchez,33,M,Surco,Medicina General,2024-09-26,309.64
+P605,Claudia Rodríguez,47,F,Magdalena,Psicología,2024-01-28,228.51
+P606,Carlos García,76,M,San Isidro,Dermatología,2024-08-16,62.83
+P607,Miguel Pérez,12,M,San Miguel,Oftalmología,2024-07-21,75.3
+P608,Patricia González,40,F,San Isidro,Cirugía,2024-11-06,219.57
+P609,Ricardo García,89,M,No especificado,Ginecología,2024-05-25,149.57
+P610,Carlos Fernández,85,M,Lince,Ginecología,2024-10-11,231.11
+P611,Patricia Rodríguez,77,F,Surquillo,Oftalmología,2024-02-22,319.69
+P612,Pedro Fernández,61,M,Lince,Psicología,2024-03-25,231.47
+P613,Isabel González,39,F,Magdalena,Neurología,2024-10-03,497.13
+P614,Juan García,28,M,Pueblo Libre,Cardiología,2024-04-10,329.58
+P615,Andrea Rodríguez,69,F,San Miguel,Psicología,2024-10-17,270.03
+P616,Antonio Ramírez,66,M,Lince,Odontología,2024-09-15,378.78
+P617,Pedro Ramírez,22,M,San Borja,Odontología,2024-06-17,157.83
+P618,Rosa Rodríguez,7,F,Magdalena,Medicina General,2024-10-18,498.95
+P619,Ana López,79,F,Jesús María,Medicina General,2024-01-31,193.03
+P620,Miguel Sánchez,48,M,Pueblo Libre,Cirugía,2024-04-05,154.48
+P621,Claudia Ramírez,52,F,Lince,Neurología,2024-07-30,498.77
+P622,Miguel Pérez,57,M,Miraflores,Cirugía,2024-10-04,178.27
+P623,Juan Ramírez,18,M,Surquillo,Ginecología,2024-03-16,190.32
+P624,Rosa González,26,F,Pueblo Libre,Dermatología,2024-11-29,65.6
+P625,Ricardo Torres,58,M,Surco,Ginecología,2024-10-17,50.41
+P626,Isabel López,30,F,Miraflores,Oftalmología,2024-06-23,388.75
+P627,Isabel Sánchez,69,F,Surquillo,Cardiología,2024-10-11,134.51
+P628,Isabel Martínez,78,F,Surco,Oftalmología,2024-11-30,101.89
+P629,Andrea López,9,F,Surco,Medicina General,2024-04-04,276.95
+P630,José Fernández,61,M,Miraflores,Pediatría,2024-10-04,101.28
+P631,Luis Torres,68,M,La Molina,Dermatología,2024-06-17,265.64
+P632,Isabel Díaz,64,F,San Miguel,Neurología,2024-02-18,220.9
+P633,María Ramírez,69,F,La Molina,Traumatología,2024-09-05,95.03
+P634,Carlos Pérez,24,M,Surquillo,Urología,2024-11-08,234.88
+P635,Andrea Díaz,31,F,Pueblo Libre,Cirugía,2024-04-08,210.03
+P636,Fernando Gómez,57,M,Surco,Psicología,2024-07-09,336.58
+P637,Diego Sánchez,37,M,Surquillo,Ginecología,2024-04-06,161.33
+P638,Antonio Rodríguez,7,M,Jesús María,Oftalmología,2024-03-22,268.78
+P639,Elena Gómez,87,F,No especificado,Urología,2024-10-15,428.26
+P640,Luis Pérez,86,M,Surco,Cardiología,2024-04-19,200.87
+P641,María González,31,F,Surquillo,Medicina General,2024-12-01,254.59
+P642,Ricardo Ramírez,28,M,Jesús María,Traumatología,2024-03-30,320.14
+P643,María Gómez,49,F,San Miguel,Medicina General,2024-07-07,368.94
+P644,Miguel Rodríguez,69,M,La Molina,Psicología,2024-07-15,204.41
+P645,Lucía González,59,F,La Molina,Oftalmología,2024-04-19,275.31
+P646,Luis Torres,39,M,No especificado,Ginecología,2024-05-05,153.85
+P647,Antonio Sánchez,38,M,Surquillo,Cirugía,2025-01-01,234.47
+P648,Luis Pérez,24,M,Barranco,Pediatría,2024-09-25,423.41
+P649,José Pérez,34,M,Pueblo Libre,Cardiología,2024-11-20,95.57
+P650,Rosa Torres,12,F,Lince,Traumatología,2024-05-14,420.43
+P651,José López,77,M,Lince,Urología,2024-10-17,99.77
+P652,Ana Fernández,31,F,San Borja,Dermatología,2024-12-20,161.59
+P653,Carmen Torres,90,F,San Isidro,Psicología,2024-10-06,471.65
+P654,Antonio García,85,M,Lince,Psicología,2024-01-09,252.2
+P655,Elena Martínez,66,F,San Miguel,Medicina General,2024-11-24,77.18
+P656,Elena Rodríguez,33,F,Miraflores,Odontología,2024-06-28,466.77
+P657,Ricardo Torres,55,M,Pueblo Libre,Traumatología,2024-09-13,172.16
+P658,Fernando Gómez,84,M,Surquillo,Cardiología,2024-01-10,262.88
+P659,Claudia López,24,F,No especificado,Cardiología,2024-05-27,224.48
+P660,Ricardo Gómez,22,M,San Isidro,Psicología,2024-06-06,478.67
+P661,Juan Pérez,90,M,Pueblo Libre,Oftalmología,2024-12-18,313.91
+P662,Luis Torres,59,M,San Isidro,Odontología,2024-06-05,211.58
+P663,Luis García,56,M,Surquillo,Psicología,2024-02-25,51.3
+P664,Antonio Díaz,3,M,Surquillo,Medicina General,2024-09-07,242.05
+P665,Rosa Martínez,50,F,Surco,Ginecología,2024-10-21,388.63
+P666,Miguel Torres,59,M,No especificado,Dermatología,2024-05-21,414.98
+P667,Diego González,37,M,Surco,Oftalmología,2024-12-07,329.86
+P668,Rosa López,13,F,San Borja,Medicina General,2024-08-23,426.17
+P669,Roberto Fernández,43,M,No especificado,Pediatría,2024-03-10,240.21
+P670,Elena González,60,F,San Miguel,Cirugía,2024-08-17,423.42
+P671,Rosa Ramírez,58,F,No especificado,Medicina General,2024-05-15,279.7
+P672,Isabel Fernández,2,F,San Isidro,Pediatría,2024-12-01,174.57
+P673,Rosa García,30,F,San Borja,Traumatología,2024-07-11,200.15
+P674,Antonio González,27,M,Miraflores,Dermatología,2024-05-26,111.77
+P675,Antonio Gómez,75,M,Barranco,Traumatología,2024-12-21,244.97
+P676,Carlos García,19,M,Lince,Dermatología,2024-12-03,186.9
+P677,Luis Rodríguez,74,M,San Isidro,Dermatología,2024-02-13,430.64
+P678,Laura Torres,60,F,Magdalena,Cardiología,2024-12-14,290.07
+P679,Laura González,14,F,San Isidro,Odontología,2024-05-15,490.86
+P680,Laura Pérez,51,F,Pueblo Libre,Cardiología,2024-12-18,447.4
+P681,Carlos González,69,M,Pueblo Libre,Oftalmología,2024-12-17,260.08
+P682,Carmen García,49,F,San Miguel,Medicina General,2024-07-02,211.55
+P683,Pedro Rodríguez,76,M,Jesús María,Dermatología,2024-10-15,81.96
+P684,Luis Rodríguez,47,M,La Molina,Cirugía,2024-02-18,198.35
+P685,Fernando Fernández,58,M,Surquillo,Odontología,2024-02-28,305.77
+P686,Carlos Rodríguez,46,M,Magdalena,Ginecología,2024-03-24,120.86
+P687,María Torres,60,F,Pueblo Libre,Traumatología,2024-12-13,80.22
+P688,Ricardo Gómez,10,M,Jesús María,Medicina General,2024-04-08,481.12
+P689,Rosa Torres,5,F,Magdalena,Ginecología,2024-04-11,290.8
+P690,Lucía García,40,F,Jesús María,Ginecología,2024-01-02,322.35
+P691,Carlos Rodríguez,38,M,No especificado,Cirugía,2024-01-21,100.07
+P692,Fernando García,39,M,Miraflores,Urología,2024-05-26,490.24
+P693,Carlos Fernández,40,M,San Isidro,Pediatría,2024-08-02,74.97
+P694,Carmen Gómez,52,F,Magdalena,Ginecología,2024-05-22,51.82
+P695,Javier Martínez,23,M,La Molina,Pediatría,2024-01-26,245.32
+P696,María López,24,F,San Borja,Neurología,2024-03-01,210.09
+P697,Ana Díaz,56,F,Lince,Medicina General,2024-12-21,167.1
+P698,Juan Pérez,49,M,Miraflores,Ginecología,2024-02-25,71.7
+P699,Antonio Sánchez,41,M,No especificado,Urología,2024-02-13,66.17
+P700,Roberto González,49,M,Lince,Neurología,2024-01-01,98.98
+P701,Javier González,30,M,Miraflores,Dermatología,2024-12-30,448.88
+P702,Javier Martínez,13,M,San Isidro,Cardiología,2024-07-06,301.76
+P703,Juan López,38,M,San Isidro,Urología,2024-10-31,246.6
+P704,José García,38,M,San Isidro,Psicología,2024-12-01,333.46
+P705,Ricardo Rodríguez,64,M,Barranco,Dermatología,2024-11-26,198.66
+P706,Lucía Rodríguez,74,F,San Miguel,Cirugía,2024-05-30,238.18
+P707,Roberto García,23,M,Surquillo,Urología,2024-02-16,212.19
+P708,José Sánchez,78,M,Miraflores,Urología,2024-11-18,160.36
+P709,Carlos Torres,54,M,San Borja,Medicina General,2024-01-29,125.82
+P710,Miguel Gómez,11,M,San Miguel,Medicina General,2024-12-30,457.48
+P711,Rosa González,1,F,San Borja,Ginecología,2024-11-18,98.83
+P712,José González,2,M,Surquillo,Urología,2024-03-05,244.18
+P713,Roberto López,2,M,Barranco,Cirugía,2024-09-06,185.2
+P714,Laura Ramírez,87,F,Surco,Psicología,2024-03-11,135.53
+P715,Isabel Díaz,20,F,Surco,Traumatología,2024-06-03,469.28
+P716,Sofía Fernández,24,F,San Isidro,Cirugía,2024-05-13,237.0
+P717,Lucía Fernández,35,F,Magdalena,Medicina General,2024-04-05,66.35
+P718,Roberto González,76,M,No especificado,Medicina General,2024-09-21,177.31
+P719,Rosa Sánchez,6,F,San Isidro,Cirugía,2024-04-13,167.56
+P720,María García,7,F,Pueblo Libre,Traumatología,2024-11-16,334.67
+P721,Fernando Martínez,76,M,Surquillo,Cardiología,2024-07-11,414.94
+P722,Luis Díaz,74,M,No especificado,Pediatría,2024-04-23,291.35
+P723,Carlos Sánchez,21,M,Lince,Urología,2024-12-18,323.53
+P724,Fernando Díaz,76,M,San Borja,Cirugía,2024-12-22,448.47
+P725,Andrea Pérez,7,F,Surco,Traumatología,2024-04-27,217.58
+P726,Sofía Martínez,75,F,No especificado,Dermatología,2024-11-01,251.25
+P727,Fernando Martínez,46,M,Pueblo Libre,Ginecología,2024-09-30,293.42
+P728,María Martínez,31,F,Pueblo Libre,Traumatología,2024-07-05,326.12
+P729,Ricardo Sánchez,54,M,Pueblo Libre,Medicina General,2024-09-21,132.49
+P730,Ana Díaz,48,F,Surquillo,Ginecología,2024-09-22,335.26
+P731,Rosa Torres,12,F,San Miguel,Dermatología,2024-07-25,363.19
+P732,José Fernández,56,M,Miraflores,Pediatría,2024-06-20,402.75
+P733,María López,86,F,San Miguel,Neurología,2024-10-10,98.43
+P734,Roberto Gómez,33,M,San Isidro,Dermatología,2024-01-27,488.41
+P735,Ricardo González,25,M,Pueblo Libre,Pediatría,2024-08-31,483.31
+P736,Carmen Díaz,62,F,Surco,Medicina General,2024-06-18,144.4
+P737,Rosa Torres,16,F,La Molina,Traumatología,2024-09-02,494.44
+P738,Patricia Rodríguez,39,F,San Borja,Ginecología,2024-10-03,131.48
+P739,Carmen Fernández,15,F,No especificado,Psicología,2024-11-19,156.88
+P740,Fernando Díaz,58,M,Surco,Dermatología,2024-07-04,253.06
+P741,Patricia Rodríguez,50,F,Miraflores,Cardiología,2024-09-30,58.28
+P742,Antonio Sánchez,42,M,Jesús María,Cirugía,2024-08-09,111.41
+P743,Sofía Torres,10,F,No especificado,Cirugía,2024-11-05,348.17
+P744,Fernando González,21,M,Surco,Dermatología,2024-01-24,299.07
+P745,José Martínez,89,M,Surco,Cardiología,2024-01-04,229.83
+P746,Luis Gómez,16,M,San Isidro,Odontología,2024-12-20,330.14
+P747,Roberto Martínez,75,M,Jesús María,Oftalmología,2024-12-13,320.6
+P748,Diego Sánchez,53,M,San Borja,Psicología,2024-06-21,106.02
+P749,José Ramírez,34,M,Pueblo Libre,Traumatología,2024-06-30,239.81
+P750,Isabel Torres,39,F,La Molina,Cardiología,2024-10-16,62.22
+P751,Claudia Martínez,84,F,Barranco,Urología,2024-08-19,91.11
+P752,Fernando Ramírez,9,M,Surquillo,Odontología,2024-03-17,289.26
+P753,Diego Rodríguez,71,M,Miraflores,Dermatología,2024-05-26,304.71
+P754,María Ramírez,65,F,Surco,Neurología,2024-05-05,159.61
+P755,Lucía Pérez,90,F,Jesús María,Pediatría,2024-09-17,423.33
+P756,Sofía Gómez,23,F,Miraflores,Ginecología,2024-06-21,284.83
+P757,Carlos González,89,M,Surquillo,Cirugía,2024-09-19,392.63
+P758,Elena Pérez,21,F,Miraflores,Dermatología,2024-09-18,77.26
+P759,Andrea Fernández,51,F,San Isidro,Pediatría,2024-11-27,420.27
+P760,Roberto Fernández,74,M,Barranco,Medicina General,2024-06-02,382.1
+P761,Juan Rodríguez,82,M,San Isidro,Neurología,2024-05-03,331.72
+P762,Lucía Gómez,51,F,No especificado,Traumatología,2024-04-08,307.77
+P763,Ricardo Fernández,69,M,Jesús María,Oftalmología,2024-04-22,286.54
+P764,Antonio Fernández,55,M,No especificado,Cardiología,2024-03-11,284.49
+P765,Sofía Ramírez,46,F,San Borja,Dermatología,2024-05-12,493.65
+P766,Roberto Díaz,68,M,Barranco,Cirugía,2024-04-19,405.15
+P767,Antonio Pérez,52,M,Surquillo,Oftalmología,2024-10-08,337.42
+P768,Elena García,40,F,Surquillo,Medicina General,2024-03-09,290.42
+P769,Juan Gómez,86,M,No especificado,Cardiología,2024-09-02,345.79
+P770,Rosa Gómez,65,F,Magdalena,Cirugía,2024-09-03,199.25
+P771,Diego Ramírez,85,M,Lince,Cirugía,2024-09-05,338.7
+P772,Lucía Fernández,62,F,San Miguel,Urología,2024-02-09,308.77
+P773,Isabel Gómez,33,F,Jesús María,Cardiología,2024-12-21,469.41
+P774,Javier Torres,36,M,San Borja,Medicina General,2024-10-11,259.13
+P775,Javier Díaz,85,M,Lince,Cardiología,2024-05-24,482.52
+P776,Andrea Gómez,22,F,San Borja,Ginecología,2024-02-21,143.5
+P777,Patricia Sánchez,52,F,San Borja,Neurología,2024-04-25,357.17
+P778,Juan Gómez,68,M,La Molina,Cardiología,2024-12-30,322.08
+P779,Sofía Díaz,75,F,San Miguel,Neurología,2024-07-11,153.12
+P780,Antonio Rodríguez,13,M,La Molina,Dermatología,2024-03-12,414.56
+P781,Roberto Pérez,68,M,Surquillo,Ginecología,2024-12-09,397.17
+P782,Sofía Rodríguez,59,F,Surco,Dermatología,2024-04-11,453.07
+P783,Miguel Díaz,33,M,No especificado,Dermatología,2024-12-31,257.93
+P784,José López,48,M,Barranco,Oftalmología,2024-05-16,424.0
+P785,Fernando Fernández,35,M,No especificado,Cirugía,2024-08-07,89.99
+P786,Claudia Díaz,81,F,Magdalena,Medicina General,2024-08-20,459.31
+P787,Claudia Fernández,84,F,San Isidro,Medicina General,2024-06-03,57.0
+P788,Fernando Gómez,68,M,Surco,Odontología,2024-03-13,73.81
+P789,Pedro González,54,M,Magdalena,Neurología,2024-07-06,136.53
+P790,Miguel López,13,M,No especificado,Oftalmología,2024-01-18,387.76
+P791,Rosa Díaz,16,F,Jesús María,Neurología,2024-02-15,387.37
+P792,Elena López,27,F,No especificado,Ginecología,2024-08-31,110.21
+P793,Antonio Sánchez,47,M,Barranco,Dermatología,2024-07-10,228.48
+P794,Pedro Sánchez,83,M,Surco,Medicina General,2024-12-10,200.92
+P795,Juan Martínez,60,M,Surco,Medicina General,2024-05-11,343.06
+P796,Patricia Díaz,84,F,Lince,Dermatología,2024-05-03,376.98
+P797,Fernando Ramírez,85,M,Lince,Pediatría,2024-06-22,80.94
+P798,Fernando López,77,M,Surquillo,Medicina General,2024-08-10,81.27
+P799,Carlos Díaz,36,M,Jesús María,Psicología,2024-01-12,180.43
+P800,Ricardo Gómez,85,M,No especificado,Pediatría,2024-04-14,348.61
+P801,Fernando García,73,M,Pueblo Libre,Dermatología,2024-11-18,477.56
+P802,Ricardo Fernández,5,M,San Miguel,Oftalmología,2024-01-21,219.4
+P803,Diego Fernández,83,M,San Isidro,Cardiología,2024-12-10,107.75
+P804,Lucía Gómez,56,F,San Isidro,Oftalmología,2024-09-09,123.5
+P805,Fernando García,53,M,Lince,Medicina General,2024-10-16,434.2
+P806,Ricardo Rodríguez,60,M,San Borja,Traumatología,2024-11-24,188.82
+P807,Javier Fernández,47,M,No especificado,Dermatología,2024-02-27,152.61
+P808,Diego Sánchez,87,M,No especificado,Urología,2024-07-15,334.74
+P809,Rosa García,27,F,Miraflores,Traumatología,2024-02-08,475.65
+P810,Laura Ramírez,83,F,San Borja,Medicina General,2024-05-04,187.14
+P811,Diego García,80,M,La Molina,Traumatología,2024-05-03,377.42
+P812,Ana Martínez,70,F,La Molina,Traumatología,2024-11-27,265.2
+P813,Andrea Ramírez,29,F,Pueblo Libre,Dermatología,2024-07-05,279.89
+P814,Sofía Pérez,37,F,Jesús María,Medicina General,2024-05-24,86.02
+P815,Andrea Martínez,89,F,Miraflores,Neurología,2024-06-23,479.77
+P816,Ana García,77,F,Surquillo,Dermatología,2024-05-16,440.76
+P817,Javier Martínez,30,M,No especificado,Traumatología,2024-08-31,400.76
+P818,Sofía Fernández,10,F,La Molina,Medicina General,2024-06-26,397.35
+P819,Antonio Rodríguez,25,M,Barranco,Odontología,2024-02-11,370.94
+P820,José Rodríguez,8,M,San Miguel,Urología,2024-11-11,188.41
+P821,Carlos Torres,55,M,Miraflores,Cardiología,2024-08-15,118.25
+P822,Carmen Fernández,39,F,Barranco,Medicina General,2024-12-28,59.96
+P823,Roberto Sánchez,32,M,No especificado,Dermatología,2024-07-09,363.57
+P824,Ana García,76,F,Pueblo Libre,Psicología,2024-11-06,477.38
+P825,Pedro Pérez,9,M,Lince,Psicología,2024-06-12,120.99
+P826,Andrea López,39,F,Barranco,Medicina General,2024-02-27,131.69
+P827,María Fernández,73,F,San Borja,Medicina General,2024-02-03,124.95
+P828,Pedro Díaz,29,M,Jesús María,Neurología,2024-03-25,411.12
+P829,Juan Fernández,88,M,Lince,Cardiología,2024-07-18,72.48
+P830,Ricardo García,64,M,La Molina,Medicina General,2024-01-05,228.39
+P831,Pedro Gómez,55,M,Jesús María,Medicina General,2024-02-21,199.5
+P832,Rosa Torres,90,F,San Isidro,Cirugía,2024-10-15,59.31
+P833,Lucía Martínez,20,F,Barranco,Ginecología,2024-02-05,145.52
+P834,Rosa Torres,60,F,Pueblo Libre,Dermatología,2024-10-06,488.83
+P835,Pedro González,66,M,San Isidro,Medicina General,2024-11-06,131.89
+P836,Pedro Martínez,75,M,Surco,Neurología,2024-12-31,343.06
+P837,José Rodríguez,61,M,Barranco,Traumatología,2024-04-21,116.94
+P838,Luis Pérez,24,M,Magdalena,Pediatría,2024-09-02,258.83
+P839,Ana González,79,F,Jesús María,Neurología,2024-10-16,308.03
+P840,Laura Fernández,54,F,Barranco,Medicina General,2024-05-14,85.96
+P841,Roberto Torres,6,M,Lince,Traumatología,2024-03-14,284.27
+P842,Ana Gómez,23,F,San Miguel,Neurología,2024-02-16,352.74
+P843,Ana Rodríguez,90,F,La Molina,Medicina General,2024-04-23,369.38
+P844,Miguel Sánchez,49,M,Magdalena,Dermatología,2024-05-03,273.36
+P845,Carlos Torres,20,M,Jesús María,Odontología,2024-10-13,424.58
+P846,Patricia Ramírez,22,F,San Miguel,Urología,2024-04-04,480.79
+P847,Ricardo Rodríguez,48,M,San Miguel,Pediatría,2024-04-18,117.78
+P848,Rosa Martínez,34,F,La Molina,Ginecología,2024-08-18,251.21
+P849,Isabel Rodríguez,90,F,Jesús María,Medicina General,2024-06-09,399.61
+P850,José López,49,M,San Miguel,Cardiología,2024-07-02,456.61
+P851,Laura Sánchez,84,F,La Molina,Traumatología,2024-11-20,152.93
+P852,María Gómez,79,F,Surco,Cardiología,2024-09-04,168.58
+P853,Laura García,3,F,Pueblo Libre,Psicología,2024-10-10,136.26
+P854,Sofía Sánchez,49,F,Miraflores,Cirugía,2024-09-16,95.18
+P855,Roberto Pérez,52,M,La Molina,Pediatría,2024-07-09,316.84
+P856,Antonio Ramírez,26,M,La Molina,Traumatología,2024-07-02,63.99
+P857,Fernando Martínez,77,M,No especificado,Medicina General,2024-02-22,310.88
+P858,Sofía Gómez,12,F,San Miguel,Odontología,2024-05-11,406.43
+P859,Ricardo Díaz,78,M,San Borja,Urología,2024-06-11,267.15
+P860,Carlos Torres,41,M,Surquillo,Odontología,2024-11-23,207.54
+P861,Andrea Fernández,35,F,Miraflores,Medicina General,2024-06-16,97.34
+P862,Laura González,27,F,San Borja,Psicología,2024-07-14,423.46
+P863,Diego Torres,19,M,No especificado,Psicología,2024-08-28,179.76
+P864,Antonio Ramírez,23,M,La Molina,Traumatología,2024-11-21,270.77
+P865,Carlos López,4,M,Lince,Neurología,2024-03-01,352.28
+P866,Rosa Rodríguez,69,F,Barranco,Neurología,2024-11-01,197.78
+P867,José Rodríguez,63,M,Miraflores,Medicina General,2024-10-17,439.42
+P868,Carmen López,9,F,San Miguel,Traumatología,2024-08-08,403.19
+P869,Elena González,29,F,La Molina,Oftalmología,2024-04-14,120.58
+P870,Claudia Ramírez,66,F,San Miguel,Urología,2024-07-03,93.87
+P871,Ricardo Torres,54,M,No especificado,Oftalmología,2024-03-05,252.89
+P872,Diego Pérez,22,M,No especificado,Odontología,2024-11-25,481.57
+P873,Miguel Torres,23,M,Jesús María,Traumatología,2024-12-21,207.78
+P874,Javier García,72,M,Jesús María,Psicología,2024-11-28,209.93
+P875,Fernando Pérez,14,M,Lince,Cardiología,2024-06-15,492.76
+P876,Andrea González,64,F,No especificado,Neurología,2024-11-29,161.72
+P877,Elena González,10,F,Surco,Cirugía,2024-09-09,484.7
+P878,Luis Díaz,54,M,Miraflores,Medicina General,2024-02-12,143.55
+P879,Claudia González,49,F,La Molina,Dermatología,2024-01-13,154.65
+P880,José Torres,82,M,Pueblo Libre,Traumatología,2024-12-16,294.15
+P881,Javier Torres,81,M,Surquillo,Urología,2024-10-25,184.56
+P882,Rosa Ramírez,18,F,La Molina,Psicología,2024-11-05,260.73
+P883,Rosa Fernández,63,F,Jesús María,Medicina General,2024-06-03,306.88
+P884,Carlos Gómez,77,M,Jesús María,Cirugía,2024-11-26,231.54
+P885,Carlos Torres,75,M,La Molina,Oftalmología,2024-04-02,364.87
+P886,Ana González,66,F,La Molina,Cardiología,2024-08-17,145.56
+P887,Roberto López,40,M,San Isidro,Cardiología,2024-07-25,397.15
+P888,Ricardo Ramírez,86,M,Lince,Odontología,2024-08-13,264.25
+P889,Laura Rodríguez,58,F,Magdalena,Ginecología,2024-02-19,194.11
+P890,Sofía Sánchez,16,F,Magdalena,Urología,2024-10-27,131.56
+P891,Miguel Torres,21,M,La Molina,Psicología,2024-04-07,484.61
+P892,Claudia García,44,F,Lince,Urología,2024-05-13,171.51
+P893,Roberto Gómez,2,M,Surco,Medicina General,2024-09-19,275.36
+P894,Ricardo Gómez,89,M,Barranco,Urología,2024-06-09,484.13
+P895,José Pérez,55,M,Jesús María,Pediatría,2024-08-26,106.6
+P896,María Rodríguez,74,F,Jesús María,Ginecología,2024-11-09,403.05
+P897,Luis Fernández,40,M,Jesús María,Psicología,2024-10-24,468.98
+P898,Antonio Martínez,77,M,San Isidro,Urología,2024-06-28,401.61
+P899,Pedro Torres,12,M,Jesús María,Pediatría,2024-09-03,73.14
+P900,José García,9,M,Lince,Pediatría,2024-07-19,199.88
+P901,Carlos Pérez,40,M,Lince,Odontología,2024-02-04,188.98
+P902,Ricardo Ramírez,56,M,Jesús María,Traumatología,2024-09-24,136.31
+P903,Elena Sánchez,14,F,Surco,Psicología,2024-07-05,441.72
+P904,Roberto Díaz,30,M,Surquillo,Odontología,2024-11-01,311.66
+P905,Claudia Torres,15,F,San Miguel,Urología,2024-12-17,102.87
+P906,Carmen Ramírez,17,F,La Molina,Dermatología,2024-10-21,221.66
+P907,María García,72,F,San Isidro,Oftalmología,2024-09-23,276.51
+P908,María Martínez,10,F,San Miguel,Cirugía,2024-11-14,255.21
+P909,Sofía González,83,F,Jesús María,Odontología,2024-04-24,109.57
+P910,Rosa García,63,F,Barranco,Medicina General,2024-05-23,363.83
+P911,María Ramírez,18,F,Pueblo Libre,Cardiología,2024-06-08,160.85
+P912,Isabel Ramírez,88,F,No especificado,Dermatología,2024-02-27,307.21
+P913,Elena Sánchez,9,F,Pueblo Libre,Dermatología,2024-11-13,146.21
+P914,Antonio Díaz,8,M,San Miguel,Odontología,2024-03-26,485.16
+P915,Claudia García,2,F,Jesús María,Urología,2024-11-04,454.5
+P916,Roberto Díaz,10,M,San Borja,Medicina General,2024-08-04,410.64
+P917,Claudia López,42,F,San Borja,Cirugía,2024-12-19,475.24
+P918,Patricia Pérez,62,F,Surquillo,Urología,2024-05-12,471.73
+P919,Andrea García,47,F,San Miguel,Odontología,2024-05-13,484.06
+P920,Sofía Gómez,87,F,Miraflores,Medicina General,2024-04-12,411.23
+P921,Sofía Ramírez,56,F,San Isidro,Urología,2024-09-12,489.4
+P922,Rosa Martínez,77,F,Lince,Traumatología,2024-04-21,466.22
+P923,Laura Fernández,80,F,Surquillo,Cardiología,2024-01-15,173.97
+P924,Claudia Ramírez,28,F,San Miguel,Pediatría,2024-09-26,170.09
+P925,Roberto Torres,70,M,Jesús María,Medicina General,2024-12-03,233.21
+P926,Antonio Rodríguez,6,M,No especificado,Traumatología,2024-09-23,359.91
+P927,Elena Pérez,46,F,Lince,Odontología,2024-12-28,352.78
+P928,Laura Pérez,63,F,San Miguel,Oftalmología,2024-10-28,320.79
+P929,María Pérez,53,F,Surquillo,Pediatría,2024-07-23,444.94
+P930,Andrea García,80,F,Magdalena,Cardiología,2024-08-10,486.62
+P931,Roberto Torres,16,M,Barranco,Urología,2024-01-03,312.36
+P932,Lucía Fernández,20,F,San Isidro,Ginecología,2024-07-24,96.11
+P933,Luis Torres,26,M,La Molina,Medicina General,2024-08-28,461.83
+P934,María Martínez,5,F,Barranco,Urología,2024-03-10,484.85
+P935,Carmen Rodríguez,33,F,San Borja,Traumatología,2024-04-21,492.91
+P936,Claudia Pérez,89,F,Magdalena,Cardiología,2024-12-12,454.23
+P937,Ricardo Sánchez,10,M,La Molina,Pediatría,2024-10-30,240.72
+P938,Fernando Gómez,44,M,Pueblo Libre,Urología,2024-04-25,498.97
+P939,Claudia Díaz,18,F,Lince,Traumatología,2024-01-02,161.1
+P940,Fernando Rodríguez,12,M,No especificado,Medicina General,2024-07-18,445.71
+P941,Elena Pérez,73,F,Pueblo Libre,Cirugía,2024-08-28,352.21
+P942,Antonio Sánchez,48,M,Miraflores,Urología,2024-05-10,126.52
+P943,Luis Rodríguez,71,M,San Borja,Dermatología,2024-09-23,187.27
+P944,Miguel Martínez,36,M,Surco,Oftalmología,2024-04-29,413.42
+P945,Miguel Rodríguez,28,M,San Borja,Odontología,2024-07-25,382.12
+P946,Javier Rodríguez,43,M,Lince,Traumatología,2024-07-08,242.62
+P947,Miguel Sánchez,27,M,San Borja,Pediatría,2024-03-03,290.92
+P948,Claudia Fernández,34,F,Jesús María,Cirugía,2024-08-07,381.21
+P949,Roberto García,22,M,Lince,Oftalmología,2024-01-12,361.43
+P950,Isabel Fernández,71,F,Lince,Medicina General,2024-03-07,466.94
+P951,Fernando González,73,M,San Borja,Psicología,2024-07-23,106.73
+P952,Carlos Rodríguez,61,M,Miraflores,Medicina General,2024-05-03,116.57
+P953,María Torres,14,F,Surquillo,Traumatología,2024-08-24,168.46
+P954,Sofía Torres,41,F,Pueblo Libre,Ginecología,2024-03-25,61.04
+P955,Elena Pérez,2,F,Lince,Traumatología,2024-02-24,444.87
+P956,Roberto Martínez,11,M,Pueblo Libre,Traumatología,2024-07-09,97.65
+P957,Javier García,7,M,Jesús María,Pediatría,2024-11-21,72.38
+P958,José González,62,M,Surco,Odontología,2024-01-02,142.37
+P959,Sofía González,36,F,Lince,Psicología,2024-09-30,428.53
+P960,Ana López,18,F,San Isidro,Dermatología,2024-07-10,431.32
+P961,Ana García,26,F,Lince,Odontología,2024-12-26,420.32
+P962,Claudia Fernández,23,F,Lince,Oftalmología,2024-07-16,215.41
+P963,Juan Ramírez,18,M,Miraflores,Medicina General,2024-07-06,287.47
+P964,Pedro Ramírez,56,M,La Molina,Pediatría,2024-09-16,484.69
+P965,Claudia Fernández,45,F,San Borja,Psicología,2024-12-06,340.65
+P966,José Martínez,77,M,San Miguel,Medicina General,2024-09-17,330.34
+P967,José Ramírez,48,M,La Molina,Neurología,2024-08-04,270.03
+P968,Ana Fernández,23,F,San Isidro,Cirugía,2024-04-09,142.84
+P969,Carmen García,35,F,No especificado,Neurología,2024-04-23,98.32
+P970,Luis Torres,5,M,Magdalena,Traumatología,2024-02-09,139.42
+P971,Andrea García,81,F,La Molina,Ginecología,2024-05-09,324.66
+P972,Claudia Sánchez,24,F,San Borja,Oftalmología,2024-06-26,430.19
+P973,Carmen García,50,F,Surquillo,Ginecología,2024-11-30,268.84
+P974,Patricia Gómez,22,F,Surquillo,Medicina General,2024-04-02,396.51
+P975,Claudia González,51,F,La Molina,Dermatología,2024-04-21,63.76
+P976,Elena González,31,F,San Isidro,Medicina General,2024-06-27,457.59
+P977,Elena Díaz,83,F,La Molina,Urología,2024-09-16,113.06
+P978,María Gómez,21,F,No especificado,Medicina General,2024-05-24,265.43
+P979,Andrea Fernández,89,F,San Miguel,Medicina General,2024-03-16,386.49
+P980,Javier Fernández,85,M,Barranco,Odontología,2024-03-28,206.24
+P981,Carlos Torres,18,M,Pueblo Libre,Oftalmología,2024-02-11,202.63
+P982,Diego Rodríguez,85,M,San Miguel,Ginecología,2024-04-18,209.62
+P983,Antonio Rodríguez,81,M,Magdalena,Ginecología,2024-12-12,123.59
+P984,Lucía Sánchez,55,F,Lince,Odontología,2024-07-30,297.04
+P985,Pedro Díaz,51,M,Pueblo Libre,Dermatología,2024-12-12,174.4
+P986,Elena Torres,49,F,San Isidro,Neurología,2024-07-24,133.8
+P987,Fernando Ramírez,85,M,Pueblo Libre,Ginecología,2024-08-01,219.73
+P988,José Pérez,27,M,Pueblo Libre,Traumatología,2024-11-07,313.4
+P989,Andrea Torres,22,F,Lince,Medicina General,2024-07-15,352.58
+P990,Patricia Ramírez,62,F,No especificado,Odontología,2024-01-15,107.28
+P991,Laura Díaz,21,F,Barranco,Dermatología,2024-05-19,410.48
+P992,Miguel Sánchez,86,M,La Molina,Urología,2024-08-16,417.01
+P993,Rosa García,24,F,San Isidro,Ginecología,2024-02-28,390.52
+P994,Fernando González,5,M,Surquillo,Dermatología,2024-04-17,432.14
+P995,María Ramírez,3,F,La Molina,Cirugía,2024-10-27,155.3
+P996,Ana Gómez,24,F,Surquillo,Urología,2024-12-30,316.6
+P997,Carlos González,4,M,San Miguel,Urología,2024-01-18,133.76
+P998,Isabel García,25,F,San Isidro,Cardiología,2024-04-02,369.06
+P999,Sofía Díaz,49,F,No especificado,Neurología,2024-03-20,159.58
+P1000,Javier Rodríguez,4,M,Barranco,Cardiología,2024-06-24,299.48
+P1001,Isabel Pérez,65,F,Surquillo,Pediatría,2024-08-16,327.21
+P1002,Antonio Sánchez,10,M,Surco,Dermatología,2024-10-23,297.51
+P1003,Rosa Martínez,23,F,Miraflores,Pediatría,2024-02-09,325.61
+P1004,José Gómez,57,M,Barranco,Dermatología,2024-04-27,138.3
+P1005,Sofía Ramírez,21,F,Magdalena,Traumatología,2024-01-06,238.77
+P1006,Isabel Pérez,1,F,Jesús María,Medicina General,2024-01-08,459.31
+P1007,Javier Díaz,59,M,Surquillo,Oftalmología,2024-07-23,485.69
+P1008,Ana Ramírez,9,F,Lince,Ginecología,2024-08-13,442.36
+P1009,Antonio García,47,M,Magdalena,Psicología,2024-04-12,428.36
+P1010,Carlos Gómez,71,M,San Miguel,Neurología,2024-10-03,170.43
+P1011,Fernando Ramírez,70,M,San Miguel,Odontología,2024-03-22,228.33
+P1012,Laura Pérez,7,F,San Borja,Urología,2024-06-10,231.95
+P1013,Roberto Pérez,57,M,Surquillo,Urología,2024-02-12,94.32
+P1014,Isabel Ramírez,8,F,Surquillo,Medicina General,2024-08-13,463.66
+P1015,Patricia Díaz,61,F,Jesús María,Traumatología,2024-12-06,211.86
+P1016,Ana Ramírez,61,F,San Borja,Medicina General,2024-09-15,411.08
+P1017,Andrea Díaz,80,F,Magdalena,Odontología,2024-08-22,385.51
+P1018,José Pérez,43,M,La Molina,Cirugía,2024-06-13,363.25
+P1019,Isabel Gómez,10,F,Surco,Odontología,2024-08-30,222.02
+P1020,Carlos Ramírez,84,M,Surquillo,Urología,2024-10-31,321.61
+P1021,Fernando Ramírez,41,M,Jesús María,Medicina General,2024-09-01,476.13
+P1022,Fernando Pérez,63,M,San Borja,Cardiología,2024-05-23,113.61
+P1023,Ana García,67,F,No especificado,Medicina General,2024-05-10,145.2
+P1024,Juan Ramírez,49,M,Lince,Dermatología,2024-07-04,336.5
+P1025,Diego González,36,M,San Miguel,Psicología,2024-11-30,144.33
+P1026,José Gómez,75,M,San Borja,Cardiología,2024-03-03,325.77
+P1027,Fernando Torres,62,M,Lince,Cirugía,2024-10-06,123.91
+P1028,Roberto Sánchez,81,M,Lince,Ginecología,2024-04-01,486.43
+P1029,Lucía Sánchez,70,F,Magdalena,Odontología,2024-08-22,374.67
+P1030,José Ramírez,3,M,Surco,Urología,2024-01-31,389.21
+P1031,Miguel Rodríguez,15,M,San Miguel,Dermatología,2024-06-07,432.91
+P1032,José González,50,M,La Molina,Psicología,2024-11-22,343.49
+P1033,Antonio Torres,53,M,Pueblo Libre,Oftalmología,2024-03-24,96.13
+P1034,Miguel López,13,M,Surquillo,Medicina General,2024-07-15,484.89
+P1035,Pedro Rodríguez,13,M,Barranco,Odontología,2024-06-03,195.32
+P1036,Miguel Fernández,85,M,Barranco,Dermatología,2024-12-21,272.25
+P1037,Carmen Gómez,83,F,Lince,Oftalmología,2024-09-06,178.27
+P1038,Antonio Fernández,85,M,Miraflores,Odontología,2024-01-19,176.91
+P1039,Claudia Martínez,35,F,Pueblo Libre,Ginecología,2024-02-19,320.33
+P1040,Sofía Sánchez,16,F,San Miguel,Cardiología,2024-05-15,444.76
+P1041,Miguel Díaz,1,M,No especificado,Dermatología,2024-05-12,164.57
+P1042,Roberto López,71,M,Jesús María,Traumatología,2024-10-12,296.08
+P1043,Carlos Fernández,5,M,No especificado,Urología,2024-04-02,202.91
+P1044,Sofía Rodríguez,27,F,Surquillo,Psicología,2024-01-22,246.96
+P1045,Andrea Pérez,74,F,Jesús María,Psicología,2024-12-01,418.48
+P1046,Isabel Fernández,29,F,Miraflores,Cirugía,2024-03-24,269.87
+P1047,Rosa Rodríguez,3,F,Magdalena,Cirugía,2024-01-07,93.44
+P1048,Luis Sánchez,85,M,Surquillo,Psicología,2024-02-28,430.88
+P1049,Carlos López,68,M,Surco,Psicología,2024-03-27,456.55
+P1050,Fernando Sánchez,69,M,Pueblo Libre,Neurología,2024-07-09,341.09
+P1051,José Rodríguez,51,M,Surco,Cardiología,2024-12-16,260.7
+P1052,Lucía Martínez,82,F,Surquillo,Dermatología,2024-08-16,128.04
+P1053,María López,19,F,San Isidro,Traumatología,2024-12-20,372.87
+P1054,Ana García,68,F,Surquillo,Medicina General,2024-09-25,161.71
+P1055,Ricardo Pérez,86,M,La Molina,Cardiología,2024-03-27,327.2
+P1056,Laura Ramírez,61,F,Magdalena,Medicina General,2024-09-30,459.49
+P1057,Pedro López,40,M,Barranco,Psicología,2024-12-09,276.11
+P1058,Ricardo González,89,M,Barranco,Neurología,2024-07-20,462.43
+P1059,Pedro García,74,M,San Isidro,Ginecología,2024-03-04,300.19
+P1060,Javier López,20,M,Surquillo,Psicología,2024-01-27,181.2
+P1061,Elena Ramírez,71,F,San Borja,Cirugía,2024-08-21,192.94
+P1062,Luis González,29,M,No especificado,Ginecología,2024-06-22,350.07
+P1063,Lucía Martínez,19,F,San Borja,Odontología,2024-03-01,468.76
+P1064,Roberto Fernández,18,M,San Miguel,Neurología,2024-01-04,376.12
+P1065,Claudia Díaz,45,F,Jesús María,Neurología,2024-11-06,453.47
+P1066,Isabel Sánchez,18,F,Miraflores,Dermatología,2024-02-28,55.17
+P1067,Sofía Pérez,6,F,San Borja,Ginecología,2024-06-21,443.19
+P1068,Elena Díaz,89,F,Pueblo Libre,Ginecología,2024-09-08,194.28
+P1069,Juan Torres,70,M,Lince,Oftalmología,2024-08-14,260.37
+P1070,Ana Torres,56,F,San Miguel,Dermatología,2024-03-13,352.14
+P1071,Diego Ramírez,17,M,Jesús María,Medicina General,2024-01-10,70.68
+P1072,Claudia Martínez,49,F,Magdalena,Medicina General,2024-11-03,251.32
+P1073,Ana Sánchez,47,F,San Borja,Ginecología,2024-06-16,294.66
+P1074,Isabel García,77,F,San Isidro,Medicina General,2024-10-18,131.3
+P1075,Andrea Sánchez,67,F,San Miguel,Medicina General,2024-09-22,424.64
+P1076,Antonio Sánchez,43,M,La Molina,Odontología,2024-08-10,133.19
+P1077,Carmen García,23,F,Jesús María,Dermatología,2024-06-21,97.2
+P1078,María Fernández,80,F,Surquillo,Dermatología,2024-11-05,166.98
+P1079,Ana Ramírez,66,F,La Molina,Dermatología,2024-07-28,165.45
+P1080,Carlos García,68,M,Barranco,Dermatología,2024-01-24,294.85
+P1081,Luis Gómez,3,M,No especificado,Psicología,2024-04-20,382.38
+P1082,Pedro Pérez,12,M,Magdalena,Oftalmología,2024-04-24,404.8
+P1083,Juan Sánchez,1,M,San Borja,Urología,2024-11-05,446.98
+P1084,Luis Fernández,8,M,Miraflores,Cirugía,2024-02-06,107.04
+P1085,Ricardo Torres,11,M,Pueblo Libre,Ginecología,2024-12-26,399.86
+P1086,Luis García,89,M,Miraflores,Dermatología,2024-02-26,152.87
+P1087,Carlos Martínez,10,M,No especificado,Cardiología,2024-03-23,371.95
+P1088,José Martínez,88,M,Jesús María,Medicina General,2024-01-04,302.03
+P1089,José Gómez,22,M,Surquillo,Medicina General,2024-03-16,130.92
+P1090,Lucía Sánchez,19,F,La Molina,Pediatría,2024-01-25,475.25
+P1091,Ana García,90,F,Jesús María,Pediatría,2024-08-02,421.06
+P1092,Lucía Torres,31,F,San Borja,Medicina General,2024-11-27,343.84
+P1093,Juan Torres,45,M,San Isidro,Oftalmología,2024-08-08,54.77
+P1094,José López,68,M,Lince,Neurología,2024-10-04,398.72
+P1095,Laura Martínez,59,F,San Miguel,Neurología,2024-11-20,129.63
+P1096,Antonio Ramírez,85,M,Miraflores,Dermatología,2024-03-03,435.47
+P1097,Rosa Sánchez,56,F,Surquillo,Medicina General,2024-12-02,234.18
+P1098,Juan Rodríguez,49,M,Jesús María,Ginecología,2024-04-17,474.58
+P1099,Sofía Martínez,25,F,Surquillo,Cardiología,2024-12-04,406.66
+P1100,Lucía Gómez,4,F,La Molina,Cirugía,2024-09-14,177.34
+P1101,Elena Rodríguez,82,F,Surco,Traumatología,2024-06-07,395.5
+P1102,Miguel Martínez,84,M,Miraflores,Oftalmología,2024-06-01,307.01
+P1103,Luis Martínez,77,M,No especificado,Odontología,2024-09-15,108.05
+P1104,Carmen Sánchez,26,F,No especificado,Psicología,2024-11-22,78.02
+P1105,Ricardo Pérez,84,M,Surco,Psicología,2024-06-23,211.66
+P1106,Isabel Sánchez,5,F,San Borja,Neurología,2024-07-15,163.1
+P1107,Roberto Pérez,25,M,La Molina,Medicina General,2024-05-11,401.87
+P1108,Isabel Gómez,31,F,Barranco,Cirugía,2024-06-26,57.92
+P1109,Diego Rodríguez,61,M,San Miguel,Traumatología,2024-11-26,278.83
+P1110,Claudia García,89,F,Miraflores,Psicología,2024-04-12,232.99
+P1111,Juan Díaz,42,M,La Molina,Oftalmología,2024-05-28,490.82
+P1112,María Ramírez,13,F,Surquillo,Traumatología,2024-09-16,496.97
+P1113,Diego Gómez,52,M,San Isidro,Ginecología,2024-08-31,275.81
+P1114,Patricia Martínez,58,F,No especificado,Ginecología,2024-04-11,410.47
+P1115,Diego Gómez,22,M,San Borja,Medicina General,2024-05-29,484.29
+P1116,Miguel Torres,33,M,Surquillo,Dermatología,2024-03-09,370.63
+P1117,Pedro González,82,M,Magdalena,Odontología,2024-08-13,201.12
+P1118,José López,11,M,Pueblo Libre,Medicina General,2024-06-26,255.81
+P1119,Patricia Sánchez,82,F,Surco,Medicina General,2024-09-05,192.88
+P1120,María Sánchez,21,F,Miraflores,Medicina General,2024-02-15,365.05
+P1121,Pedro Fernández,88,M,La Molina,Medicina General,2024-02-23,432.63
+P1122,Pedro Rodríguez,30,M,Pueblo Libre,Traumatología,2024-11-03,396.41
+P1123,Isabel Pérez,15,F,Pueblo Libre,Urología,2024-02-06,150.45
+P1124,Rosa Fernández,44,F,La Molina,Odontología,2024-08-08,334.61
+P1125,Andrea Pérez,71,F,Jesús María,Medicina General,2024-04-20,118.77
+P1126,Isabel Ramírez,65,F,Barranco,Medicina General,2024-11-28,256.97
+P1127,Juan García,90,M,Surco,Neurología,2024-08-14,254.78
+P1128,Andrea Sánchez,39,F,Surquillo,Medicina General,2024-05-30,50.89
+P1129,Antonio Martínez,31,M,No especificado,Traumatología,2024-07-29,391.75
+P1130,Javier Fernández,32,M,Barranco,Pediatría,2024-08-28,144.68
+P1131,Pedro Díaz,50,M,Barranco,Psicología,2024-09-17,113.89
+P1132,Roberto Sánchez,76,M,Surquillo,Pediatría,2024-03-04,455.57
+P1133,Rosa Sánchez,4,F,Surco,Urología,2024-12-26,423.85
+P1134,Antonio Ramírez,31,M,San Borja,Medicina General,2024-08-12,406.24
+P1135,Diego Martínez,81,M,Magdalena,Medicina General,2024-03-01,485.18
+P1136,Pedro Gómez,67,M,Miraflores,Psicología,2024-04-07,374.57
+P1137,Pedro Pérez,54,M,Pueblo Libre,Medicina General,2024-09-18,97.12
+P1138,Luis Ramírez,73,M,Magdalena,Ginecología,2024-06-14,288.74
+P1139,Ana López,24,F,Jesús María,Dermatología,2024-02-22,120.45
+P1140,Isabel Fernández,61,F,Barranco,Odontología,2024-11-10,122.21
+P1141,Juan González,34,M,San Miguel,Neurología,2024-05-26,306.67
+P1142,Claudia Rodríguez,72,F,San Borja,Medicina General,2024-03-23,212.99
+P1143,Luis López,29,M,La Molina,Cirugía,2024-11-02,230.58
+P1144,Pedro Pérez,19,M,La Molina,Dermatología,2024-03-07,413.09
+P1145,Miguel Rodríguez,67,M,Surco,Medicina General,2024-01-28,441.53
+P1146,Elena García,64,F,San Borja,Medicina General,2024-01-31,243.4
+P1147,María Fernández,15,F,Jesús María,Medicina General,2024-12-26,282.78
+P1148,Laura Martínez,54,F,Miraflores,Oftalmología,2024-11-13,268.2
+P1149,Roberto Díaz,59,M,Lince,Pediatría,2024-09-21,263.9
+P1150,Miguel Díaz,38,M,No especificado,Pediatría,2024-10-02,272.62
+P1151,Roberto González,3,M,San Isidro,Pediatría,2024-10-26,100.61
+P1152,Ana López,80,F,Surquillo,Psicología,2024-07-03,391.27
+P1153,Laura Gómez,8,F,Jesús María,Oftalmología,2024-09-24,240.87
+P1154,Claudia Pérez,31,F,Jesús María,Medicina General,2024-06-13,104.79
+P1155,Juan Gómez,78,M,San Miguel,Oftalmología,2024-07-23,50.17
+P1156,Patricia Gómez,67,F,Pueblo Libre,Odontología,2024-03-02,416.34
+P1157,Carmen Díaz,30,F,Jesús María,Urología,2024-08-07,245.25
+P1158,María Torres,39,F,Lince,Medicina General,2024-01-30,92.93
+P1159,Ricardo López,71,M,San Isidro,Traumatología,2024-03-09,80.92
+P1160,Sofía Rodríguez,8,F,Surquillo,Urología,2024-05-30,480.03
+P1161,Miguel Martínez,61,M,San Miguel,Dermatología,2024-07-15,138.02
+P1162,Javier Martínez,57,M,Barranco,Cardiología,2024-08-16,309.07
+P1163,María Pérez,53,F,Pueblo Libre,Pediatría,2024-11-25,494.02
+P1164,María Rodríguez,35,F,No especificado,Oftalmología,2024-06-11,121.69
+P1165,Luis Torres,28,M,Miraflores,Medicina General,2024-01-28,280.09
+P1166,José García,31,M,Lince,Neurología,2024-12-26,275.77
+P1167,Carlos Pérez,32,M,Magdalena,Cirugía,2024-05-31,111.97
+P1168,Antonio Ramírez,68,M,Lince,Odontología,2024-10-29,474.14
+P1169,Carmen Martínez,75,F,Jesús María,Ginecología,2024-07-27,406.67
+P1170,Isabel Gómez,36,F,La Molina,Neurología,2024-12-31,64.62
+P1171,Lucía Fernández,47,F,No especificado,Dermatología,2024-05-24,111.41
+P1172,Patricia Torres,70,F,San Borja,Odontología,2024-03-03,254.6
+P1173,Isabel Pérez,35,F,Surco,Oftalmología,2024-12-29,98.08
+P1174,Luis Rodríguez,17,M,Surquillo,Ginecología,2024-03-07,118.21
+P1175,Ana Fernández,13,F,Surco,Cirugía,2024-09-27,353.8
+P1176,Carmen Gómez,3,F,Lince,Pediatría,2024-01-21,383.25
+P1177,Ricardo García,86,M,San Miguel,Oftalmología,2024-06-03,399.59
+P1178,María Torres,34,F,Barranco,Urología,2024-11-12,80.53
+P1179,Antonio Ramírez,13,M,Jesús María,Neurología,2024-09-23,270.49
+P1180,Javier Rodríguez,84,M,Lince,Oftalmología,2024-06-20,356.62
+P1181,Javier Díaz,67,M,Barranco,Traumatología,2024-01-09,333.17
+P1182,Ricardo Díaz,23,M,San Miguel,Cirugía,2024-09-23,407.75
+P1183,Juan González,38,M,Jesús María,Psicología,2024-02-16,117.11
+P1184,María Torres,71,F,Lince,Pediatría,2024-06-22,58.49
+P1185,Laura Sánchez,3,F,Surco,Dermatología,2024-06-17,378.95
+P1186,Miguel Fernández,39,M,La Molina,Oftalmología,2024-03-13,442.85
+P1187,Carmen Ramírez,88,F,No especificado,Oftalmología,2024-05-25,180.89
+P1188,Laura Pérez,56,F,Miraflores,Cardiología,2024-01-04,166.78
+P1189,Luis Pérez,3,M,La Molina,Cirugía,2024-06-17,303.96
+P1190,Isabel López,33,F,Magdalena,Neurología,2024-02-26,498.85
+P1191,Antonio López,36,M,No especificado,Neurología,2024-12-22,481.85
+P1192,Laura López,13,F,San Miguel,Cirugía,2024-06-07,334.11
+P1193,Pedro López,27,M,Surquillo,Pediatría,2024-07-28,159.19
+P1194,Javier López,4,M,Surquillo,Cirugía,2024-07-21,296.67
+P1195,Javier Pérez,49,M,Pueblo Libre,Traumatología,2024-07-02,136.93
+P1196,Juan Ramírez,81,M,Surco,Odontología,2024-09-15,471.6
+P1197,Juan Díaz,81,M,Surco,Neurología,2024-03-25,95.56
+P1198,Ricardo Pérez,68,M,Lince,Pediatría,2024-01-08,311.06
+P1199,Rosa Ramírez,43,F,Magdalena,Medicina General,2024-02-25,197.34
+P1200,Lucía Martínez,48,F,San Isidro,Oftalmología,2024-08-30,273.19
+P1201,Elena López,40,F,Barranco,Dermatología,2024-07-17,460.41
+P1202,Fernando Díaz,85,M,Surquillo,Urología,2024-05-28,220.78
+P1203,Luis Sánchez,30,M,Jesús María,Neurología,2024-08-16,493.12
+P1204,Roberto García,27,M,San Borja,Medicina General,2024-01-22,345.39
+P1205,Laura González,79,F,Magdalena,Psicología,2024-11-01,463.16
+P1206,Roberto Sánchez,40,M,Surco,Pediatría,2024-04-18,181.89
+P1207,Javier Sánchez,86,M,Miraflores,Psicología,2024-05-11,243.71
+P1208,Juan Díaz,23,M,Surquillo,Urología,2024-02-08,304.0
+P1209,Sofía Díaz,15,F,La Molina,Oftalmología,2024-03-07,143.18
+P1210,Patricia Rodríguez,16,F,San Isidro,Pediatría,2024-11-18,200.69
+P1211,Antonio Fernández,83,M,No especificado,Cirugía,2024-03-04,62.85
+P1212,Ana Pérez,73,F,San Isidro,Dermatología,2024-09-10,94.63
+P1213,Carlos García,23,M,Magdalena,Medicina General,2024-06-07,166.15
+P1214,Sofía Ramírez,85,F,Lince,Neurología,2024-11-09,119.2
+P1215,Lucía Díaz,52,F,La Molina,Traumatología,2024-07-27,331.03
+P1216,Diego Torres,78,M,Lince,Oftalmología,2024-05-29,485.27
+P1217,Elena García,87,F,Miraflores,Oftalmología,2024-07-10,223.8
+P1218,Miguel García,78,M,La Molina,Neurología,2024-11-11,118.38
+P1219,Isabel García,73,F,La Molina,Psicología,2024-03-28,169.63
+P1220,Ana Pérez,68,F,Pueblo Libre,Neurología,2024-09-26,382.47
+P1221,Carmen López,52,F,No especificado,Cirugía,2024-07-22,169.87
+P1222,Andrea González,88,F,Barranco,Psicología,2024-10-02,297.95
+P1223,Elena Gómez,68,F,Pueblo Libre,Dermatología,2024-01-12,450.35
+P1224,José Díaz,71,M,Pueblo Libre,Neurología,2024-07-02,358.95
+P1225,Andrea Gómez,56,F,Surco,Ginecología,2024-12-29,309.39
+P1226,Laura Ramírez,84,F,Magdalena,Cardiología,2024-05-20,86.58
+P1227,Lucía Díaz,6,F,Barranco,Urología,2024-09-26,239.9
+P1228,Claudia Sánchez,62,F,La Molina,Odontología,2024-11-27,191.09
+P1229,Ana Díaz,15,F,San Isidro,Odontología,2024-11-19,238.54
+P1230,Laura González,65,F,La Molina,Traumatología,2024-07-03,213.9
+P1231,Patricia Torres,86,F,San Miguel,Neurología,2024-02-25,93.0
+P1232,Patricia Martínez,85,F,Lince,Cardiología,2024-08-09,310.54
+P1233,Claudia García,4,F,La Molina,Oftalmología,2024-10-30,220.48
+P1234,Roberto Sánchez,27,M,San Borja,Odontología,2024-04-07,177.75
+P1235,Laura Fernández,48,F,San Isidro,Medicina General,2024-04-21,274.21
+P1236,María García,41,F,Lince,Cardiología,2024-08-30,307.76
+P1237,Lucía Díaz,85,F,Miraflores,Oftalmología,2024-10-16,181.56
+P1238,Pedro Pérez,60,M,Lince,Neurología,2024-03-12,370.13
+P1239,Sofía Díaz,60,F,Surco,Odontología,2024-11-21,478.89
+P1240,Laura García,53,F,San Borja,Medicina General,2024-07-26,297.26
+P1241,Miguel Gómez,19,M,Surquillo,Cirugía,2024-03-15,424.45
+P1242,Carmen Gómez,1,F,Magdalena,Neurología,2024-07-31,445.93
+P1243,Laura Rodríguez,3,F,No especificado,Ginecología,2024-08-03,144.82
+P1244,Ricardo Torres,66,M,La Molina,Oftalmología,2024-04-10,376.31
+P1245,Rosa Ramírez,22,F,San Isidro,Cirugía,2024-08-01,139.49
+P1246,Lucía Sánchez,10,F,San Isidro,Cardiología,2024-09-07,364.08
+P1247,Isabel Fernández,44,F,San Isidro,Medicina General,2024-03-20,370.54
+P1248,Carmen Díaz,58,F,Miraflores,Ginecología,2024-04-26,300.99
+P1249,Lucía López,62,F,Lince,Medicina General,2024-04-09,361.18
+P1250,Juan García,2,M,Barranco,Medicina General,2024-06-18,70.41
+P1251,Elena García,21,F,Pueblo Libre,Dermatología,2024-10-21,295.84
+P1252,Javier Gómez,19,M,Surco,Ginecología,2024-04-22,134.53
+P1253,Lucía Ramírez,26,F,San Isidro,Psicología,2024-12-04,271.43
+P1254,Roberto García,75,M,Miraflores,Psicología,2024-02-24,146.95
+P1255,Rosa Fernández,2,F,San Miguel,Psicología,2024-12-19,327.31
+P1256,Patricia López,64,F,No especificado,Urología,2024-07-20,288.52
+P1257,Elena Díaz,51,F,La Molina,Cirugía,2024-12-22,440.63
+P1258,Lucía Díaz,70,F,Magdalena,Neurología,2024-09-19,349.57
+P1259,Andrea Torres,33,F,Pueblo Libre,Ginecología,2024-04-04,301.22
+P1260,Luis Ramírez,61,M,Miraflores,Ginecología,2024-07-24,67.07
+P1261,Diego Fernández,58,M,Jesús María,Medicina General,2024-11-01,59.39
+P1262,Ricardo García,18,M,Pueblo Libre,Ginecología,2024-12-19,146.76
+P1263,Luis González,68,M,Miraflores,Medicina General,2024-09-13,494.24
+P1264,Lucía Torres,87,F,Surco,Cardiología,2024-08-29,82.09
+P1265,Carmen González,70,F,Barranco,Urología,2024-04-01,436.19
+P1266,Luis López,83,M,San Borja,Dermatología,2024-05-27,201.54
+P1267,Antonio Torres,31,M,La Molina,Cirugía,2024-03-20,334.51
+P1268,Diego Martínez,69,M,Barranco,Oftalmología,2024-06-14,442.37
+P1269,Pedro Fernández,63,M,Jesús María,Odontología,2024-01-31,253.89
+P1270,Patricia Gómez,30,F,Barranco,Neurología,2024-08-11,120.18
+P1271,Isabel Gómez,23,F,Pueblo Libre,Urología,2024-11-21,444.71
+P1272,Fernando Fernández,17,M,No especificado,Odontología,2024-09-25,387.67
+P1273,Pedro Díaz,86,M,Barranco,Traumatología,2024-06-12,65.37
+P1274,José Rodríguez,72,M,San Isidro,Pediatría,2024-01-02,261.07
+P1275,Carmen López,19,F,No especificado,Oftalmología,2024-12-28,143.15
+P1276,Roberto Pérez,81,M,Lince,Oftalmología,2024-04-22,251.18
+P1277,Rosa Sánchez,18,F,San Isidro,Neurología,2024-02-16,471.88
+P1278,Antonio Díaz,46,M,San Isidro,Psicología,2024-11-16,94.96
+P1279,Luis Ramírez,84,M,Magdalena,Oftalmología,2024-08-08,90.66
+P1280,Roberto Gómez,63,M,No especificado,Cardiología,2024-09-17,487.52
+P1281,Lucía Díaz,1,F,No especificado,Cirugía,2024-06-26,225.77
+P1282,María López,20,F,San Miguel,Cirugía,2024-07-16,161.77
+P1283,Sofía García,56,F,Lince,Psicología,2024-12-28,56.81
+P1284,Laura Fernández,71,F,Miraflores,Medicina General,2024-02-23,78.25
+P1285,Juan Ramírez,69,M,Surquillo,Dermatología,2024-04-22,461.26
+P1286,Roberto Pérez,38,M,No especificado,Ginecología,2024-07-31,307.93
+P1287,Ricardo Pérez,9,M,Barranco,Psicología,2024-11-17,137.45
+P1288,Juan Gómez,65,M,Barranco,Urología,2024-04-11,273.89
+P1289,Javier Martínez,43,M,Lince,Traumatología,2024-08-16,221.58
+P1290,Diego Fernández,63,M,Surquillo,Cardiología,2024-04-16,105.02
+P1291,Andrea López,86,F,Magdalena,Cardiología,2024-12-23,260.18
+P1292,Sofía Rodríguez,17,F,San Borja,Pediatría,2024-08-29,154.95
+P1293,Claudia Rodríguez,17,F,San Borja,Oftalmología,2024-01-31,350.17
+P1294,Antonio Gómez,46,M,Surquillo,Oftalmología,2024-01-19,322.57
+P1295,Juan Gómez,74,M,Magdalena,Medicina General,2024-09-04,367.74
+P1296,Sofía Díaz,30,F,Miraflores,Cirugía,2024-10-24,84.37
+P1297,Fernando Fernández,60,M,La Molina,Medicina General,2024-06-05,241.53
+P1298,Carmen Ramírez,73,F,Jesús María,Neurología,2024-06-10,406.41
+P1299,Antonio Sánchez,75,M,Surco,Medicina General,2024-11-24,314.45
+P1300,Andrea González,5,F,Surco,Ginecología,2024-02-16,399.23
+P1301,Carmen Rodríguez,25,F,Jesús María,Oftalmología,2024-03-23,75.35
+P1302,José Pérez,75,M,Jesús María,Dermatología,2024-04-25,79.49
+P1303,Claudia López,57,F,San Borja,Cirugía,2024-03-20,247.88
+P1304,Claudia Torres,67,F,Miraflores,Neurología,2024-12-16,262.61
+P1305,Elena Ramírez,84,F,Jesús María,Pediatría,2024-03-24,53.51
+P1306,Laura García,33,F,La Molina,Psicología,2024-01-20,115.13
+P1307,Miguel Sánchez,18,M,Surquillo,Medicina General,2024-05-07,499.57
+P1308,María Díaz,38,F,Miraflores,Traumatología,2024-09-01,478.97
+P1309,Andrea Gómez,74,F,Jesús María,Odontología,2024-01-05,217.69
+P1310,Javier González,63,M,Surco,Odontología,2024-11-28,445.35
+P1311,Carlos Martínez,86,M,Pueblo Libre,Medicina General,2024-09-20,338.55
+P1312,Lucía Torres,64,F,Jesús María,Odontología,2024-05-14,53.69
+P1313,Carmen Díaz,80,F,No especificado,Oftalmología,2024-05-25,148.88
+P1314,Javier Martínez,71,M,Jesús María,Medicina General,2024-05-20,120.49
+P1315,Patricia Díaz,48,F,Lince,Psicología,2024-04-05,223.1
+P1316,María López,32,F,Surquillo,Urología,2024-12-03,475.56
+P1317,Fernando Pérez,73,M,Magdalena,Traumatología,2024-12-17,439.83
+P1318,Andrea García,67,F,San Miguel,Odontología,2024-07-31,375.01
+P1319,Pedro Gómez,25,M,Surquillo,Cardiología,2024-04-14,152.31
+P1320,María Ramírez,70,F,Surco,Psicología,2024-01-07,386.63
+P1321,María Ramírez,73,F,Jesús María,Urología,2024-09-26,89.59
+P1322,José Martínez,49,M,Lince,Dermatología,2024-01-08,162.41
+P1323,Javier García,74,M,Surquillo,Urología,2024-04-16,228.62
+P1324,Andrea Torres,83,F,Magdalena,Medicina General,2024-07-24,148.7
+P1325,Carmen Martínez,8,F,Pueblo Libre,Traumatología,2024-12-20,499.85
+P1326,Ricardo González,3,M,Pueblo Libre,Psicología,2024-02-28,103.05
+P1327,Carlos Pérez,63,M,San Miguel,Urología,2024-10-14,97.71
+P1328,Carmen Torres,33,F,Pueblo Libre,Odontología,2024-11-17,238.71
+P1329,Claudia Martínez,52,F,San Borja,Odontología,2024-01-07,282.96
+P1330,Juan Gómez,25,M,Miraflores,Cirugía,2024-10-26,456.91
+P1331,Fernando Sánchez,84,M,Miraflores,Neurología,2024-09-24,110.72
+P1332,Diego López,14,M,Lince,Cardiología,2024-11-14,416.48
+P1333,Andrea Gómez,34,F,No especificado,Dermatología,2024-12-03,210.5
+P1334,Claudia Pérez,90,F,San Isidro,Pediatría,2024-09-23,220.64
+P1335,Sofía González,62,F,Jesús María,Medicina General,2024-01-27,465.69
+P1336,Carlos García,40,M,Barranco,Odontología,2024-06-16,166.42
+P1337,Claudia Díaz,38,F,Magdalena,Oftalmología,2024-10-06,392.86
+P1338,Miguel Torres,46,M,La Molina,Medicina General,2024-12-02,435.89
+P1339,Roberto Martínez,71,M,Magdalena,Cardiología,2024-02-21,282.21
+P1340,Juan Rodríguez,89,M,No especificado,Medicina General,2024-12-25,476.98
+P1341,Ana Ramírez,79,F,Surco,Neurología,2024-08-16,330.17
+P1342,Andrea García,50,F,Magdalena,Psicología,2024-06-10,277.08
+P1343,Lucía González,63,F,Miraflores,Pediatría,2024-05-15,456.44
+P1344,Juan Torres,79,M,Lince,Cardiología,2024-06-23,84.96
+P1345,Carlos Rodríguez,7,M,Magdalena,Cardiología,2024-05-21,221.27
+P1346,Ricardo Torres,78,M,Barranco,Cardiología,2024-05-12,254.12
+P1347,Patricia Fernández,38,F,Pueblo Libre,Medicina General,2024-11-18,174.66
+P1348,José López,32,M,Surco,Oftalmología,2024-02-18,415.12
+P1349,Fernando García,2,M,San Miguel,Urología,2024-01-26,221.14
+P1350,Antonio Ramírez,5,M,Jesús María,Psicología,2024-03-10,392.73
+P1351,Antonio Martínez,25,M,Barranco,Psicología,2024-03-16,332.65
+P1352,Patricia Gómez,84,F,San Borja,Ginecología,2024-11-11,82.13
+P1353,Fernando Ramírez,6,M,San Miguel,Urología,2024-11-01,102.98
+P1354,Pedro González,65,M,Surquillo,Cardiología,2024-06-21,132.34
+P1355,Ricardo Torres,55,M,Jesús María,Oftalmología,2024-08-27,402.32
+P1356,Elena Martínez,86,F,San Isidro,Medicina General,2024-10-24,410.02
+P1357,Laura Martínez,1,F,Barranco,Ginecología,2024-08-10,371.72
+P1358,Elena Torres,59,F,Jesús María,Urología,2024-11-20,464.6
+P1359,Lucía Pérez,48,F,Jesús María,Dermatología,2024-04-06,261.66
+P1360,Ricardo Torres,89,M,Magdalena,Traumatología,2024-04-20,477.68
+P1361,Antonio Pérez,46,M,Surquillo,Cardiología,2024-06-01,413.96
+P1362,Carlos González,31,M,Pueblo Libre,Odontología,2024-09-17,199.03
+P1363,Juan Martínez,85,M,San Borja,Pediatría,2024-12-13,187.84
+P1364,Andrea Gómez,12,F,No especificado,Medicina General,2024-08-25,314.29
+P1365,Miguel Gómez,70,M,Surco,Ginecología,2024-08-15,110.66
+P1366,Miguel López,54,M,Miraflores,Ginecología,2024-09-29,322.22
+P1367,Sofía Gómez,9,F,Magdalena,Medicina General,2024-11-26,272.69
+P1368,María Sánchez,19,F,San Borja,Ginecología,2024-03-24,382.21
+P1369,Juan Rodríguez,88,M,La Molina,Pediatría,2024-11-17,330.25
+P1370,Luis García,60,M,Surquillo,Cardiología,2024-01-08,290.48
+P1371,Ricardo Pérez,35,M,Barranco,Oftalmología,2024-12-24,249.52
+P1372,Andrea Ramírez,38,F,Pueblo Libre,Ginecología,2024-02-16,220.56
+P1373,Diego Sánchez,58,M,Pueblo Libre,Traumatología,2024-04-18,267.87
+P1374,Carmen García,70,F,Jesús María,Oftalmología,2024-08-18,292.68
+P1375,Patricia Martínez,28,F,San Isidro,Ginecología,2024-10-12,350.69
+P1376,Pedro Martínez,35,M,Surquillo,Psicología,2024-02-05,211.39
+P1377,Lucía Gómez,52,F,San Borja,Cardiología,2024-05-23,278.69
+P1378,Fernando López,3,M,San Borja,Traumatología,2024-08-30,370.22
+P1379,Ricardo Torres,20,M,No especificado,Pediatría,2024-11-10,347.76
+P1380,Isabel Sánchez,66,F,Surquillo,Urología,2024-05-11,206.35
+P1381,Laura Martínez,79,F,Miraflores,Medicina General,2024-11-06,236.75
+P1382,Sofía Gómez,78,F,San Isidro,Neurología,2024-04-13,409.51
+P1383,Ana García,21,F,Surquillo,Ginecología,2024-10-19,251.23
+P1384,Sofía Díaz,9,F,Jesús María,Urología,2024-09-06,284.15
+P1385,Antonio Díaz,25,M,Barranco,Medicina General,2024-03-20,86.93
+P1386,Laura Díaz,80,F,Miraflores,Oftalmología,2024-05-29,171.87
+P1387,Pedro García,62,M,San Isidro,Oftalmología,2024-03-11,339.72
+P1388,Patricia Torres,21,F,Surco,Oftalmología,2024-12-28,129.92
+P1389,Claudia Ramírez,34,F,San Borja,Pediatría,2024-07-16,218.66
+P1390,Patricia Fernández,73,F,Pueblo Libre,Psicología,2024-08-09,201.13
+P1391,Javier Torres,2,M,No especificado,Traumatología,2024-05-09,162.47
+P1392,Lucía Martínez,82,F,San Borja,Cardiología,2024-04-04,184.36
+P1393,María Gómez,41,F,Miraflores,Oftalmología,2024-12-24,476.25
+P1394,Ana García,63,F,La Molina,Cirugía,2024-12-12,145.56
+P1395,Javier Ramírez,39,M,Surquillo,Medicina General,2024-01-21,450.06
+P1396,Roberto Pérez,64,M,San Miguel,Traumatología,2024-03-14,265.08
+P1397,María Díaz,16,F,La Molina,Neurología,2024-02-01,435.82
+P1398,Ana Ramírez,1,F,Jesús María,Traumatología,2024-07-29,204.29
+P1399,Fernando Rodríguez,85,M,San Isidro,Neurología,2024-09-10,310.36
+P1400,Javier Fernández,90,M,Surco,Traumatología,2024-06-22,434.44
+P1401,María Fernández,26,F,Surco,Traumatología,2024-08-03,235.36
+P1402,Laura Gómez,11,F,Lince,Dermatología,2024-08-24,170.57
+P1403,Elena Martínez,32,F,Magdalena,Cardiología,2024-01-31,497.45
+P1404,Isabel Martínez,36,F,Barranco,Odontología,2024-06-13,231.2
+P1405,Sofía Pérez,32,F,Lince,Odontología,2024-05-09,136.04
+P1406,Lucía González,82,F,San Borja,Urología,2024-10-11,428.59
+P1407,Laura Martínez,39,F,San Miguel,Odontología,2024-03-22,113.66
+P1408,Laura Ramírez,36,F,Magdalena,Traumatología,2024-03-08,488.2
+P1409,Carmen Martínez,55,F,Surco,Medicina General,2024-09-03,456.32
+P1410,Ana Pérez,51,F,Miraflores,Odontología,2024-10-26,99.02
+P1411,Andrea Pérez,57,F,Barranco,Neurología,2024-12-20,360.55
+P1412,Carlos Díaz,7,M,Surco,Medicina General,2024-09-15,322.94
+P1413,Roberto Gómez,45,M,Magdalena,Neurología,2024-06-26,480.19
+P1414,Carlos Martínez,63,M,San Borja,Medicina General,2024-04-14,414.51
+P1415,Rosa Pérez,48,F,No especificado,Ginecología,2024-12-25,100.3
+P1416,María Torres,75,F,Pueblo Libre,Psicología,2024-10-28,419.51
+P1417,Pedro Díaz,31,M,La Molina,Oftalmología,2024-03-04,127.95
+P1418,Isabel García,36,F,Lince,Medicina General,2024-04-06,194.31
+P1419,Andrea López,68,F,Miraflores,Pediatría,2024-02-23,496.76
+P1420,Rosa Martínez,61,F,Miraflores,Psicología,2024-06-10,289.62
+P1421,Patricia Martínez,68,F,Surquillo,Cirugía,2024-11-30,460.13
+P1422,Andrea González,13,F,San Borja,Traumatología,2024-10-28,393.56
+P1423,Elena Ramírez,52,F,Lince,Cardiología,2024-08-20,468.03
+P1424,Roberto Torres,48,M,San Isidro,Psicología,2024-06-18,222.56
+P1425,María Díaz,82,F,Lince,Cirugía,2024-06-26,181.86
+P1426,Fernando Fernández,20,M,Magdalena,Medicina General,2024-04-30,289.63
+P1427,Javier Sánchez,90,M,San Borja,Cirugía,2024-01-04,142.47
+P1428,Luis García,55,M,Barranco,Dermatología,2024-06-22,167.34
+P1429,Sofía García,54,F,San Isidro,Pediatría,2024-01-15,366.54
+P1430,Laura García,64,F,Miraflores,Neurología,2024-04-10,75.38
+P1431,Carmen García,85,F,Pueblo Libre,Pediatría,2024-01-19,52.42
+P1432,Rosa Gómez,36,F,San Borja,Cirugía,2024-03-05,413.48
+P1433,José López,64,M,No especificado,Ginecología,2024-06-27,288.51
+P1434,Patricia Gómez,63,F,Surquillo,Traumatología,2024-01-21,55.73
+P1435,Rosa Sánchez,65,F,San Isidro,Ginecología,2024-05-08,328.16
+P1436,Ricardo Gómez,72,M,No especificado,Ginecología,2024-12-07,167.73
+P1437,Sofía Ramírez,26,F,No especificado,Urología,2024-05-31,378.89
+P1438,Javier Martínez,32,M,No especificado,Ginecología,2024-01-01,174.24
+P1439,José Sánchez,4,M,Surquillo,Medicina General,2024-05-31,142.65
+P1440,Diego López,51,M,Miraflores,Medicina General,2024-10-22,137.96
+P1441,Andrea López,59,F,San Borja,Pediatría,2024-03-12,82.67
+P1442,María García,62,F,Miraflores,Cirugía,2024-02-03,190.67
+P1443,Pedro Gómez,41,M,San Miguel,Ginecología,2024-07-26,214.02
+P1444,Ana López,44,F,Miraflores,Medicina General,2024-12-13,450.93
+P1445,Javier Gómez,42,M,San Borja,Medicina General,2024-11-10,193.2
+P1446,María Martínez,13,F,Surco,Dermatología,2024-05-29,487.58
+P1447,Ricardo Díaz,86,M,Miraflores,Medicina General,2024-08-27,127.68
+P1448,Roberto Martínez,16,M,Surco,Urología,2024-02-10,478.88
+P1449,Rosa Díaz,26,F,San Miguel,Ginecología,2024-04-11,119.56
+P1450,Patricia Martínez,68,F,San Miguel,Ginecología,2024-09-07,283.38
+P1451,Diego Sánchez,70,M,La Molina,Odontología,2024-03-29,291.63
+P1452,Roberto Díaz,46,M,Pueblo Libre,Oftalmología,2024-02-15,446.77
+P1453,Ricardo Díaz,54,M,No especificado,Urología,2024-06-05,339.61
+P1454,Carlos García,29,M,San Borja,Medicina General,2024-06-28,418.16
+P1455,Luis Ramírez,12,M,Barranco,Traumatología,2024-04-11,312.13
+P1456,Ana Torres,84,F,La Molina,Cirugía,2024-10-10,225.64
+P1457,Elena Díaz,1,F,Lince,Ginecología,2024-03-02,435.12
+P1458,Carmen Sánchez,55,F,Jesús María,Neurología,2024-05-09,102.13
+P1459,Juan Ramírez,20,M,San Borja,Dermatología,2024-03-18,440.8
+P1460,Diego Torres,42,M,Jesús María,Medicina General,2024-01-12,495.7
+P1461,Diego Sánchez,50,M,Barranco,Cardiología,2024-07-20,51.96
+P1462,Ana Torres,88,F,Lince,Cirugía,2024-09-26,451.96
+P1463,Rosa Rodríguez,47,F,Surco,Psicología,2024-01-23,439.42
+P1464,José Sánchez,81,M,Surco,Psicología,2024-02-11,120.77
+P1465,María López,42,F,San Borja,Odontología,2024-04-12,445.92
+P1466,Miguel Martínez,63,M,La Molina,Psicología,2024-02-24,58.12
+P1467,Sofía González,76,F,San Isidro,Urología,2024-06-12,317.83
+P1468,Luis Díaz,43,M,Lince,Medicina General,2024-05-10,188.19
+P1469,Ana García,63,F,San Borja,Neurología,2024-08-16,473.8
+P1470,Antonio Gómez,85,M,San Miguel,Odontología,2024-10-31,149.2
+P1471,Antonio García,62,M,Lince,Urología,2024-12-07,399.72
+P1472,Diego García,38,M,Jesús María,Medicina General,2024-03-29,150.78
+P1473,Lucía García,49,F,Barranco,Urología,2024-06-06,361.29
+P1474,Isabel Ramírez,90,F,San Isidro,Psicología,2024-03-30,210.67
+P1475,Elena Torres,32,F,Lince,Ginecología,2024-05-16,225.41
+P1476,Laura Pérez,73,F,No especificado,Odontología,2024-09-20,132.59
+P1477,Claudia López,54,F,San Miguel,Odontología,2024-05-11,102.12
+P1478,Diego García,55,M,Lince,Urología,2024-05-07,207.65
+P1479,María Ramírez,31,F,Surco,Dermatología,2024-04-05,200.05
+P1480,Sofía Sánchez,2,F,Magdalena,Urología,2024-02-22,455.04
+P1481,Miguel Díaz,47,M,Magdalena,Traumatología,2024-07-07,345.63
+P1482,Antonio González,13,M,Surquillo,Urología,2024-04-17,220.23
+P1483,José Rodríguez,68,M,Jesús María,Ginecología,2024-06-27,227.9
+P1484,Luis Torres,58,M,Miraflores,Odontología,2024-05-25,96.29
+P1485,Roberto Fernández,5,M,No especificado,Medicina General,2024-11-11,365.63
+P1486,Laura Díaz,64,F,San Miguel,Urología,2024-10-17,204.58
+P1487,Miguel Pérez,57,M,Lince,Medicina General,2024-11-22,124.54
+P1488,Patricia Gómez,51,F,Miraflores,Medicina General,2024-03-06,462.1
+P1489,Andrea Gómez,26,F,Jesús María,Odontología,2024-06-30,323.57
+P1490,Carlos González,20,M,Jesús María,Cardiología,2024-06-22,352.36
+P1491,Carmen García,83,F,Pueblo Libre,Neurología,2024-10-24,437.37
+P1492,Lucía Martínez,80,F,No especificado,Odontología,2024-03-16,491.86
+P1493,José Díaz,7,M,Jesús María,Psicología,2024-06-26,189.09
+P1494,José González,29,M,Miraflores,Cirugía,2024-03-20,186.25
+P1495,Elena Fernández,72,F,Lince,Medicina General,2024-03-28,460.57
+P1496,Fernando Sánchez,47,M,Miraflores,Medicina General,2024-11-12,382.03
+P1497,Diego García,80,M,No especificado,Urología,2024-03-08,287.19
+P1498,José López,75,M,Barranco,Cirugía,2024-11-06,384.65
+P1499,Lucía Ramírez,8,F,Surquillo,Urología,2024-02-14,257.3
+P1500,Roberto González,18,M,La Molina,Odontología,2024-02-08,231.85
+P1501,Ricardo Ramírez,57,M,Surco,Medicina General,2024-02-14,455.85
+P1502,Antonio González,59,M,Magdalena,Oftalmología,2024-08-01,386.79
+P1503,Ricardo Ramírez,9,M,Surquillo,Urología,2024-06-14,132.85
+P1504,Isabel Sánchez,84,F,Surquillo,Neurología,2024-10-15,87.52
+P1505,Andrea Martínez,43,F,No especificado,Neurología,2024-08-31,94.22
+P1506,Carlos Ramírez,17,M,San Borja,Medicina General,2024-01-19,118.8
+P1507,Fernando López,53,M,No especificado,Ginecología,2024-04-05,208.39
+P1508,Pedro Martínez,72,M,Barranco,Medicina General,2024-11-24,136.44
+P1509,Rosa Sánchez,77,F,Jesús María,Dermatología,2024-02-18,247.64
+P1510,Andrea Gómez,39,F,No especificado,Cirugía,2024-08-13,416.03
+P1511,Ricardo Díaz,61,M,La Molina,Traumatología,2024-05-31,411.34
+P1512,Miguel López,69,M,Miraflores,Medicina General,2024-05-19,236.83
+P1513,Carlos García,4,M,Jesús María,Neurología,2024-03-22,345.78
+P1514,Miguel Fernández,73,M,Surquillo,Traumatología,2024-07-18,425.95
+P1515,Lucía Sánchez,61,F,Magdalena,Oftalmología,2024-02-28,67.94
+P1516,Rosa González,55,F,Surco,Oftalmología,2024-05-20,381.56
+P1517,Luis Pérez,59,M,No especificado,Medicina General,2024-12-19,495.45
+P1518,Javier Gómez,12,M,Magdalena,Ginecología,2024-10-22,283.9
+P1519,Roberto García,42,M,Jesús María,Odontología,2024-09-04,168.19
+P1520,Laura Ramírez,25,F,Pueblo Libre,Ginecología,2024-04-07,322.48
+P1521,Elena Ramírez,32,F,San Miguel,Ginecología,2024-09-06,353.35
+P1522,Sofía Pérez,65,F,Surco,Psicología,2024-07-21,375.53
+P1523,Ricardo Gómez,23,M,San Borja,Neurología,2024-04-14,454.3
+P1524,Ricardo Rodríguez,57,M,Lince,Urología,2024-04-24,182.45
+P1525,Luis Díaz,77,M,Surco,Odontología,2024-04-06,109.18
+P1526,Carlos Díaz,68,M,San Borja,Medicina General,2024-06-18,415.18
+P1527,Fernando Rodríguez,87,M,San Isidro,Oftalmología,2024-01-23,304.76
+P1528,Sofía González,4,F,Lince,Medicina General,2024-04-11,99.17
+P1529,Patricia Pérez,40,F,San Miguel,Pediatría,2024-02-11,377.14
+P1530,Juan Gómez,30,M,Surco,Odontología,2024-07-16,202.76
+P1531,Isabel López,45,F,Pueblo Libre,Dermatología,2024-07-26,495.84
+P1532,Fernando García,86,M,Surco,Cirugía,2024-04-17,59.55
+P1533,Lucía Díaz,67,F,No especificado,Psicología,2024-01-20,150.24
+P1534,José Díaz,29,M,San Borja,Oftalmología,2024-06-30,301.95
+P1535,Lucía Martínez,74,F,Surco,Traumatología,2024-12-25,450.59
+P1536,Antonio Rodríguez,20,M,Surco,Medicina General,2024-01-21,243.09
+P1537,José Torres,69,M,Miraflores,Dermatología,2024-07-27,128.26
+P1538,Fernando Sánchez,85,M,Surco,Ginecología,2024-03-03,204.02
+P1539,Fernando García,6,M,San Miguel,Urología,2024-10-17,284.07
+P1540,José Gómez,51,M,Jesús María,Pediatría,2024-02-26,296.5
+P1541,Javier Pérez,31,M,Pueblo Libre,Neurología,2024-11-06,230.72
+P1542,Carlos Díaz,45,M,San Isidro,Odontología,2024-03-14,418.53
+P1543,Diego Sánchez,58,M,No especificado,Urología,2024-02-24,141.99
+P1544,María González,53,F,Lince,Pediatría,2024-10-27,431.38
+P1545,Fernando López,45,M,Surquillo,Psicología,2024-05-07,266.97
+P1546,Antonio Díaz,3,M,San Borja,Odontología,2024-12-25,318.14
+P1547,Luis Torres,56,M,Surco,Pediatría,2024-01-21,98.01
+P1548,Andrea Torres,60,F,La Molina,Pediatría,2024-07-20,191.16
+P1549,Antonio Martínez,80,M,Lince,Odontología,2024-05-10,476.54
+P1550,Claudia Pérez,34,F,Magdalena,Urología,2024-06-25,341.71
+P1551,Juan Torres,57,M,No especificado,Oftalmología,2024-05-16,370.63
+P1552,Ana Martínez,21,F,San Borja,Psicología,2024-11-15,106.27
+P1553,Pedro Martínez,32,M,San Miguel,Psicología,2024-04-19,313.18
+P1554,Claudia Martínez,62,F,Barranco,Cardiología,2024-12-30,265.32
+P1555,Ricardo González,9,M,Magdalena,Medicina General,2024-07-28,314.04
+P1556,Miguel López,21,M,Jesús María,Medicina General,2024-09-26,471.28
+P1557,Roberto Pérez,2,M,No especificado,Cardiología,2024-01-21,360.13
+P1558,Rosa Torres,22,F,Surquillo,Neurología,2024-12-18,308.73
+P1559,Juan Díaz,34,M,San Borja,Cirugía,2024-07-11,212.47
+P1560,Andrea Sánchez,22,F,San Miguel,Oftalmología,2024-10-13,482.58
+P1561,Claudia Torres,8,F,San Miguel,Oftalmología,2024-03-06,80.97
+P1562,Luis Gómez,17,M,San Miguel,Oftalmología,2024-12-21,487.03
+P1563,Luis González,20,M,Surco,Odontología,2024-10-25,200.25
+P1564,José Rodríguez,67,M,Barranco,Psicología,2024-09-05,100.75
+P1565,Patricia Torres,24,F,Surco,Dermatología,2024-11-21,261.6
+P1566,Patricia García,10,F,Surquillo,Medicina General,2024-05-22,74.71
+P1567,Juan Fernández,57,M,San Isidro,Traumatología,2024-08-26,430.66
+P1568,Javier García,46,M,Magdalena,Medicina General,2024-02-28,123.24
+P1569,Diego López,37,M,No especificado,Medicina General,2024-09-18,413.31
+P1570,Laura García,6,F,San Isidro,Medicina General,2024-09-25,293.67
+P1571,Lucía Ramírez,5,F,Surco,Traumatología,2024-03-10,192.19
+P1572,José Rodríguez,7,M,San Borja,Neurología,2024-07-26,472.96
+P1573,Claudia Díaz,41,F,No especificado,Odontología,2024-05-30,394.38
+P1574,Rosa Fernández,53,F,Surco,Traumatología,2024-12-04,300.85
+P1575,Carlos Pérez,65,M,Pueblo Libre,Oftalmología,2024-01-19,400.05
+P1576,Rosa Díaz,7,F,Jesús María,Ginecología,2024-01-09,191.75
+P1577,Rosa López,33,F,Magdalena,Oftalmología,2024-05-18,467.64
+P1578,Diego Sánchez,27,M,Lince,Medicina General,2024-06-18,98.12
+P1579,Sofía López,25,F,Surquillo,Ginecología,2024-01-30,237.08
+P1580,Pedro González,51,M,San Isidro,Cirugía,2024-01-03,340.27
+P1581,Laura Rodríguez,78,F,Surquillo,Odontología,2024-01-27,488.28
+P1582,Laura Martínez,22,F,Jesús María,Urología,2024-02-20,461.86
+P1583,Lucía Torres,55,F,San Isidro,Odontología,2024-08-16,485.09
+P1584,Rosa Gómez,37,F,Surquillo,Medicina General,2024-02-02,335.75
+P1585,Isabel Ramírez,76,F,La Molina,Odontología,2024-08-15,233.96
+P1586,Carlos Sánchez,43,M,No especificado,Traumatología,2024-02-06,441.6
+P1587,Antonio Rodríguez,64,M,Surco,Cardiología,2024-12-08,410.62
+P1588,Luis Ramírez,11,M,Magdalena,Odontología,2024-08-10,159.52
+P1589,Elena González,81,F,Miraflores,Pediatría,2024-10-13,76.75
+P1590,José García,18,M,Barranco,Oftalmología,2024-01-10,151.39
+P1591,Ana Pérez,33,F,San Isidro,Medicina General,2024-10-28,226.44
+P1592,Carlos García,17,M,San Miguel,Psicología,2024-11-09,467.8
+P1593,Diego Torres,47,M,San Borja,Traumatología,2024-02-26,96.69
+P1594,Lucía Torres,70,F,San Miguel,Odontología,2024-03-13,79.79
+P1595,Ricardo Torres,25,M,San Isidro,Medicina General,2024-02-05,84.82
+P1596,Lucía Ramírez,28,F,San Borja,Medicina General,2024-05-26,249.98
+P1597,José Martínez,20,M,Surco,Medicina General,2024-06-23,228.76
+P1598,Ricardo Ramírez,69,M,San Isidro,Oftalmología,2024-09-09,81.97
+P1599,Carmen García,71,F,Lince,Pediatría,2024-08-09,303.21
+P1600,Pedro Martínez,39,M,Barranco,Medicina General,2024-02-15,60.33
+P1601,Luis Torres,61,M,Surquillo,Traumatología,2024-03-26,232.25
+P1602,María Torres,85,F,Magdalena,Cirugía,2024-09-11,339.98
+P1603,Pedro Ramírez,41,M,Magdalena,Dermatología,2024-06-20,464.96
+P1604,Lucía Rodríguez,37,F,La Molina,Traumatología,2024-01-25,53.73
+P1605,Rosa González,26,F,La Molina,Urología,2024-08-28,361.55
+P1606,Ana Ramírez,69,F,Lince,Urología,2024-10-17,431.28
+P1607,Fernando Gómez,48,M,San Borja,Dermatología,2024-11-25,377.02
+P1608,Antonio Sánchez,57,M,San Miguel,Dermatología,2024-06-21,203.37
+P1609,Diego Fernández,63,M,Pueblo Libre,Cardiología,2024-08-17,179.44
+P1610,Rosa Sánchez,30,F,San Miguel,Medicina General,2024-11-30,405.62
+P1611,Lucía Pérez,1,F,No especificado,Dermatología,2024-05-13,121.99
+P1612,Carlos Torres,56,M,Pueblo Libre,Dermatología,2024-04-10,58.26
+P1613,Lucía Fernández,72,F,Barranco,Cirugía,2024-10-08,100.14
+P1614,José Díaz,54,M,La Molina,Pediatría,2024-06-15,125.4
+P1615,Diego Torres,10,M,Lince,Oftalmología,2024-11-04,268.98
+P1616,Laura Ramírez,4,F,San Miguel,Urología,2024-11-16,173.04
+P1617,Sofía López,41,F,Magdalena,Oftalmología,2024-11-08,330.1
+P1618,Carlos Ramírez,52,M,Miraflores,Oftalmología,2024-01-07,121.48
+P1619,Ricardo González,17,M,Surquillo,Urología,2024-11-01,165.8
+P1620,María Sánchez,10,F,Pueblo Libre,Medicina General,2024-07-09,338.05
+P1621,Claudia González,6,F,Lince,Traumatología,2024-10-24,403.9
+P1622,Laura González,40,F,La Molina,Psicología,2024-04-05,240.46
+P1623,José Gómez,50,M,Surquillo,Pediatría,2024-09-11,160.51
+P1624,Ricardo Díaz,66,M,Miraflores,Pediatría,2024-07-08,301.48
+P1625,Rosa Díaz,50,F,Pueblo Libre,Psicología,2024-02-08,179.34
+P1626,Juan Fernández,76,M,Pueblo Libre,Traumatología,2024-02-07,144.5
+P1627,Pedro Torres,80,M,Miraflores,Dermatología,2024-05-30,164.16
+P1628,Miguel González,59,M,San Miguel,Medicina General,2024-12-29,53.28
+P1629,Rosa Díaz,35,F,Surco,Pediatría,2024-03-31,444.0
+P1630,Rosa García,57,F,Surquillo,Neurología,2024-10-24,296.41
+P1631,Elena Fernández,69,F,San Borja,Ginecología,2024-09-25,134.89
+P1632,Ricardo Pérez,84,M,Surco,Cardiología,2024-04-12,305.1
+P1633,Fernando Sánchez,39,M,Miraflores,Cardiología,2024-05-19,465.09
+P1634,Ana García,79,F,Lince,Odontología,2024-12-11,230.95
+P1635,Lucía Martínez,35,F,No especificado,Psicología,2024-04-11,331.49
+P1636,Ricardo García,25,M,San Borja,Pediatría,2024-03-05,165.23
+P1637,Juan Gómez,75,M,Surco,Psicología,2024-09-19,184.42
+P1638,Sofía Martínez,51,F,San Borja,Oftalmología,2024-08-16,474.81
+P1639,Ana Martínez,16,F,Surquillo,Dermatología,2024-11-09,65.85
+P1640,Rosa Pérez,90,F,No especificado,Odontología,2024-06-05,114.08
+P1641,Diego García,3,M,Miraflores,Ginecología,2024-04-16,267.92
+P1642,Lucía Fernández,20,F,Surquillo,Psicología,2024-05-26,290.3
+P1643,Miguel Fernández,75,M,Barranco,Psicología,2024-04-18,406.53
+P1644,Andrea López,13,F,Pueblo Libre,Odontología,2024-11-28,147.28
+P1645,Roberto Sánchez,46,M,Pueblo Libre,Pediatría,2024-10-02,407.58
+P1646,Laura García,68,F,San Isidro,Cirugía,2024-10-24,345.1
+P1647,Fernando Gómez,60,M,Magdalena,Cardiología,2024-11-25,393.05
+P1648,Andrea Gómez,48,F,Magdalena,Odontología,2024-03-07,427.15
+P1649,Ana Rodríguez,74,F,Magdalena,Neurología,2024-12-11,486.23
+P1650,Diego Fernández,4,M,Surquillo,Odontología,2024-12-06,386.36
+P1651,Antonio Martínez,4,M,No especificado,Ginecología,2024-06-24,425.12
+P1652,Ana Gómez,30,F,San Borja,Ginecología,2024-03-03,53.36
+P1653,Antonio Díaz,66,M,Miraflores,Urología,2024-08-08,351.31
+P1654,Fernando González,15,M,San Isidro,Oftalmología,2024-11-22,74.57
+P1655,Isabel Sánchez,38,F,No especificado,Neurología,2024-09-22,332.24
+P1656,María Fernández,70,F,Barranco,Oftalmología,2024-07-31,158.22
+P1657,Sofía Ramírez,20,F,Magdalena,Oftalmología,2024-11-25,248.28
+P1658,Antonio Sánchez,69,M,San Borja,Medicina General,2024-09-19,131.17
+P1659,Ricardo Pérez,24,M,Surco,Pediatría,2024-05-17,148.52
+P1660,Rosa Torres,75,F,No especificado,Cirugía,2024-06-05,315.7
+P1661,Miguel González,64,M,San Isidro,Traumatología,2024-10-04,76.38
+P1662,Carmen Pérez,4,F,La Molina,Oftalmología,2025-01-01,152.95
+P1663,Sofía Gómez,59,F,Surquillo,Neurología,2024-08-17,253.96
+P1664,Carmen Rodríguez,21,F,Lince,Urología,2024-09-15,81.64
+P1665,Lucía López,27,F,Jesús María,Dermatología,2024-02-18,190.12
+P1666,Javier López,23,M,Surquillo,Odontología,2024-01-02,258.94
+P1667,José Pérez,84,M,Barranco,Traumatología,2024-05-31,167.78
+P1668,Claudia Díaz,53,F,San Isidro,Psicología,2024-10-14,164.27
+P1669,Antonio Martínez,75,M,Lince,Medicina General,2024-12-13,482.78
+P1670,Miguel González,30,M,San Borja,Traumatología,2024-10-09,315.76
+P1671,Carmen Rodríguez,52,F,San Miguel,Dermatología,2024-02-24,338.61
+P1672,Pedro Rodríguez,28,M,Jesús María,Dermatología,2024-11-25,295.57
+P1673,Carlos Pérez,81,M,No especificado,Cardiología,2024-01-12,299.14
+P1674,Javier Torres,18,M,San Borja,Pediatría,2024-05-11,177.55
+P1675,Luis Pérez,57,M,Pueblo Libre,Odontología,2024-08-29,180.93
+P1676,Pedro López,49,M,Lince,Neurología,2024-09-09,193.6
+P1677,Carmen Rodríguez,27,F,No especificado,Pediatría,2024-10-25,438.91
+P1678,Miguel García,1,M,No especificado,Traumatología,2024-11-17,346.16
+P1679,José Pérez,36,M,Magdalena,Oftalmología,2024-01-04,231.8
+P1680,Juan López,20,M,Lince,Medicina General,2024-09-15,477.99
+P1681,Antonio García,83,M,San Isidro,Medicina General,2025-01-01,135.87
+P1682,Pedro Díaz,34,M,San Borja,Pediatría,2024-04-01,191.78
+P1683,Andrea Torres,12,F,Jesús María,Odontología,2024-12-03,421.02
+P1684,Roberto Rodríguez,25,M,Miraflores,Pediatría,2024-11-17,68.57
+P1685,Patricia Rodríguez,36,F,Miraflores,Neurología,2024-02-25,100.74
+P1686,Sofía Pérez,49,F,Surquillo,Odontología,2024-05-02,146.25
+P1687,Sofía Sánchez,7,F,No especificado,Psicología,2024-09-05,176.3
+P1688,Miguel Fernández,32,M,Pueblo Libre,Neurología,2024-10-19,497.03
+P1689,Carlos García,23,M,San Borja,Psicología,2024-04-12,362.39
+P1690,Elena Pérez,9,F,Miraflores,Cardiología,2024-01-19,426.6
+P1691,Elena Sánchez,2,F,Magdalena,Medicina General,2024-01-25,277.88
+P1692,Elena García,59,F,San Borja,Traumatología,2024-07-12,304.46
+P1693,Luis Sánchez,9,M,Surquillo,Neurología,2024-09-22,190.03
+P1694,Laura Díaz,29,F,Miraflores,Ginecología,2024-03-12,273.04
+P1695,María Sánchez,43,F,Miraflores,Medicina General,2024-01-20,196.17
+P1696,Antonio Pérez,82,M,Barranco,Psicología,2024-05-22,266.47
+P1697,Carlos Sánchez,41,M,Magdalena,Medicina General,2024-10-03,487.19
+P1698,Elena Rodríguez,66,F,Lince,Psicología,2024-11-29,155.81
+P1699,María Martínez,38,F,La Molina,Pediatría,2024-06-19,281.1
+P1700,Andrea Martínez,90,F,Jesús María,Cardiología,2024-11-23,252.37
+P1701,Juan Sánchez,75,M,Surquillo,Pediatría,2024-01-01,495.27
+P1702,Diego Martínez,49,M,Surquillo,Neurología,2024-11-21,121.89
+P1703,Luis López,16,M,Surquillo,Cirugía,2024-05-04,230.61
+P1704,Fernando Martínez,26,M,Surco,Odontología,2024-09-29,457.0
+P1705,Pedro Gómez,64,M,Lince,Medicina General,2024-10-04,404.28
+P1706,Elena Díaz,37,F,Barranco,Odontología,2024-02-13,433.65
+P1707,Luis Ramírez,48,M,Barranco,Pediatría,2024-08-27,209.1
+P1708,Javier Ramírez,29,M,Jesús María,Cirugía,2024-03-20,492.45
+P1709,Claudia González,88,F,San Borja,Psicología,2024-09-02,458.7
+P1710,Miguel García,50,M,Lince,Psicología,2024-08-22,88.05
+P1711,Diego González,75,M,Pueblo Libre,Medicina General,2024-01-17,215.78
+P1712,Fernando Ramírez,41,M,No especificado,Pediatría,2024-04-29,264.51
+P1713,Ricardo López,38,M,No especificado,Traumatología,2024-04-22,144.08
+P1714,Ana García,73,F,Magdalena,Pediatría,2024-12-09,78.14
+P1715,Sofía Pérez,73,F,Pueblo Libre,Cardiología,2024-07-26,95.44
+P1716,Javier Ramírez,73,M,Miraflores,Oftalmología,2024-06-26,278.88
+P1717,Andrea Sánchez,10,F,San Isidro,Dermatología,2024-09-10,253.81
+P1718,Laura González,79,F,Jesús María,Neurología,2024-09-20,300.2
+P1719,Lucía Sánchez,57,F,San Miguel,Odontología,2024-02-09,429.9
+P1720,Isabel Ramírez,19,F,San Borja,Medicina General,2024-04-08,55.66
+P1721,Juan García,30,M,Pueblo Libre,Cardiología,2024-04-14,455.91
+P1722,Ana Rodríguez,32,F,Pueblo Libre,Urología,2024-03-04,300.29
+P1723,Fernando García,43,M,Barranco,Medicina General,2024-07-21,224.69
+P1724,Claudia Fernández,29,F,Barranco,Neurología,2024-07-26,448.95
+P1725,Lucía Díaz,77,F,San Borja,Dermatología,2024-12-09,163.61
+P1726,Roberto Fernández,60,M,Magdalena,Ginecología,2024-01-10,328.49
+P1727,Pedro García,24,M,Jesús María,Cardiología,2024-05-14,320.92
+P1728,Carlos González,36,M,Barranco,Cirugía,2024-06-17,66.82
+P1729,Roberto Fernández,30,M,Pueblo Libre,Dermatología,2024-04-21,245.28
+P1730,Diego Sánchez,42,M,San Miguel,Oftalmología,2024-09-01,484.93
+P1731,Carlos Rodríguez,58,M,San Miguel,Medicina General,2024-01-02,206.11
+P1732,Carmen Rodríguez,23,F,Jesús María,Oftalmología,2024-09-06,211.53
+P1733,Miguel González,47,M,Pueblo Libre,Ginecología,2024-05-17,147.47
+P1734,Pedro Torres,21,M,La Molina,Neurología,2024-06-18,165.17
+P1735,Roberto González,71,M,Miraflores,Dermatología,2024-07-01,454.54
+P1736,Rosa Gómez,62,F,San Borja,Cardiología,2024-11-21,398.43
+P1737,Pedro González,20,M,La Molina,Cardiología,2024-01-13,426.39
+P1738,Patricia Díaz,50,F,Surco,Odontología,2024-04-23,392.97
+P1739,Carlos González,26,M,Surquillo,Odontología,2024-11-13,329.09
+P1740,Isabel Díaz,14,F,Surco,Neurología,2024-01-03,243.43
+P1741,Claudia Gómez,76,F,Miraflores,Cardiología,2024-04-13,387.64
+P1742,Ana Gómez,15,F,Surquillo,Neurología,2024-10-13,105.66
+P1743,Lucía Rodríguez,36,F,Barranco,Neurología,2024-05-01,205.05
+P1744,Diego Torres,8,M,Jesús María,Dermatología,2024-02-25,325.88
+P1745,Roberto González,5,M,Jesús María,Traumatología,2024-01-03,178.09
+P1746,Claudia Díaz,4,F,Pueblo Libre,Odontología,2024-12-17,122.74
+P1747,Carlos González,51,M,San Isidro,Pediatría,2024-11-20,423.7
+P1748,Diego Rodríguez,83,M,San Isidro,Oftalmología,2024-03-08,325.46
+P1749,Sofía Díaz,76,F,No especificado,Dermatología,2024-03-30,99.69
+P1750,Carlos Ramírez,20,M,Jesús María,Cardiología,2024-10-13,416.99
+P1751,Carlos Martínez,42,M,Jesús María,Psicología,2024-02-11,361.84
+P1752,Javier Pérez,31,M,San Isidro,Odontología,2024-09-19,477.78
+P1753,Luis Pérez,81,M,San Borja,Dermatología,2024-08-21,176.73
+P1754,Javier Ramírez,47,M,Barranco,Medicina General,2024-08-07,285.89
+P1755,Luis Sánchez,53,M,Surquillo,Ginecología,2024-07-05,247.9
+P1756,María González,32,F,Magdalena,Oftalmología,2024-03-10,463.57
+P1757,Juan López,87,M,Surquillo,Ginecología,2024-02-19,108.71
+P1758,Isabel López,39,F,Surquillo,Medicina General,2024-11-23,161.61
+P1759,Antonio Ramírez,72,M,La Molina,Psicología,2024-02-05,476.33
+P1760,Claudia Rodríguez,45,F,No especificado,Neurología,2024-08-02,67.66
+P1761,Carlos Fernández,38,M,Jesús María,Traumatología,2024-04-13,172.48
+P1762,Lucía Torres,46,F,San Borja,Cardiología,2024-01-15,352.7
+P1763,Isabel Ramírez,4,F,San Miguel,Urología,2024-04-19,258.36
+P1764,Ana Rodríguez,78,F,No especificado,Cardiología,2024-09-23,414.26
+P1765,Isabel López,70,F,San Isidro,Oftalmología,2024-06-23,346.64
+P1766,Javier Pérez,51,M,Surquillo,Urología,2024-11-11,150.24
+P1767,Fernando García,41,M,Barranco,Urología,2024-02-02,103.93
+P1768,Andrea Torres,73,F,Surquillo,Cardiología,2024-11-08,85.29
+P1769,Antonio Rodríguez,71,M,Barranco,Odontología,2024-06-06,461.6
+P1770,Fernando Rodríguez,81,M,La Molina,Pediatría,2024-12-23,144.75
+P1771,Andrea Ramírez,4,F,San Borja,Pediatría,2024-06-29,209.18
+P1772,Sofía Díaz,53,F,San Borja,Cardiología,2024-05-03,468.79
+P1773,Claudia Sánchez,14,F,San Isidro,Dermatología,2024-12-29,259.51
+P1774,Juan Gómez,68,M,Surquillo,Psicología,2024-04-11,176.97
+P1775,Diego Díaz,59,M,Surquillo,Odontología,2024-01-22,50.83
+P1776,Pedro Díaz,13,M,Pueblo Libre,Traumatología,2024-06-28,413.82
+P1777,Laura Torres,42,F,Magdalena,Urología,2024-06-06,348.89
+P1778,Rosa Rodríguez,31,F,La Molina,Medicina General,2024-10-29,480.66
+P1779,Ana Fernández,78,F,Jesús María,Cardiología,2024-07-17,394.55
+P1780,Carlos Sánchez,48,M,No especificado,Medicina General,2024-03-22,315.81
+P1781,Ana López,87,F,Jesús María,Cardiología,2024-03-11,270.16
+P1782,Claudia González,84,F,Barranco,Traumatología,2024-11-24,209.82
+P1783,Miguel López,79,M,San Miguel,Urología,2024-07-05,499.09
+P1784,José Ramírez,63,M,Surco,Oftalmología,2024-03-03,120.46
+P1785,Fernando García,11,M,La Molina,Traumatología,2024-02-20,208.06
+P1786,Ricardo González,13,M,Lince,Cardiología,2024-04-29,214.31
+P1787,Antonio Pérez,45,M,Magdalena,Cardiología,2024-10-10,361.59
+P1788,Claudia Gómez,6,F,Magdalena,Medicina General,2024-08-08,388.08
+P1789,Roberto Martínez,78,M,Jesús María,Cirugía,2024-12-21,204.92
+P1790,Rosa Pérez,77,F,Jesús María,Cirugía,2024-11-03,429.52
+P1791,Rosa Rodríguez,4,F,San Isidro,Ginecología,2024-03-02,99.72
+P1792,Carmen Sánchez,36,F,Lince,Psicología,2024-10-02,55.94
+P1793,Juan Rodríguez,78,M,San Miguel,Medicina General,2024-07-27,386.1
+P1794,Isabel Rodríguez,90,F,Pueblo Libre,Medicina General,2024-02-17,129.65
+P1795,Claudia Gómez,49,F,Miraflores,Ginecología,2024-07-02,498.85
+P1796,Patricia Martínez,65,F,Magdalena,Pediatría,2024-09-17,363.97
+P1797,Javier Martínez,64,M,Miraflores,Medicina General,2024-09-19,74.07
+P1798,Isabel Gómez,82,F,San Isidro,Traumatología,2024-11-17,233.46
+P1799,Patricia Pérez,18,F,San Borja,Pediatría,2024-03-29,63.59
+P1800,Isabel Gómez,55,F,San Isidro,Pediatría,2024-08-13,196.55
+P1801,Andrea Pérez,42,F,San Borja,Neurología,2024-12-19,199.94
+P1802,Elena Fernández,69,F,Magdalena,Urología,2024-03-09,365.13
+P1803,Luis López,25,M,San Borja,Urología,2024-11-09,436.36
+P1804,Carmen López,26,F,San Isidro,Cirugía,2024-01-05,87.47
+P1805,Ana Pérez,44,F,Jesús María,Psicología,2024-05-02,450.96
+P1806,Miguel González,76,M,San Borja,Pediatría,2024-06-14,444.51
+P1807,Rosa López,43,F,Jesús María,Traumatología,2024-01-29,278.19
+P1808,Claudia García,82,F,La Molina,Medicina General,2024-07-22,123.7
+P1809,Carmen Sánchez,37,F,San Borja,Urología,2024-04-24,430.63
+P1810,Javier Rodríguez,68,M,Barranco,Urología,2024-08-22,300.53
+P1811,Juan Díaz,19,M,La Molina,Odontología,2024-12-18,139.65
+P1812,Sofía González,42,F,Magdalena,Urología,2024-09-17,322.12
+P1813,Diego Ramírez,26,M,No especificado,Cirugía,2024-11-17,204.97
+P1814,Carmen López,12,F,Barranco,Odontología,2024-01-11,297.91
+P1815,Javier Rodríguez,57,M,Surquillo,Medicina General,2024-08-31,476.69
+P1816,Diego Gómez,47,M,Jesús María,Ginecología,2024-05-24,461.48
+P1817,Juan Gómez,1,M,Surco,Traumatología,2024-07-07,153.96
+P1818,Luis García,46,M,Barranco,Pediatría,2024-06-22,166.96
+P1819,Pedro Rodríguez,86,M,San Miguel,Cardiología,2024-02-27,207.59
+P1820,Antonio Gómez,21,M,Surco,Neurología,2024-01-17,128.62
+P1821,Ana Pérez,21,F,Surquillo,Pediatría,2024-07-09,437.74
+P1822,José Fernández,83,M,La Molina,Psicología,2024-05-06,244.44
+P1823,Fernando García,43,M,San Borja,Neurología,2024-10-03,68.45
+P1824,Rosa Pérez,28,F,Surquillo,Medicina General,2024-07-23,480.97
+P1825,Rosa Ramírez,85,F,Surquillo,Ginecología,2024-09-06,459.49
+P1826,Carlos García,65,M,Magdalena,Dermatología,2024-10-07,81.14
+P1827,Pedro Ramírez,14,M,Lince,Pediatría,2024-09-02,229.29
+P1828,Ana Díaz,27,F,Magdalena,Pediatría,2024-07-11,134.42
+P1829,Patricia Rodríguez,51,F,No especificado,Medicina General,2024-12-03,185.77
+P1830,Javier Torres,77,M,San Borja,Medicina General,2024-05-11,465.37
+P1831,Sofía Ramírez,44,F,No especificado,Pediatría,2024-07-13,358.49
+P1832,Ricardo Gómez,25,M,Magdalena,Odontología,2024-05-16,200.57
+P1833,Lucía Rodríguez,8,F,San Miguel,Neurología,2024-12-06,458.7
+P1834,Ricardo López,21,M,San Isidro,Neurología,2024-04-29,386.29
+P1835,José Martínez,4,M,No especificado,Dermatología,2024-01-18,106.57
+P1836,Laura Rodríguez,18,F,No especificado,Cirugía,2024-11-07,310.81
+P1837,Laura Gómez,54,F,Miraflores,Medicina General,2024-08-03,233.71
+P1838,Andrea Fernández,32,F,No especificado,Pediatría,2024-02-27,360.21
+P1839,Antonio Gómez,13,M,Barranco,Pediatría,2024-12-05,154.17
+P1840,Roberto Gómez,73,M,No especificado,Cirugía,2024-02-02,264.4
+P1841,Ana Torres,23,F,Surquillo,Cirugía,2024-10-24,50.8
+P1842,Ricardo Fernández,73,M,La Molina,Odontología,2024-09-24,363.36
+P1843,Carlos Torres,81,M,San Borja,Cirugía,2024-06-01,492.07
+P1844,Sofía Gómez,84,F,Jesús María,Traumatología,2024-08-01,149.71
+P1845,Ana González,2,F,Surquillo,Dermatología,2024-01-21,471.65
+P1846,Rosa Díaz,54,F,Barranco,Traumatología,2024-05-24,312.18
+P1847,Lucía López,75,F,Surco,Traumatología,2024-05-12,321.85
+P1848,Antonio Gómez,36,M,Surquillo,Psicología,2024-09-28,253.95
+P1849,Pedro López,59,M,Lince,Neurología,2024-09-16,177.86
+P1850,Lucía Torres,24,F,San Isidro,Medicina General,2024-11-07,223.25
+P1851,José García,39,M,Lince,Medicina General,2024-02-18,236.61
+P1852,Isabel Martínez,73,F,San Isidro,Cardiología,2024-08-03,148.74
+P1853,Fernando Rodríguez,75,M,Lince,Urología,2024-02-02,248.66
+P1854,Fernando Fernández,80,M,No especificado,Pediatría,2024-02-17,148.91
+P1855,Lucía López,56,F,San Miguel,Cirugía,2024-03-12,283.05
+P1856,Sofía Sánchez,2,F,San Isidro,Oftalmología,2024-03-21,319.82
+P1857,Antonio Gómez,81,M,San Isidro,Medicina General,2024-12-09,150.45
+P1858,Javier Díaz,49,M,Surco,Neurología,2024-04-29,158.51
+P1859,Isabel Rodríguez,73,F,San Miguel,Pediatría,2024-12-31,451.07
+P1860,Pedro González,43,M,Magdalena,Cardiología,2024-05-27,385.04
+P1861,Ana Sánchez,30,F,No especificado,Medicina General,2024-09-16,324.56
+P1862,Roberto Martínez,74,M,Lince,Urología,2024-06-16,251.14
+P1863,Elena Sánchez,62,F,San Miguel,Traumatología,2024-01-21,230.06
+P1864,Fernando Gómez,17,M,Jesús María,Neurología,2024-08-16,290.95
+P1865,Ana Pérez,87,F,San Miguel,Pediatría,2024-05-07,460.15
+P1866,Isabel Rodríguez,38,F,La Molina,Cardiología,2024-11-23,295.13
+P1867,Elena Fernández,69,F,Pueblo Libre,Urología,2024-05-01,246.63
+P1868,Fernando Martínez,63,M,San Miguel,Ginecología,2024-10-27,351.38
+P1869,Patricia Ramírez,52,F,Pueblo Libre,Urología,2024-04-22,286.49
+P1870,Ricardo Ramírez,81,M,San Miguel,Traumatología,2024-12-05,358.96
+P1871,Pedro Rodríguez,90,M,Magdalena,Oftalmología,2024-10-29,403.46
+P1872,José Martínez,57,M,San Isidro,Medicina General,2024-05-15,414.77
+P1873,Diego Ramírez,39,M,Pueblo Libre,Traumatología,2024-11-01,423.06
+P1874,José López,72,M,No especificado,Dermatología,2024-06-15,488.69
+P1875,Ricardo Fernández,70,M,Barranco,Medicina General,2024-09-15,217.5
+P1876,Patricia Ramírez,80,F,Magdalena,Pediatría,2024-12-14,411.99
+P1877,Ricardo González,71,M,San Isidro,Urología,2024-09-21,165.39
+P1878,Lucía Gómez,27,F,Magdalena,Cirugía,2024-07-25,281.23
+P1879,Lucía López,20,F,Barranco,Traumatología,2024-02-11,143.21
+P1880,Claudia Díaz,50,F,Surquillo,Psicología,2024-03-14,319.84
+P1881,Patricia López,8,F,No especificado,Neurología,2024-04-09,165.62
+P1882,Juan Rodríguez,82,M,San Borja,Pediatría,2024-06-24,183.44
+P1883,Roberto Ramírez,67,M,Surquillo,Cardiología,2024-05-04,493.82
+P1884,Andrea García,13,F,Jesús María,Medicina General,2024-11-19,355.97
+P1885,Patricia Pérez,24,F,San Borja,Cirugía,2024-10-18,287.12
+P1886,Andrea Rodríguez,33,F,Magdalena,Cirugía,2024-06-01,56.4
+P1887,Sofía López,73,F,La Molina,Psicología,2024-05-03,334.67
+P1888,Juan Ramírez,39,M,Pueblo Libre,Pediatría,2024-06-12,260.5
+P1889,Lucía García,24,F,Miraflores,Pediatría,2024-08-14,359.17
+P1890,Miguel Ramírez,4,M,Miraflores,Odontología,2024-06-24,494.06
+P1891,Juan Rodríguez,61,M,Lince,Traumatología,2024-03-25,285.6
+P1892,Elena González,32,F,No especificado,Neurología,2024-10-29,414.44
+P1893,Roberto Martínez,24,M,No especificado,Cirugía,2024-04-27,413.48
+P1894,Luis Martínez,89,M,La Molina,Traumatología,2024-02-18,133.98
+P1895,Fernando Díaz,19,M,San Isidro,Medicina General,2024-12-31,261.27
+P1896,Lucía López,53,F,No especificado,Neurología,2024-05-23,175.14
+P1897,Andrea Sánchez,89,F,No especificado,Oftalmología,2024-01-23,213.97
+P1898,Diego Martínez,8,M,Pueblo Libre,Medicina General,2024-02-09,131.59
+P1899,Roberto González,21,M,Magdalena,Dermatología,2024-06-30,208.43
+P1900,Miguel Torres,5,M,San Isidro,Cirugía,2024-05-24,170.58
+P1901,José Pérez,15,M,Jesús María,Medicina General,2024-01-14,403.62
+P1902,Claudia Sánchez,46,F,Surquillo,Odontología,2024-08-22,229.07
+P1903,María López,35,F,Surco,Oftalmología,2024-12-31,292.32
+P1904,Ana González,87,F,Jesús María,Oftalmología,2024-01-06,378.64
+P1905,Patricia Gómez,13,F,Pueblo Libre,Oftalmología,2024-05-19,96.02
+P1906,Carlos González,42,M,Miraflores,Pediatría,2024-11-08,213.72
+P1907,Elena Ramírez,36,F,Jesús María,Medicina General,2024-11-30,230.01
+P1908,Lucía Martínez,71,F,Barranco,Cirugía,2024-12-26,220.71
+P1909,Juan Rodríguez,10,M,Jesús María,Cardiología,2024-08-05,293.18
+P1910,Pedro Rodríguez,54,M,La Molina,Psicología,2024-09-05,238.96
+P1911,Laura López,28,F,No especificado,Cardiología,2024-03-17,438.77
+P1912,Patricia Fernández,74,F,La Molina,Cardiología,2024-07-21,190.29
+P1913,Roberto González,58,M,Jesús María,Neurología,2024-11-04,319.02
+P1914,Diego Martínez,20,M,No especificado,Cardiología,2024-01-30,330.16
+P1915,María Rodríguez,58,F,San Miguel,Pediatría,2024-04-03,403.72
+P1916,María García,82,F,Surquillo,Neurología,2024-07-16,154.58
+P1917,Carlos Torres,40,M,Magdalena,Odontología,2024-03-20,374.8
+P1918,Lucía Gómez,73,F,Surco,Psicología,2024-05-23,394.32
+P1919,Roberto González,27,M,Surco,Urología,2024-01-20,486.95
+P1920,José Martínez,76,M,Lince,Cardiología,2024-12-10,493.07
+P1921,Juan Martínez,52,M,La Molina,Odontología,2024-08-16,64.59
+P1922,Ricardo Rodríguez,29,M,San Isidro,Cirugía,2024-05-17,462.5
+P1923,Andrea García,35,F,Pueblo Libre,Oftalmología,2024-07-28,217.19
+P1924,Fernando Torres,68,M,Surco,Neurología,2024-06-15,360.36
+P1925,Sofía Sánchez,61,F,Jesús María,Odontología,2024-05-23,153.12
+P1926,Andrea Rodríguez,68,F,Jesús María,Cardiología,2024-04-12,449.37
+P1927,Claudia Sánchez,76,F,No especificado,Psicología,2024-02-26,204.92
+P1928,Patricia González,83,F,San Isidro,Psicología,2024-12-19,111.07
+P1929,José González,69,M,Pueblo Libre,Dermatología,2024-04-09,179.77
+P1930,Luis García,53,M,Surco,Ginecología,2024-10-26,80.69
+P1931,Luis Martínez,18,M,Jesús María,Psicología,2024-01-31,260.8
+P1932,Isabel Torres,16,F,Miraflores,Neurología,2024-04-12,275.61
+P1933,María Sánchez,12,F,Lince,Cardiología,2024-12-12,207.08
+P1934,Fernando Martínez,90,M,San Miguel,Psicología,2024-07-19,115.09
+P1935,Isabel Gómez,44,F,No especificado,Ginecología,2024-10-04,216.25
+P1936,Miguel Fernández,28,M,Magdalena,Odontología,2024-11-05,300.7
+P1937,Roberto García,87,M,Jesús María,Medicina General,2024-01-05,457.63
+P1938,Antonio Ramírez,79,M,San Borja,Cardiología,2024-12-31,315.69
+P1939,Luis García,74,M,La Molina,Traumatología,2024-01-13,265.43
+P1940,Roberto Sánchez,1,M,Surquillo,Neurología,2024-09-21,73.7
+P1941,Fernando Martínez,72,M,San Isidro,Neurología,2024-12-25,392.06
+P1942,Miguel López,43,M,No especificado,Psicología,2024-01-04,454.4
+P1943,Diego López,52,M,San Isidro,Neurología,2024-05-12,268.12
+P1944,Andrea Gómez,88,F,San Borja,Psicología,2024-08-01,142.61
+P1945,Carlos Ramírez,54,M,Jesús María,Medicina General,2024-08-23,182.52
+P1946,José López,81,M,Miraflores,Dermatología,2024-05-24,386.15
+P1947,Andrea Sánchez,15,F,No especificado,Medicina General,2024-11-29,475.32
+P1948,Ana Torres,80,F,San Isidro,Traumatología,2024-01-27,312.43
+P1949,Laura Díaz,23,F,Jesús María,Urología,2024-05-07,178.89
+P1950,Miguel García,1,M,Magdalena,Ginecología,2024-01-03,326.21
+P1951,María López,72,F,Barranco,Neurología,2024-11-12,210.48
+P1952,Lucía Gómez,61,F,Magdalena,Medicina General,2024-05-07,397.67
+P1953,Roberto Fernández,7,M,Surquillo,Dermatología,2024-12-21,389.43
+P1954,María Díaz,25,F,No especificado,Ginecología,2024-03-28,212.01
+P1955,Claudia Martínez,16,F,Barranco,Dermatología,2024-09-18,444.73
+P1956,Claudia Díaz,73,F,Miraflores,Cardiología,2024-11-15,443.66
+P1957,Sofía Gómez,56,F,Miraflores,Cirugía,2024-09-18,275.7
+P1958,Ana Fernández,51,F,San Isidro,Oftalmología,2024-09-15,335.08
+P1959,Sofía García,47,F,No especificado,Medicina General,2024-04-11,168.76
+P1960,Andrea Díaz,62,F,Jesús María,Medicina General,2024-10-19,145.31
+P1961,Andrea Díaz,66,F,Miraflores,Psicología,2024-02-05,440.36
+P1962,Ricardo López,63,M,Surco,Pediatría,2024-03-22,429.61
+P1963,Carmen Pérez,36,F,La Molina,Pediatría,2024-07-01,249.08
+P1964,Roberto Sánchez,78,M,San Borja,Traumatología,2024-09-09,230.13
+P1965,María Ramírez,31,F,Miraflores,Urología,2024-08-16,211.51
+P1966,Juan García,63,M,Lince,Pediatría,2024-03-21,309.75
+P1967,Isabel Sánchez,53,F,Surco,Odontología,2024-03-07,59.49
+P1968,Andrea Pérez,25,F,Barranco,Cardiología,2024-09-13,486.38
+P1969,Luis Pérez,54,M,Magdalena,Traumatología,2024-09-27,130.06
+P1970,Sofía Fernández,2,F,Barranco,Dermatología,2024-11-28,486.31
+P1971,Roberto Ramírez,14,M,Jesús María,Odontología,2024-12-25,383.47
+P1972,Luis García,15,M,Barranco,Ginecología,2024-05-18,282.25
+P1973,Juan Pérez,83,M,Surco,Dermatología,2024-12-03,256.08
+P1974,Sofía Sánchez,54,F,Pueblo Libre,Neurología,2024-04-19,417.15
+P1975,Diego Gómez,35,M,No especificado,Traumatología,2024-03-01,460.1
+P1976,Antonio López,47,M,Miraflores,Medicina General,2024-03-09,407.59
+P1977,Juan González,28,M,Barranco,Traumatología,2024-01-18,260.87
+P1978,Isabel Pérez,21,F,No especificado,Odontología,2024-06-01,480.89
+P1979,Patricia Martínez,13,F,Jesús María,Pediatría,2024-02-04,470.2
+P1980,Roberto Ramírez,11,M,Magdalena,Traumatología,2024-08-24,172.57
+P1981,Pedro García,82,M,Jesús María,Pediatría,2024-01-07,198.35
+P1982,Andrea Fernández,62,F,No especificado,Ginecología,2024-11-12,86.77
+P1983,José Sánchez,58,M,San Miguel,Cardiología,2024-03-28,421.84
+P1984,Carlos Díaz,57,M,Surquillo,Cardiología,2024-11-08,397.59
+P1985,Carlos López,80,M,Lince,Pediatría,2024-10-19,436.64
+P1986,Elena García,42,F,San Miguel,Medicina General,2024-11-23,292.09
+P1987,Ana González,6,F,Barranco,Medicina General,2024-04-01,183.24
+P1988,María Ramírez,17,F,Magdalena,Medicina General,2024-10-21,384.2
+P1989,Roberto Sánchez,30,M,San Miguel,Psicología,2024-08-17,168.51
+P1990,Sofía Sánchez,24,F,Magdalena,Ginecología,2024-06-16,355.02
+P1991,Antonio Díaz,77,M,Surquillo,Psicología,2024-01-24,87.65
+P1992,Andrea Ramírez,32,F,Magdalena,Medicina General,2024-07-15,375.08
+P1993,Carlos Ramírez,34,M,No especificado,Medicina General,2024-02-15,68.09
+P1994,Antonio Fernández,46,M,No especificado,Neurología,2024-11-30,289.35
+P1995,Roberto Pérez,38,M,San Isidro,Traumatología,2024-05-23,398.66
+P1996,Fernando López,69,M,Magdalena,Urología,2024-11-10,498.87
+P1997,Ricardo Ramírez,77,M,No especificado,Traumatología,2024-09-04,141.9
+P1998,Andrea García,43,F,No especificado,Medicina General,2024-03-27,438.94
+P1999,Elena Ramírez,65,F,San Isidro,Odontología,2024-02-29,482.82
+P2000,Andrea Gómez,9,F,Magdalena,Ginecología,2024-10-25,303.83
+P2001,Roberto Sánchez,80,M,San Miguel,Pediatría,2024-09-30,234.94
+P2002,Javier González,22,M,Lince,Pediatría,2024-07-04,98.22
+P2003,Isabel López,80,F,Lince,Pediatría,2024-06-05,112.82
+P2004,María Ramírez,44,F,Surquillo,Neurología,2024-08-21,457.88
+P2005,Luis Martínez,88,M,Lince,Cardiología,2024-10-05,118.42
+P2006,Sofía Sánchez,19,F,Surco,Psicología,2024-10-26,460.46
+P2007,Isabel Ramírez,86,F,San Isidro,Traumatología,2024-03-21,184.11
+P2008,José Pérez,48,M,Lince,Ginecología,2024-02-29,220.04
+P2009,Rosa Fernández,42,F,No especificado,Urología,2024-09-12,386.88
+P2010,Elena Sánchez,26,F,Jesús María,Medicina General,2024-11-24,376.28
+P2011,Roberto Fernández,31,M,San Miguel,Dermatología,2024-09-04,423.01
+P2012,Lucía Gómez,25,F,La Molina,Medicina General,2024-06-17,330.16
+P2013,Andrea Sánchez,35,F,San Isidro,Cardiología,2024-12-23,351.98
+P2014,Carlos Rodríguez,13,M,La Molina,Medicina General,2024-08-15,305.07
+P2015,Javier Ramírez,55,M,San Borja,Psicología,2024-04-23,63.68
+P2016,Miguel Martínez,15,M,Jesús María,Psicología,2024-05-10,278.82
+P2017,Claudia González,43,F,San Miguel,Medicina General,2024-07-28,180.21
+P2018,Juan Sánchez,48,M,Surco,Ginecología,2024-07-11,327.68
+P2019,Claudia González,81,F,San Miguel,Medicina General,2024-12-28,389.88
+P2020,Elena Pérez,7,F,Magdalena,Pediatría,2024-11-27,180.87
+P2021,Ana Pérez,29,F,Miraflores,Traumatología,2024-12-31,171.21
+P2022,Juan Gómez,28,M,Lince,Pediatría,2024-07-22,61.99
+P2023,Pedro Gómez,63,M,San Miguel,Dermatología,2024-11-28,104.7
+P2024,Andrea Torres,79,F,Jesús María,Dermatología,2024-09-30,216.15
+P2025,Luis González,2,M,Surco,Psicología,2024-09-19,332.29
+P2026,Javier López,1,M,Magdalena,Urología,2024-10-29,93.72
+P2027,José Ramírez,11,M,Miraflores,Neurología,2024-03-09,330.6
+P2028,Javier Torres,35,M,San Miguel,Psicología,2024-11-30,486.18
+P2029,Roberto Rodríguez,60,M,No especificado,Cirugía,2024-11-22,104.32
+P2030,María González,78,F,San Borja,Odontología,2024-01-29,473.99
+P2031,Luis Fernández,84,M,No especificado,Medicina General,2024-09-29,219.83
+P2032,Roberto Pérez,57,M,San Miguel,Medicina General,2024-12-01,274.52
+P2033,Isabel Rodríguez,49,F,San Isidro,Odontología,2024-07-31,227.62
+P2034,Antonio Torres,81,M,Barranco,Urología,2024-09-30,332.31
+P2035,Roberto López,79,M,Surco,Dermatología,2024-10-19,104.73
+P2036,José Ramírez,59,M,Miraflores,Cardiología,2024-01-17,258.35
+P2037,Ana López,17,F,Miraflores,Oftalmología,2024-09-06,109.19
+P2038,Diego Martínez,88,M,San Borja,Medicina General,2024-11-09,424.98
+P2039,Sofía Torres,10,F,No especificado,Urología,2024-06-10,259.02
+P2040,Ricardo Torres,48,M,Surco,Odontología,2024-12-02,284.26
+P2041,Ricardo Pérez,18,M,La Molina,Dermatología,2024-12-17,306.62
+P2042,Laura Torres,67,F,San Borja,Cardiología,2024-03-04,375.2
+P2043,Sofía García,62,F,La Molina,Cardiología,2024-11-25,245.02
+P2044,Laura Ramírez,58,F,Jesús María,Medicina General,2024-03-17,179.67
+P2045,Juan Gómez,81,M,La Molina,Neurología,2024-01-29,342.83
+P2046,Roberto Díaz,49,M,Jesús María,Cardiología,2024-08-12,329.35
+P2047,Pedro Torres,79,M,San Isidro,Urología,2024-09-09,340.67
+P2048,Claudia Ramírez,76,F,Miraflores,Traumatología,2024-12-14,79.17
+P2049,José Fernández,64,M,San Isidro,Medicina General,2024-01-27,300.83
+P2050,Miguel Martínez,12,M,Pueblo Libre,Urología,2024-11-22,77.13
+P2051,Miguel Gómez,59,M,No especificado,Neurología,2024-04-28,231.24
+P2052,María Rodríguez,51,F,San Borja,Pediatría,2024-11-28,130.77
+P2053,Carmen Martínez,62,F,Pueblo Libre,Traumatología,2024-03-13,118.15
+P2054,José Martínez,55,M,No especificado,Neurología,2024-09-11,390.53
+P2055,Luis Martínez,11,M,Lince,Cirugía,2024-01-02,91.99
+P2056,Sofía García,62,F,Magdalena,Odontología,2024-09-05,478.13
+P2057,Patricia García,53,F,Surco,Neurología,2024-10-08,491.04
+P2058,Sofía Pérez,8,F,Magdalena,Neurología,2024-12-21,200.21
+P2059,Rosa García,12,F,Surco,Medicina General,2024-03-22,185.26
+P2060,Antonio Rodríguez,47,M,Barranco,Ginecología,2024-09-20,235.41
+P2061,Claudia López,50,F,Surco,Medicina General,2024-09-21,202.12
+P2062,Antonio García,23,M,Surquillo,Psicología,2024-01-11,268.85
+P2063,Ricardo López,73,M,Miraflores,Cardiología,2024-03-18,252.62
+P2064,Carlos Díaz,3,M,Barranco,Medicina General,2024-12-07,343.16
+P2065,Luis Rodríguez,79,M,Magdalena,Pediatría,2024-05-21,218.03
+P2066,Andrea Gómez,3,F,No especificado,Medicina General,2024-06-11,79.09
+P2067,Pedro Martínez,71,M,Pueblo Libre,Dermatología,2024-01-26,253.4
+P2068,Carmen García,73,F,San Borja,Dermatología,2024-03-07,294.59
+P2069,Antonio Torres,83,M,Surco,Odontología,2024-01-22,311.12
+P2070,Claudia Pérez,42,F,La Molina,Neurología,2024-05-25,176.84
+P2071,Lucía Pérez,10,F,Jesús María,Cardiología,2024-05-22,369.12
+P2072,Isabel Torres,34,F,La Molina,Urología,2024-08-15,152.47
+P2073,Patricia Fernández,6,F,La Molina,Traumatología,2024-09-27,309.94
+P2074,Luis García,37,M,Pueblo Libre,Pediatría,2024-07-30,154.94
+P2075,Andrea García,6,F,Pueblo Libre,Cardiología,2024-09-13,177.3
+P2076,Miguel López,76,M,Lince,Odontología,2024-12-12,305.53
+P2077,Laura Gómez,60,F,Magdalena,Medicina General,2024-07-02,422.0
+P2078,Lucía Pérez,44,F,San Miguel,Cardiología,2024-01-10,428.64
+P2079,María Díaz,46,F,No especificado,Psicología,2024-02-20,432.09
+P2080,Carlos Gómez,33,M,Barranco,Dermatología,2024-08-19,52.15
+P2081,José Sánchez,51,M,La Molina,Dermatología,2024-06-23,306.4
+P2082,Juan Martínez,79,M,La Molina,Urología,2024-01-12,456.66
+P2083,Diego Rodríguez,21,M,San Miguel,Cardiología,2024-11-03,310.13
+P2084,Patricia Sánchez,23,F,Barranco,Psicología,2024-02-04,393.73
+P2085,Fernando Rodríguez,22,M,No especificado,Urología,2024-01-15,205.93
+P2086,Javier Rodríguez,90,M,Surco,Urología,2024-10-04,365.7
+P2087,Miguel Gómez,45,M,San Miguel,Cirugía,2024-05-18,165.55
+P2088,Juan López,49,M,Miraflores,Traumatología,2024-02-04,172.74
+P2089,Rosa García,73,F,Pueblo Libre,Medicina General,2024-07-12,300.43
+P2090,Miguel Pérez,63,M,Surco,Ginecología,2024-02-22,62.47
+P2091,Carlos Rodríguez,20,M,Miraflores,Odontología,2024-12-25,240.86
+P2092,Miguel Díaz,82,M,San Miguel,Dermatología,2024-10-10,75.54
+P2093,Fernando Ramírez,30,M,Jesús María,Traumatología,2024-09-28,389.56
+P2094,Luis Ramírez,88,M,No especificado,Ginecología,2024-10-05,159.75
+P2095,Carmen Torres,81,F,No especificado,Medicina General,2024-01-30,356.29
+P2096,Luis López,57,M,Magdalena,Dermatología,2024-06-04,135.77
+P2097,Luis Sánchez,86,M,Surco,Cardiología,2024-06-14,276.97
+P2098,Lucía García,89,F,Jesús María,Dermatología,2024-01-29,88.88
+P2099,Sofía Ramírez,64,F,Miraflores,Traumatología,2024-10-29,496.3
+P2100,Lucía Rodríguez,17,F,Miraflores,Dermatología,2024-09-17,311.33
+P2101,Ricardo Martínez,74,M,San Borja,Ginecología,2024-01-25,420.5
+P2102,Carmen Gómez,88,F,Lince,Oftalmología,2024-04-06,215.58
+P2103,Rosa Díaz,13,F,Miraflores,Traumatología,2024-01-08,154.51
+P2104,Diego González,76,M,La Molina,Neurología,2024-10-28,348.16
+P2105,Sofía Sánchez,30,F,No especificado,Urología,2024-07-04,219.26
+P2106,Diego Díaz,61,M,No especificado,Ginecología,2024-09-05,455.98
+P2107,José González,59,M,Jesús María,Dermatología,2024-08-12,187.32
+P2108,Diego Pérez,80,M,San Isidro,Cirugía,2024-02-02,118.47
+P2109,Andrea González,78,F,Surquillo,Neurología,2024-07-18,178.9
+P2110,Rosa López,68,F,Surquillo,Medicina General,2024-05-09,335.1
+P2111,María Ramírez,12,F,Surco,Odontología,2024-01-02,163.78
+P2112,Antonio Fernández,39,M,La Molina,Pediatría,2024-08-30,406.38
+P2113,Pedro Pérez,62,M,San Borja,Cardiología,2024-09-23,95.27
+P2114,Laura Pérez,19,F,Jesús María,Pediatría,2024-07-03,89.83
+P2115,Isabel Torres,27,F,Magdalena,Cardiología,2024-08-30,339.53
+P2116,Roberto Gómez,28,M,Surquillo,Pediatría,2024-06-22,354.13
+P2117,Antonio Sánchez,8,M,San Borja,Oftalmología,2024-06-17,249.98
+P2118,Carlos Fernández,9,M,Barranco,Neurología,2024-04-30,87.8
+P2119,Rosa García,3,F,San Isidro,Urología,2024-09-10,363.34
+P2120,Pedro Martínez,61,M,San Isidro,Odontología,2024-05-21,84.88
+P2121,Carmen Rodríguez,73,F,Miraflores,Traumatología,2024-08-22,101.35
+P2122,Javier Fernández,38,M,Magdalena,Pediatría,2024-03-14,111.14
+P2123,Miguel Rodríguez,66,M,San Miguel,Oftalmología,2024-04-13,164.36
+P2124,Sofía García,75,F,Surco,Neurología,2024-08-23,170.35
+P2125,Lucía Díaz,62,F,No especificado,Cardiología,2024-05-01,359.28
+P2126,Patricia Martínez,75,F,Miraflores,Oftalmología,2024-09-20,273.76
+P2127,Javier López,77,M,No especificado,Traumatología,2024-01-15,388.06
+P2128,Sofía Díaz,77,F,Pueblo Libre,Medicina General,2024-10-18,479.76
+P2129,Elena García,90,F,Miraflores,Medicina General,2024-05-31,344.28
+P2130,Roberto Martínez,61,M,Miraflores,Urología,2024-10-05,210.13
+P2131,Laura Sánchez,73,F,San Borja,Psicología,2024-09-17,265.84
+P2132,Fernando Gómez,67,M,San Miguel,Cardiología,2024-02-12,238.4
+P2133,Patricia Ramírez,60,F,Surquillo,Odontología,2024-09-15,316.29
+P2134,Luis Gómez,59,M,No especificado,Dermatología,2024-05-02,430.72
+P2135,Roberto Díaz,56,M,San Isidro,Psicología,2024-10-21,494.19
+P2136,Carmen Fernández,29,F,Lince,Traumatología,2024-01-15,144.79
+P2137,Claudia García,68,F,San Isidro,Neurología,2024-01-14,396.76
+P2138,Antonio González,71,M,San Miguel,Odontología,2024-11-23,447.9
+P2139,Carmen Pérez,11,F,Lince,Medicina General,2024-02-29,379.19
+P2140,Rosa Martínez,78,F,No especificado,Odontología,2024-10-05,468.57
+P2141,Rosa Rodríguez,14,F,San Isidro,Traumatología,2024-08-15,314.54
+P2142,Luis Fernández,79,M,Magdalena,Dermatología,2024-03-04,287.48
+P2143,Sofía Gómez,68,F,Pueblo Libre,Medicina General,2024-09-25,140.63
+P2144,Juan Rodríguez,60,M,No especificado,Pediatría,2024-03-13,448.89
+P2145,Patricia Gómez,36,F,Pueblo Libre,Pediatría,2024-11-18,272.44
+P2146,Andrea Martínez,85,F,Lince,Cardiología,2024-08-12,182.44
+P2147,Luis González,12,M,Surco,Pediatría,2024-03-29,99.85
+P2148,Lucía García,39,F,San Isidro,Oftalmología,2024-10-30,486.06
+P2149,Sofía Rodríguez,11,F,Miraflores,Urología,2024-09-01,194.14
+P2150,Lucía Pérez,48,F,San Borja,Pediatría,2024-07-25,330.32
+P2151,Claudia González,44,F,Magdalena,Neurología,2024-06-25,273.06
+P2152,Rosa López,87,F,San Isidro,Traumatología,2024-06-22,426.06
+P2153,José Díaz,16,M,No especificado,Urología,2024-12-02,462.41
+P2154,Javier Pérez,90,M,San Isidro,Urología,2024-03-11,172.62
+P2155,Rosa Ramírez,34,F,Lince,Dermatología,2024-12-23,255.44
+P2156,Claudia Martínez,25,F,Jesús María,Cardiología,2024-07-18,381.84
+P2157,Carmen Ramírez,87,F,Jesús María,Neurología,2024-10-03,308.19
+P2158,Carmen González,10,F,Surco,Ginecología,2024-11-17,179.55
+P2159,Claudia García,17,F,Lince,Psicología,2024-12-11,72.77
+P2160,Antonio Torres,25,M,San Miguel,Odontología,2024-09-20,329.15
+P2161,Javier Martínez,79,M,Surquillo,Urología,2024-10-19,466.64
+P2162,Luis Martínez,30,M,Lince,Urología,2024-10-23,156.41
+P2163,Ana Gómez,3,F,Surco,Medicina General,2024-04-23,212.61
+P2164,Ricardo Rodríguez,89,M,Lince,Odontología,2024-01-02,98.48
+P2165,Roberto Torres,5,M,San Borja,Odontología,2024-01-30,338.42
+P2166,Luis García,35,M,Surco,Neurología,2024-09-22,482.85
+P2167,Juan Gómez,48,M,No especificado,Dermatología,2024-11-08,361.11
+P2168,Antonio Martínez,45,M,San Borja,Medicina General,2024-03-11,314.45
+P2169,Patricia Rodríguez,77,F,Lince,Medicina General,2024-07-12,243.56
+P2170,José Rodríguez,52,M,San Borja,Urología,2024-03-15,404.52
+P2171,Claudia Torres,24,F,San Borja,Neurología,2024-03-18,206.3
+P2172,Sofía López,76,F,Jesús María,Medicina General,2024-11-25,135.02
+P2173,Carlos Gómez,14,M,San Borja,Traumatología,2024-08-19,464.63
+P2174,José Díaz,54,M,Jesús María,Traumatología,2024-02-26,102.05
+P2175,Sofía Díaz,20,F,Jesús María,Neurología,2024-06-05,176.88
+P2176,Ana Torres,9,F,Lince,Oftalmología,2024-10-23,252.79
+P2177,Fernando Ramírez,43,M,No especificado,Oftalmología,2024-04-27,77.35
+P2178,Antonio Sánchez,86,M,No especificado,Traumatología,2024-02-26,435.13
+P2179,Fernando Pérez,57,M,Barranco,Psicología,2024-12-31,267.98
+P2180,Juan Rodríguez,20,M,San Isidro,Traumatología,2024-12-21,82.71
+P2181,Fernando Fernández,57,M,Barranco,Oftalmología,2024-07-21,359.32
+P2182,Diego Fernández,12,M,San Borja,Odontología,2024-07-16,332.35
+P2183,Roberto Martínez,10,M,Miraflores,Cardiología,2024-09-04,247.27
+P2184,Isabel Ramírez,67,F,Pueblo Libre,Cirugía,2024-05-08,369.01
+P2185,Miguel Gómez,33,M,Barranco,Odontología,2024-01-24,90.82
+P2186,Lucía García,70,F,No especificado,Psicología,2024-03-17,76.25
+P2187,Elena Díaz,73,F,San Isidro,Neurología,2024-04-18,306.64
+P2188,Antonio Sánchez,78,M,Pueblo Libre,Ginecología,2024-11-20,455.0
+P2189,Roberto González,89,M,Magdalena,Medicina General,2024-01-05,199.77
+P2190,Miguel García,69,M,Lince,Cardiología,2024-05-12,402.96
+P2191,Miguel Fernández,65,M,Surco,Ginecología,2024-08-28,386.82
+P2192,José Rodríguez,62,M,Surco,Odontología,2024-03-14,101.5
+P2193,Elena Pérez,30,F,San Borja,Neurología,2024-02-18,229.92
+P2194,Antonio Pérez,1,M,Magdalena,Cardiología,2024-09-26,225.46
+P2195,Patricia Pérez,33,F,Lince,Ginecología,2024-12-24,297.46
+P2196,Fernando Torres,45,M,Barranco,Cardiología,2024-01-25,160.44
+P2197,Ricardo Martínez,7,M,Surquillo,Urología,2024-07-15,132.09
+P2198,Fernando Díaz,17,M,Surquillo,Dermatología,2024-04-20,183.54
+P2199,Rosa Fernández,72,F,No especificado,Odontología,2024-08-10,374.29
+P2200,Patricia Díaz,25,F,San Isidro,Traumatología,2024-05-05,371.15
+P2201,Roberto López,28,M,Jesús María,Medicina General,2024-04-10,149.69
+P2202,Claudia Rodríguez,59,F,No especificado,Psicología,2025-01-01,66.93
+P2203,Juan Pérez,85,M,La Molina,Traumatología,2024-01-10,140.76
+P2204,Fernando Gómez,42,M,Lince,Urología,2024-09-23,328.09
+P2205,Carmen Pérez,80,F,San Isidro,Medicina General,2024-07-15,92.18
+P2206,Carmen Torres,4,F,Jesús María,Medicina General,2024-11-07,497.07
+P2207,Antonio López,26,M,Magdalena,Dermatología,2024-12-07,329.57
+P2208,Miguel Sánchez,38,M,Pueblo Libre,Pediatría,2024-04-07,68.92
+P2209,Claudia Martínez,67,F,Jesús María,Medicina General,2024-03-17,70.36
+P2210,Miguel Sánchez,85,M,San Borja,Cardiología,2024-12-06,250.11
+P2211,Javier Sánchez,61,M,Jesús María,Cardiología,2024-08-01,53.05
+P2212,Carmen Gómez,48,F,La Molina,Ginecología,2024-02-08,196.29
+P2213,Javier López,83,M,Miraflores,Urología,2024-06-18,310.26
+P2214,Javier Rodríguez,90,M,Lince,Medicina General,2024-04-20,276.76
+P2215,Fernando Pérez,12,M,San Isidro,Ginecología,2024-11-15,217.31
+P2216,Diego Ramírez,1,M,Surco,Traumatología,2024-07-12,209.4
+P2217,Isabel González,52,F,Surco,Urología,2024-03-05,114.61
+P2218,Sofía Díaz,25,F,San Borja,Pediatría,2024-07-22,385.27
+P2219,Patricia Martínez,78,F,No especificado,Traumatología,2024-10-06,72.13
+P2220,Juan Pérez,15,M,Magdalena,Psicología,2024-03-25,498.56
+P2221,Javier Torres,6,M,San Miguel,Neurología,2024-01-11,106.16
+P2222,Elena Sánchez,66,F,La Molina,Urología,2024-08-30,65.03
+P2223,Carlos Gómez,50,M,No especificado,Oftalmología,2024-05-24,290.53
+P2224,Roberto González,37,M,Surquillo,Pediatría,2024-12-03,137.91
+P2225,Pedro García,20,M,San Isidro,Medicina General,2024-10-27,61.63
+P2226,Ricardo Ramírez,47,M,Miraflores,Cardiología,2024-08-17,226.07
+P2227,Sofía Rodríguez,65,F,Magdalena,Cardiología,2024-08-02,321.73
+P2228,Elena Fernández,66,F,La Molina,Urología,2024-07-18,386.3
+P2229,Roberto Sánchez,18,M,San Borja,Psicología,2024-11-02,256.38
+P2230,Andrea Pérez,70,F,San Borja,Ginecología,2024-11-14,147.14
+P2231,Elena Ramírez,5,F,San Miguel,Dermatología,2024-08-13,146.33
+P2232,Isabel Fernández,88,F,Lince,Cardiología,2024-06-08,163.34
+P2233,María Martínez,16,F,Lince,Urología,2024-01-31,283.06
+P2234,María Sánchez,37,F,Surquillo,Odontología,2024-12-01,261.84
+P2235,José Rodríguez,17,M,San Isidro,Ginecología,2024-06-25,369.76
+P2236,Andrea Fernández,76,F,San Borja,Cirugía,2024-06-27,232.64
+P2237,Antonio Ramírez,1,M,Miraflores,Medicina General,2024-12-22,403.0
+P2238,Patricia Díaz,31,F,Surco,Neurología,2024-12-23,226.46
+P2239,Pedro García,5,M,No especificado,Traumatología,2024-08-08,306.51
+P2240,María López,8,F,Surquillo,Neurología,2024-06-18,423.8
+P2241,Luis Fernández,82,M,San Isidro,Cirugía,2024-04-26,263.79
+P2242,Isabel Gómez,17,F,Lince,Psicología,2024-09-22,437.48
+P2243,Laura Sánchez,16,F,San Borja,Medicina General,2024-06-09,226.47
+P2244,Antonio Torres,18,M,San Miguel,Ginecología,2024-11-18,439.41
+P2245,Laura González,89,F,San Isidro,Urología,2024-09-26,424.78
+P2246,María Martínez,12,F,No especificado,Pediatría,2024-01-26,63.93
+P2247,Sofía López,36,F,San Miguel,Dermatología,2024-01-03,231.86
+P2248,Juan Fernández,58,M,Barranco,Odontología,2024-10-02,234.8
+P2249,Ana González,4,F,Pueblo Libre,Pediatría,2024-12-10,142.25
+P2250,Elena Torres,49,F,No especificado,Medicina General,2024-01-03,56.06
+P2251,Fernando Sánchez,26,M,San Borja,Cirugía,2024-06-03,213.01
+P2252,Elena Martínez,31,F,San Borja,Medicina General,2024-10-15,141.4
+P2253,José Fernández,30,M,Miraflores,Pediatría,2024-04-08,146.13
+P2254,Diego Ramírez,63,M,Barranco,Psicología,2024-12-01,386.59
+P2255,Javier González,31,M,San Borja,Medicina General,2024-10-17,257.79
+P2256,Ricardo Sánchez,48,M,San Borja,Neurología,2024-02-07,239.54
+P2257,Diego Pérez,80,M,Miraflores,Cardiología,2024-09-29,267.76
+P2258,Carmen López,52,F,Magdalena,Psicología,2024-02-01,142.82
+P2259,Andrea Ramírez,6,F,Surquillo,Neurología,2024-01-09,394.3
+P2260,Miguel Pérez,83,M,Barranco,Ginecología,2024-11-18,358.67
+P2261,Juan Díaz,66,M,Lince,Medicina General,2024-03-27,148.83
+P2262,Juan Pérez,23,M,San Borja,Urología,2024-07-04,391.24
+P2263,José Sánchez,83,M,Jesús María,Urología,2024-07-26,128.69
+P2264,Antonio García,49,M,San Borja,Psicología,2024-08-18,53.51
+P2265,Elena Ramírez,33,F,San Borja,Cirugía,2024-08-01,305.99
+P2266,José Díaz,54,M,La Molina,Urología,2024-11-14,57.53
+P2267,Miguel Díaz,85,M,San Isidro,Neurología,2024-04-29,51.21
+P2268,Carlos Gómez,21,M,Lince,Ginecología,2024-05-06,420.18
+P2269,Isabel Ramírez,25,F,San Isidro,Cardiología,2024-07-12,221.19
+P2270,Juan Fernández,6,M,Surco,Psicología,2024-07-12,209.54
+P2271,Carlos Ramírez,82,M,San Borja,Neurología,2024-07-20,310.58
+P2272,José Rodríguez,76,M,San Isidro,Dermatología,2024-11-13,65.79
+P2273,Isabel Martínez,81,F,Surco,Oftalmología,2024-11-08,68.18
+P2274,Carlos Pérez,65,M,San Isidro,Dermatología,2024-12-07,357.48
+P2275,Juan García,88,M,No especificado,Dermatología,2024-09-11,402.58
+P2276,Pedro Martínez,57,M,Surquillo,Neurología,2024-11-17,260.88
+P2277,Ricardo Díaz,18,M,Jesús María,Cardiología,2024-11-22,138.39
+P2278,Andrea López,74,F,Miraflores,Psicología,2024-04-26,387.9
+P2279,Lucía Torres,22,F,San Miguel,Psicología,2024-02-17,151.53
+P2280,Luis Gómez,19,M,La Molina,Medicina General,2024-09-27,355.88
+P2281,José Torres,72,M,Barranco,Oftalmología,2024-03-01,303.94
+P2282,Carlos López,8,M,Magdalena,Pediatría,2024-05-29,473.55
+P2283,Claudia García,72,F,Lince,Psicología,2024-11-01,179.39
+P2284,Laura López,21,F,San Miguel,Medicina General,2024-11-17,159.14
+P2285,Antonio Torres,63,M,Pueblo Libre,Cirugía,2024-01-28,169.86
+P2286,Antonio Fernández,87,M,Jesús María,Ginecología,2024-06-11,52.76
+P2287,Ana Pérez,30,F,La Molina,Psicología,2024-01-22,162.24
+P2288,Juan Martínez,4,M,Barranco,Dermatología,2024-07-03,155.66
+P2289,Miguel Sánchez,44,M,Magdalena,Pediatría,2024-12-24,83.9
+P2290,Elena González,28,F,Lince,Ginecología,2024-05-07,190.2
+P2291,Isabel Ramírez,24,F,Magdalena,Cirugía,2024-09-11,77.35
+P2292,Pedro Torres,16,M,San Isidro,Pediatría,2024-12-22,147.5
+P2293,Pedro Sánchez,71,M,San Isidro,Ginecología,2024-12-03,253.52
+P2294,Roberto Torres,76,M,Surco,Odontología,2024-11-25,368.04
+P2295,Claudia Díaz,76,F,Pueblo Libre,Traumatología,2024-09-01,174.15
+P2296,Fernando Gómez,62,M,Pueblo Libre,Pediatría,2025-01-01,218.9
+P2297,Sofía Díaz,31,F,La Molina,Cirugía,2024-09-22,59.71
+P2298,Claudia Rodríguez,74,F,Jesús María,Medicina General,2024-09-23,475.25
+P2299,María Ramírez,45,F,Barranco,Traumatología,2024-10-12,254.77
+P2300,Fernando Rodríguez,66,M,San Borja,Medicina General,2024-04-26,375.73
+P2301,Ricardo Martínez,39,M,San Miguel,Dermatología,2024-12-24,340.86
+P2302,Lucía Pérez,74,F,Jesús María,Traumatología,2024-10-11,167.43
+P2303,Ana Fernández,26,F,Miraflores,Neurología,2024-09-11,284.97
+P2304,Pedro Ramírez,59,M,Miraflores,Urología,2024-06-24,126.02
+P2305,José López,49,M,La Molina,Cardiología,2024-06-24,277.85
+P2306,Rosa Rodríguez,15,F,No especificado,Traumatología,2024-01-13,350.64
+P2307,José Martínez,13,M,La Molina,Cardiología,2024-08-23,469.57
+P2308,Luis Fernández,1,M,San Isidro,Medicina General,2024-04-01,341.74
+P2309,Ricardo Martínez,5,M,Miraflores,Pediatría,2024-03-17,241.55
+P2310,Juan Sánchez,41,M,Jesús María,Ginecología,2024-11-08,358.28
+P2311,Ana Gómez,8,F,La Molina,Pediatría,2024-04-06,95.03
+P2312,Patricia Torres,73,F,Magdalena,Pediatría,2024-04-15,284.16
+P2313,Isabel Gómez,47,F,Pueblo Libre,Psicología,2024-08-10,388.37
+P2314,Juan Díaz,46,M,Pueblo Libre,Odontología,2024-11-06,404.26
+P2315,María López,5,F,Surquillo,Cardiología,2024-08-06,324.23
+P2316,Laura Rodríguez,84,F,No especificado,Ginecología,2024-03-21,375.37
+P2317,Patricia García,55,F,San Miguel,Cardiología,2024-12-06,73.2
+P2318,Roberto González,47,M,Jesús María,Cirugía,2024-08-06,478.81
+P2319,Miguel Martínez,68,M,Surquillo,Cardiología,2024-06-23,133.76
+P2320,José Gómez,53,M,La Molina,Traumatología,2024-06-10,121.09
+P2321,Elena Pérez,53,F,Pueblo Libre,Medicina General,2024-10-19,473.24
+P2322,Luis Ramírez,45,M,San Miguel,Odontología,2024-04-03,141.79
+P2323,Andrea Rodríguez,77,F,No especificado,Ginecología,2024-08-31,128.44
+P2324,Carmen González,56,F,San Miguel,Ginecología,2024-10-29,179.92
+P2325,María Pérez,50,F,Surco,Odontología,2024-12-18,498.68
+P2326,Patricia López,39,F,Pueblo Libre,Psicología,2024-01-18,121.17
+P2327,Juan Ramírez,19,M,No especificado,Pediatría,2024-03-10,214.54
+P2328,Fernando González,6,M,Barranco,Medicina General,2024-03-09,447.26
+P2329,Juan García,63,M,San Isidro,Dermatología,2024-03-19,376.44
+P2330,María Fernández,12,F,Barranco,Medicina General,2024-01-06,94.88
+P2331,Elena González,38,F,Magdalena,Pediatría,2024-08-04,336.17
+P2332,Ana Díaz,25,F,Surco,Traumatología,2024-06-04,52.4
+P2333,Lucía García,48,F,Barranco,Psicología,2024-02-16,262.32
+P2334,Isabel López,71,F,Barranco,Neurología,2025-01-01,70.76
+P2335,Ana Ramírez,22,F,San Miguel,Medicina General,2024-05-04,478.41
+P2336,Antonio López,76,M,Barranco,Psicología,2024-08-12,276.62
+P2337,Carmen Torres,5,F,Pueblo Libre,Medicina General,2024-02-24,188.56
+P2338,Andrea Pérez,51,F,Magdalena,Ginecología,2024-08-07,463.56
+P2339,Laura González,27,F,No especificado,Cirugía,2024-03-05,401.97
+P2340,Ana Sánchez,1,F,San Borja,Cirugía,2024-11-01,448.31
+P2341,Diego Gómez,7,M,Jesús María,Psicología,2024-12-13,312.37
+P2342,Luis Pérez,50,M,San Miguel,Cardiología,2024-06-28,393.89
+P2343,Carmen Rodríguez,27,F,San Isidro,Pediatría,2024-08-01,220.28
+P2344,María Ramírez,17,F,Pueblo Libre,Dermatología,2024-11-10,206.83
+P2345,María Fernández,5,F,Surco,Medicina General,2024-02-03,380.22
+P2346,Sofía Díaz,32,F,La Molina,Odontología,2024-10-16,268.62
+P2347,Juan Gómez,15,M,Lince,Traumatología,2024-05-18,345.59
+P2348,Pedro González,9,M,Pueblo Libre,Ginecología,2024-08-11,456.08
+P2349,Carmen Díaz,15,F,Magdalena,Oftalmología,2024-01-13,351.98
+P2350,Ricardo Rodríguez,34,M,Magdalena,Medicina General,2024-10-25,377.07
+P2351,Ana Rodríguez,79,F,Jesús María,Dermatología,2024-03-04,205.21
+P2352,Antonio Martínez,85,M,La Molina,Ginecología,2024-12-29,206.23
+P2353,Pedro Ramírez,1,M,Surquillo,Dermatología,2024-02-08,472.12
+P2354,Ricardo Pérez,48,M,Miraflores,Urología,2024-05-06,222.85
+P2355,Claudia López,71,F,Jesús María,Pediatría,2024-03-24,389.84
+P2356,Rosa Ramírez,82,F,San Miguel,Oftalmología,2024-09-23,224.59
+P2357,Sofía Torres,78,F,Miraflores,Cardiología,2024-10-30,401.27
+P2358,Miguel Gómez,41,M,No especificado,Medicina General,2024-03-04,271.54
+P2359,Roberto Ramírez,42,M,Jesús María,Traumatología,2024-06-19,309.77
+P2360,Antonio González,3,M,San Miguel,Oftalmología,2024-07-08,369.81
+P2361,Lucía Ramírez,51,F,La Molina,Cirugía,2024-10-05,480.79
+P2362,Claudia Pérez,63,F,La Molina,Cardiología,2024-08-25,352.18
+P2363,Isabel Torres,81,F,Barranco,Oftalmología,2024-09-09,460.77
+P2364,Carmen Fernández,49,F,San Miguel,Neurología,2024-07-30,364.96
+P2365,Laura Martínez,48,F,Pueblo Libre,Oftalmología,2024-07-27,217.14
+P2366,Lucía Gómez,61,F,Jesús María,Cirugía,2024-03-14,110.02
+P2367,Carlos López,76,M,Miraflores,Urología,2024-08-14,65.8
+P2368,Sofía Gómez,52,F,Barranco,Neurología,2024-12-06,223.77
+P2369,Laura Martínez,56,F,Barranco,Cardiología,2024-12-04,316.89
+P2370,Javier López,83,M,San Borja,Neurología,2024-06-15,483.04
+P2371,Isabel Sánchez,46,F,Surco,Psicología,2024-07-30,329.23
+P2372,José Rodríguez,38,M,Barranco,Neurología,2024-02-17,446.88
+P2373,Fernando Pérez,65,M,Pueblo Libre,Odontología,2024-06-28,225.22
+P2374,Sofía González,4,F,San Isidro,Cardiología,2024-02-29,357.68
+P2375,Rosa García,79,F,Pueblo Libre,Traumatología,2024-05-11,403.22
+P2376,José Díaz,44,M,La Molina,Odontología,2024-06-20,269.67
+P2377,Andrea Rodríguez,74,F,Pueblo Libre,Dermatología,2024-10-15,387.19
+P2378,Ricardo González,22,M,Pueblo Libre,Pediatría,2024-04-17,263.43
+P2379,Javier Díaz,31,M,San Borja,Medicina General,2024-10-27,347.99
+P2380,Ricardo Torres,33,M,La Molina,Cardiología,2024-04-14,461.69
+P2381,Ana Rodríguez,29,F,No especificado,Cirugía,2024-05-22,229.38
+P2382,María Martínez,69,F,Lince,Pediatría,2024-12-29,161.41
+P2383,Isabel García,61,F,San Miguel,Cirugía,2024-02-28,198.52
+P2384,Ana Ramírez,25,F,Jesús María,Pediatría,2024-05-25,467.8
+P2385,Elena Ramírez,22,F,No especificado,Medicina General,2024-09-05,471.88
+P2386,Roberto Rodríguez,72,M,Barranco,Cirugía,2024-05-27,214.81
+P2387,Sofía Torres,53,F,San Borja,Odontología,2024-09-14,146.11
+P2388,Claudia López,2,F,Miraflores,Oftalmología,2024-04-06,489.7
+P2389,Luis Gómez,18,M,Barranco,Oftalmología,2024-04-24,78.25
+P2390,Antonio Gómez,42,M,Surco,Traumatología,2024-04-14,195.28
+P2391,Andrea Gómez,33,F,San Miguel,Cardiología,2024-04-29,219.33
+P2392,María Martínez,85,F,Pueblo Libre,Medicina General,2024-05-23,167.89
+P2393,Sofía Fernández,4,F,Miraflores,Neurología,2024-12-21,154.23
+P2394,Isabel Gómez,34,F,San Isidro,Oftalmología,2024-06-16,356.95
+P2395,José Pérez,8,M,San Isidro,Oftalmología,2024-06-04,101.52
+P2396,Laura Gómez,56,F,Barranco,Dermatología,2024-07-10,190.04
+P2397,Isabel Sánchez,82,F,San Borja,Psicología,2024-12-24,66.99
+P2398,Carlos Torres,27,M,Barranco,Odontología,2024-11-16,492.54
+P2399,Rosa Fernández,13,F,Lince,Cardiología,2024-08-11,214.66
+P2400,Diego García,5,M,Surquillo,Traumatología,2024-06-26,476.78
+P2401,Claudia Pérez,8,F,San Borja,Ginecología,2024-01-28,196.07
+P2402,Carlos Díaz,15,M,Surquillo,Ginecología,2024-05-10,124.44
+P2403,Juan García,37,M,La Molina,Pediatría,2024-12-04,318.95
+P2404,Luis Pérez,19,M,San Isidro,Neurología,2024-04-16,457.14
+P2405,Javier López,27,M,Barranco,Cirugía,2024-02-22,379.76
+P2406,María García,21,F,Pueblo Libre,Urología,2024-04-25,180.17
+P2407,María Martínez,85,F,Magdalena,Dermatología,2024-10-31,406.42
+P2408,Carmen Torres,71,F,Lince,Ginecología,2024-11-07,337.95
+P2409,Pedro Rodríguez,8,M,San Isidro,Urología,2024-12-19,383.42
+P2410,Roberto García,70,M,Jesús María,Neurología,2024-05-08,365.84
+P2411,Javier Rodríguez,74,M,San Miguel,Odontología,2024-11-29,64.88
+P2412,Patricia Pérez,29,F,Surquillo,Medicina General,2024-03-18,231.06
+P2413,Laura Martínez,21,F,Magdalena,Urología,2024-04-12,129.22
+P2414,José Rodríguez,48,M,Pueblo Libre,Pediatría,2024-04-18,123.94
+P2415,Pedro Gómez,79,M,San Miguel,Traumatología,2024-04-07,370.79
+P2416,Sofía García,67,F,Pueblo Libre,Odontología,2024-08-31,200.81
+P2417,Fernando Rodríguez,20,M,San Borja,Oftalmología,2024-12-10,411.48
+P2418,Claudia López,22,F,No especificado,Pediatría,2024-09-22,188.77
+P2419,Claudia Pérez,44,F,Surco,Ginecología,2024-09-22,116.08
+P2420,Isabel Sánchez,54,F,San Borja,Cardiología,2024-04-27,323.01
+P2421,Lucía Gómez,5,F,No especificado,Pediatría,2024-08-08,493.28
+P2422,Roberto Rodríguez,17,M,Surco,Traumatología,2024-08-16,289.3
+P2423,Lucía Sánchez,29,F,San Isidro,Cardiología,2024-06-23,428.83
+P2424,María Pérez,15,F,San Isidro,Odontología,2024-04-25,392.8
+P2425,Carmen López,62,F,Lince,Dermatología,2024-08-20,223.45
+P2426,Isabel García,28,F,Lince,Neurología,2024-10-08,217.33
+P2427,Ana López,29,F,Surco,Ginecología,2024-09-08,52.58
+P2428,Carlos García,57,M,San Isidro,Odontología,2024-12-09,254.37
+P2429,Ricardo Sánchez,52,M,San Miguel,Psicología,2024-03-17,467.85
+P2430,María Torres,56,F,Jesús María,Psicología,2024-05-03,61.16
+P2431,Diego Díaz,34,M,Pueblo Libre,Medicina General,2024-06-24,108.17
+P2432,Elena González,81,F,Magdalena,Urología,2024-03-03,281.28
+P2433,Patricia López,18,F,No especificado,Neurología,2024-03-10,346.62
+P2434,Lucía Torres,25,F,No especificado,Medicina General,2024-11-14,258.48
+P2435,Ricardo González,16,M,San Isidro,Pediatría,2024-07-19,160.2
+P2436,Laura Torres,29,F,Magdalena,Ginecología,2024-06-19,193.0
+P2437,Antonio Fernández,51,M,San Borja,Medicina General,2024-11-20,78.67
+P2438,Pedro Rodríguez,51,M,San Isidro,Odontología,2024-01-20,143.2
+P2439,Diego López,84,M,Surco,Traumatología,2024-05-03,265.99
+P2440,Antonio Rodríguez,13,M,San Borja,Oftalmología,2024-10-04,216.19
+P2441,Ana Pérez,47,F,Miraflores,Traumatología,2024-01-23,458.72
+P2442,Laura Fernández,67,F,No especificado,Traumatología,2024-06-22,164.52
+P2443,Claudia López,40,F,San Borja,Urología,2024-05-13,334.11
+P2444,Laura Fernández,23,F,Jesús María,Oftalmología,2024-01-31,348.1
+P2445,Rosa Gómez,13,F,Magdalena,Oftalmología,2024-01-06,352.68
+P2446,Pedro Pérez,57,M,Surquillo,Neurología,2024-12-15,370.05
+P2447,Miguel González,55,M,Jesús María,Neurología,2024-11-23,440.46
+P2448,Carmen Fernández,59,F,Jesús María,Oftalmología,2024-11-07,246.22
+P2449,José Ramírez,56,M,Pueblo Libre,Neurología,2024-10-28,99.84
+P2450,Pedro Pérez,87,M,La Molina,Pediatría,2024-08-30,230.87
+P2451,Lucía Gómez,26,F,Barranco,Traumatología,2024-02-11,347.83
+P2452,Luis Pérez,89,M,Jesús María,Oftalmología,2024-04-02,431.64
+P2453,Claudia Gómez,39,F,Pueblo Libre,Cirugía,2024-07-02,394.1
+P2454,María Martínez,8,F,Lince,Neurología,2024-05-07,294.02
+P2455,Carmen López,30,F,La Molina,Neurología,2024-11-16,71.93
+P2456,Isabel García,74,F,Surquillo,Ginecología,2024-08-16,475.73
+P2457,Carmen González,70,F,Miraflores,Cardiología,2024-06-20,274.04
+P2458,Carlos García,87,M,Magdalena,Psicología,2024-04-05,127.41
+P2459,Roberto Ramírez,90,M,Surquillo,Medicina General,2024-01-25,334.87
+P2460,Antonio González,32,M,Miraflores,Neurología,2024-10-31,450.89
+P2461,Diego García,59,M,San Isidro,Pediatría,2024-06-08,259.92
+P2462,Ana Fernández,48,F,Miraflores,Medicina General,2024-05-23,178.57
+P2463,Juan González,41,M,La Molina,Medicina General,2024-10-06,209.04
+P2464,Carmen García,3,F,La Molina,Cirugía,2024-09-13,496.39
+P2465,Javier González,36,M,Lince,Medicina General,2024-04-30,482.41
+P2466,José García,42,M,No especificado,Urología,2024-12-16,475.66
+P2467,Carlos Sánchez,3,M,Jesús María,Medicina General,2024-05-26,263.7
+P2468,Juan López,24,M,San Miguel,Cardiología,2024-12-17,330.49
+P2469,Isabel Rodríguez,7,F,La Molina,Odontología,2024-11-23,296.53
+P2470,Luis Pérez,15,M,Jesús María,Dermatología,2024-01-10,363.86
+P2471,Juan Fernández,62,M,Surco,Odontología,2024-06-28,238.11
+P2472,Pedro Torres,58,M,Magdalena,Cirugía,2024-11-12,197.61
+P2473,Rosa Martínez,14,F,Magdalena,Medicina General,2024-05-12,314.47
+P2474,Ricardo Gómez,6,M,Lince,Neurología,2024-12-16,184.85
+P2475,Carmen Ramírez,68,F,Barranco,Ginecología,2024-10-11,322.07
+P2476,Miguel González,86,M,Surquillo,Neurología,2024-07-10,68.85
+P2477,Andrea Gómez,83,F,Magdalena,Traumatología,2024-05-06,356.51
+P2478,Ricardo Pérez,67,M,Lince,Urología,2024-08-31,238.58
+P2479,Sofía Martínez,84,F,No especificado,Dermatología,2024-03-03,319.89
+P2480,Patricia Pérez,53,F,No especificado,Medicina General,2024-02-23,106.8
+P2481,Javier Martínez,23,M,Barranco,Oftalmología,2024-12-13,483.32
+P2482,Pedro Ramírez,74,M,Pueblo Libre,Odontología,2024-12-03,219.54
+P2483,Fernando Díaz,76,M,San Isidro,Medicina General,2024-05-17,290.2
+P2484,Ana García,31,F,San Isidro,Neurología,2024-01-03,385.7
+P2485,Elena Torres,79,F,San Miguel,Dermatología,2024-09-25,381.33
+P2486,Laura López,27,F,Surco,Urología,2024-06-20,104.72
+P2487,Antonio Díaz,4,M,La Molina,Ginecología,2024-06-21,141.99
+P2488,Sofía Torres,87,F,Pueblo Libre,Medicina General,2024-05-11,318.3
+P2489,Carlos López,69,M,Barranco,Ginecología,2024-03-22,307.0
+P2490,Fernando García,68,M,Surco,Medicina General,2024-06-17,166.72
+P2491,Roberto García,3,M,San Borja,Pediatría,2024-09-05,200.14
+P2492,Luis Ramírez,55,M,Jesús María,Traumatología,2024-09-27,445.49
+P2493,Ricardo Gómez,60,M,Miraflores,Odontología,2024-03-23,275.66
+P2494,Ricardo Gómez,46,M,Magdalena,Neurología,2024-06-28,186.0
+P2495,Diego González,42,M,Miraflores,Pediatría,2024-02-29,351.7
+P2496,Fernando Pérez,81,M,Jesús María,Dermatología,2024-08-03,480.01
+P2497,Diego Díaz,87,M,San Isidro,Medicina General,2024-08-25,262.93
+P2498,Claudia Pérez,3,F,No especificado,Cardiología,2024-05-17,280.53
+P2499,Juan Rodríguez,75,M,Miraflores,Ginecología,2024-07-10,371.56
+P2500,Carmen González,2,F,Pueblo Libre,Pediatría,2024-04-29,290.07
+P2501,Elena Fernández,75,F,La Molina,Psicología,2024-03-16,226.98
+P2502,Javier Gómez,13,M,Pueblo Libre,Oftalmología,2024-04-19,277.05
+P2503,Juan Ramírez,38,M,Pueblo Libre,Pediatría,2024-08-31,69.92
+P2504,José García,34,M,San Miguel,Traumatología,2024-03-15,214.26
+P2505,Pedro González,88,M,Lince,Oftalmología,2024-08-10,463.32
+P2506,Ana Díaz,87,F,La Molina,Urología,2024-12-30,207.41
+P2507,Antonio Sánchez,78,M,Lince,Traumatología,2024-10-11,182.93
+P2508,Carmen González,2,F,Lince,Urología,2024-01-09,419.6
+P2509,Pedro Ramírez,65,M,La Molina,Cardiología,2024-02-09,288.52
+P2510,Carmen Rodríguez,33,F,Surco,Dermatología,2024-01-09,395.47
+P2511,Elena Sánchez,58,F,Jesús María,Medicina General,2024-01-05,111.94
+P2512,Claudia Gómez,28,F,Pueblo Libre,Oftalmología,2024-06-22,80.42
+P2513,Juan González,70,M,Miraflores,Pediatría,2024-03-10,240.03
+P2514,Isabel Ramírez,8,F,Miraflores,Traumatología,2024-03-03,118.78
+P2515,Andrea Rodríguez,42,F,Jesús María,Odontología,2024-11-12,484.38
+P2516,Rosa Martínez,14,F,Surco,Pediatría,2024-10-19,314.33
+P2517,José Martínez,16,M,Jesús María,Ginecología,2024-05-10,479.06
+P2518,Patricia Gómez,59,F,Magdalena,Odontología,2024-09-03,87.8
+P2519,Antonio Pérez,80,M,Surco,Medicina General,2024-09-25,463.83
+P2520,Roberto Torres,34,M,Barranco,Medicina General,2024-03-17,231.11
+P2521,Rosa Torres,19,F,Pueblo Libre,Neurología,2024-03-18,197.63
+P2522,Sofía Martínez,48,F,Miraflores,Oftalmología,2024-06-08,238.75
+P2523,Carmen Ramírez,9,F,San Miguel,Oftalmología,2024-02-29,445.84
+P2524,Juan González,52,M,Pueblo Libre,Medicina General,2024-03-08,455.94
+P2525,Fernando Fernández,51,M,Pueblo Libre,Medicina General,2024-08-16,435.2
+P2526,José Ramírez,87,M,La Molina,Psicología,2024-01-02,287.56
+P2527,Elena Ramírez,15,F,Lince,Dermatología,2024-12-14,406.87
+P2528,María Pérez,71,F,Pueblo Libre,Urología,2024-02-22,294.43
+P2529,Miguel Fernández,59,M,Surquillo,Medicina General,2024-09-02,307.3
+P2530,Roberto Rodríguez,11,M,No especificado,Medicina General,2024-04-20,216.2
+P2531,Juan González,18,M,Magdalena,Medicina General,2024-03-21,258.32
+P2532,Andrea Díaz,25,F,San Borja,Urología,2024-02-08,104.98
+P2533,Lucía Sánchez,27,F,Lince,Traumatología,2024-05-10,335.77
+P2534,Antonio Sánchez,8,M,San Miguel,Neurología,2024-03-16,391.07
+P2535,Rosa Pérez,11,F,San Borja,Urología,2024-10-07,398.09
+P2536,Diego Fernández,23,M,Surquillo,Psicología,2024-10-08,141.53
+P2537,Andrea Fernández,52,F,Surquillo,Cirugía,2024-07-22,393.6
+P2538,Fernando Sánchez,25,M,Surquillo,Medicina General,2024-08-27,427.77
+P2539,Elena Sánchez,29,F,Pueblo Libre,Odontología,2024-01-22,485.35
+P2540,José García,45,M,Miraflores,Medicina General,2024-03-21,93.24
+P2541,Isabel González,43,F,San Borja,Traumatología,2024-09-09,380.97
+P2542,Carlos Rodríguez,72,M,Barranco,Neurología,2024-11-11,155.36
+P2543,Lucía Martínez,76,F,Barranco,Oftalmología,2024-08-20,198.21
+P2544,Carmen Ramírez,69,F,Magdalena,Traumatología,2024-06-15,391.94
+P2545,Claudia Fernández,76,F,Lince,Medicina General,2024-07-17,370.64
+P2546,Andrea Díaz,22,F,Pueblo Libre,Traumatología,2024-04-22,288.54
+P2547,Antonio Torres,52,M,San Borja,Cardiología,2024-12-27,188.14
+P2548,Javier Torres,12,M,No especificado,Medicina General,2024-11-29,365.02
+P2549,José Fernández,69,M,San Borja,Cardiología,2024-02-25,348.17
+P2550,Claudia Gómez,76,F,Miraflores,Medicina General,2024-10-28,301.76
+P2551,José García,56,M,Barranco,Oftalmología,2024-08-23,283.08
+P2552,Andrea García,67,F,Surquillo,Neurología,2024-04-12,459.78
+P2553,Patricia González,2,F,San Miguel,Neurología,2024-02-26,188.49
+P2554,Lucía López,90,F,San Isidro,Psicología,2024-04-29,405.35
+P2555,Ricardo Martínez,59,M,Surquillo,Traumatología,2024-08-08,112.01
+P2556,Carmen González,9,F,Surquillo,Dermatología,2024-02-09,74.78
+P2557,Ana García,58,F,San Isidro,Dermatología,2024-09-05,407.11
+P2558,Luis Díaz,45,M,La Molina,Dermatología,2024-09-09,169.5
+P2559,Javier Gómez,64,M,Surco,Cardiología,2024-11-10,360.99
+P2560,Patricia Díaz,62,F,No especificado,Traumatología,2024-11-26,154.08
+P2561,Carlos López,25,M,La Molina,Traumatología,2024-08-26,494.21
+P2562,Patricia Pérez,5,F,San Miguel,Ginecología,2024-10-23,286.5
+P2563,Patricia Martínez,87,F,Barranco,Pediatría,2024-04-01,429.19
+P2564,Sofía García,52,F,Surquillo,Pediatría,2024-10-25,271.68
+P2565,Roberto González,8,M,Magdalena,Cardiología,2024-09-17,212.93
+P2566,Diego Sánchez,54,M,Barranco,Ginecología,2024-08-07,92.61
+P2567,María Gómez,7,F,Lince,Odontología,2024-03-04,182.08
+P2568,María Torres,85,F,Surco,Pediatría,2024-08-11,395.18
+P2569,Laura Sánchez,56,F,Barranco,Medicina General,2024-02-02,343.76
+P2570,Fernando Martínez,2,M,La Molina,Medicina General,2024-05-20,113.47
+P2571,Ricardo Rodríguez,65,M,Lince,Psicología,2024-03-02,65.52
+P2572,Carmen López,50,F,La Molina,Cirugía,2024-07-03,389.74
+P2573,Pedro Sánchez,42,M,San Borja,Medicina General,2024-05-29,139.64
+P2574,Elena González,29,F,San Borja,Dermatología,2024-08-03,338.78
+P2575,Fernando Ramírez,55,M,San Isidro,Pediatría,2024-02-01,303.52
+P2576,Juan García,40,M,Jesús María,Dermatología,2024-05-08,256.04
+P2577,Sofía Torres,84,F,La Molina,Ginecología,2024-01-17,221.22
+P2578,José García,55,M,No especificado,Cardiología,2024-04-14,368.85
+P2579,Diego González,15,M,La Molina,Pediatría,2024-06-03,471.9
+P2580,Miguel García,82,M,Surco,Ginecología,2024-07-30,255.1
+P2581,Juan Martínez,9,M,San Borja,Medicina General,2024-07-08,72.73
+P2582,Patricia González,67,F,Surco,Cardiología,2024-08-11,221.66
+P2583,Miguel Sánchez,29,M,La Molina,Neurología,2024-08-18,421.24
+P2584,Carlos Gómez,60,M,No especificado,Medicina General,2024-05-07,358.04
+P2585,Ricardo Rodríguez,3,M,La Molina,Pediatría,2024-08-25,246.44
+P2586,Lucía García,3,F,La Molina,Medicina General,2024-02-20,292.83
+P2587,María Díaz,21,F,Jesús María,Cirugía,2024-04-05,130.81
+P2588,Isabel Díaz,21,F,Lince,Medicina General,2024-12-17,130.26
+P2589,Miguel Ramírez,27,M,San Borja,Ginecología,2024-06-06,225.02
+P2590,Ricardo Pérez,73,M,Pueblo Libre,Ginecología,2024-09-18,344.47
+P2591,Ricardo Gómez,64,M,San Isidro,Urología,2024-11-25,189.52
+P2592,Elena Díaz,38,F,Miraflores,Odontología,2024-12-12,141.85
+P2593,Patricia Martínez,77,F,No especificado,Urología,2024-01-08,370.09
+P2594,Pedro Sánchez,11,M,Surco,Neurología,2024-10-23,316.17
+P2595,Diego González,90,M,Surco,Traumatología,2024-02-05,305.3
+P2596,Miguel Fernández,1,M,Jesús María,Cardiología,2024-08-05,99.99
+P2597,Andrea López,74,F,Miraflores,Traumatología,2024-05-27,71.99
+P2598,Juan Ramírez,75,M,Surquillo,Cirugía,2024-04-30,274.12
+P2599,Claudia Pérez,77,F,La Molina,Cardiología,2024-05-17,271.84
+P2600,Sofía Torres,8,F,No especificado,Pediatría,2024-06-19,226.01
+P2601,José Sánchez,2,M,San Isidro,Ginecología,2024-09-28,458.36
+P2602,Luis Torres,32,M,Lince,Neurología,2024-03-03,317.11
+P2603,Roberto Gómez,54,M,Lince,Cardiología,2024-05-12,130.31
+P2604,Andrea García,79,F,Pueblo Libre,Odontología,2024-12-26,185.87
+P2605,Ricardo Gómez,89,M,Magdalena,Odontología,2024-10-18,401.9
+P2606,Fernando Díaz,41,M,Barranco,Cirugía,2024-11-18,253.13
+P2607,José Martínez,56,M,San Miguel,Cirugía,2024-12-07,410.35
+P2608,Lucía Torres,71,F,Jesús María,Dermatología,2024-02-20,295.86
+P2609,María Díaz,70,F,Surco,Ginecología,2024-10-11,205.44
+P2610,Diego Martínez,90,M,Jesús María,Dermatología,2024-05-18,452.92
+P2611,Ana Torres,56,F,Barranco,Neurología,2024-10-11,345.46
+P2612,Ricardo López,57,M,Lince,Ginecología,2024-05-21,226.14
+P2613,Javier Ramírez,22,M,San Miguel,Neurología,2024-08-07,422.46
+P2614,Sofía López,41,F,Jesús María,Pediatría,2024-12-04,211.44
+P2615,Rosa Martínez,4,F,Lince,Pediatría,2024-05-01,264.25
+P2616,Rosa Pérez,31,F,Barranco,Urología,2024-04-09,176.76
+P2617,Andrea Martínez,40,F,Barranco,Medicina General,2024-06-22,248.48
+P2618,Carmen Díaz,54,F,Jesús María,Cardiología,2024-12-13,79.87
+P2619,Rosa Fernández,57,F,Jesús María,Oftalmología,2024-02-28,128.63
+P2620,Carmen Pérez,43,F,Surquillo,Urología,2024-05-16,469.15
+P2621,José Pérez,20,M,Pueblo Libre,Pediatría,2024-08-05,335.45
+P2622,Roberto García,4,M,Lince,Dermatología,2024-07-14,434.01
+P2623,Lucía Ramírez,23,F,La Molina,Ginecología,2024-08-22,459.04
+P2624,Ricardo Díaz,89,M,San Borja,Traumatología,2024-09-28,355.97
+P2625,Roberto García,36,M,Barranco,Medicina General,2024-06-08,453.27
+P2626,Pedro Pérez,70,M,Surquillo,Neurología,2024-02-25,228.34
+P2627,Lucía Torres,24,F,Surco,Dermatología,2024-07-30,246.63
+P2628,Luis Torres,65,M,San Borja,Odontología,2024-10-04,135.41
+P2629,Laura García,83,F,San Borja,Urología,2024-12-10,487.38
+P2630,Antonio Rodríguez,19,M,La Molina,Medicina General,2024-02-10,166.48
+P2631,Miguel Díaz,61,M,Pueblo Libre,Traumatología,2024-02-22,170.35
+P2632,Javier Ramírez,1,M,Magdalena,Medicina General,2024-03-10,341.81
+P2633,Andrea Ramírez,31,F,San Miguel,Medicina General,2024-09-22,494.65
+P2634,Javier Fernández,65,M,La Molina,Cirugía,2024-02-04,353.57
+P2635,Ricardo Sánchez,27,M,Barranco,Traumatología,2024-11-06,343.0
+P2636,Juan Sánchez,57,M,San Borja,Urología,2024-03-03,300.13
+P2637,Luis Ramírez,35,M,La Molina,Traumatología,2024-04-03,359.1
+P2638,Fernando Rodríguez,90,M,Surquillo,Cardiología,2024-03-23,301.77
+P2639,Claudia González,17,F,Miraflores,Ginecología,2024-10-16,346.4
+P2640,Rosa Sánchez,63,F,La Molina,Cirugía,2024-02-09,438.64
+P2641,Laura Rodríguez,56,F,Barranco,Medicina General,2024-07-04,89.27
+P2642,José Gómez,29,M,No especificado,Cardiología,2024-12-31,206.93
+P2643,Sofía Pérez,30,F,Surquillo,Neurología,2024-10-10,301.44
+P2644,Isabel García,82,F,San Borja,Cirugía,2024-04-10,298.58
+P2645,Laura García,29,F,Lince,Cardiología,2024-07-14,208.8
+P2646,Antonio López,83,M,Magdalena,Traumatología,2024-03-21,195.33
+P2647,Sofía López,85,F,Jesús María,Traumatología,2024-07-30,471.87
+P2648,Pedro Sánchez,52,M,Pueblo Libre,Neurología,2024-06-03,471.11
+P2649,Carlos Pérez,19,M,Magdalena,Traumatología,2024-06-30,68.27
+P2650,Javier Rodríguez,67,M,Surquillo,Traumatología,2024-04-28,356.53
+P2651,Miguel Pérez,59,M,Pueblo Libre,Urología,2024-04-30,339.25
+P2652,Claudia González,28,F,San Miguel,Pediatría,2024-08-26,425.36
+P2653,Laura Gómez,41,F,San Miguel,Oftalmología,2024-04-01,247.52
+P2654,Laura Torres,51,F,Pueblo Libre,Medicina General,2024-06-20,392.96
+P2655,Carmen González,51,F,San Miguel,Medicina General,2024-07-22,303.27
+P2656,Claudia Martínez,64,F,Surco,Pediatría,2024-07-31,430.49
+P2657,Luis Díaz,73,M,Surquillo,Medicina General,2024-10-10,388.03
+P2658,Rosa Gómez,22,F,San Borja,Pediatría,2024-10-09,338.74
+P2659,Laura López,16,F,San Borja,Medicina General,2024-01-17,413.43
+P2660,Fernando Sánchez,86,M,Magdalena,Traumatología,2024-06-09,341.87
+P2661,Carlos Sánchez,64,M,Pueblo Libre,Medicina General,2024-07-20,241.91
+P2662,Roberto López,40,M,Barranco,Pediatría,2024-09-27,271.07
+P2663,Andrea Gómez,78,F,San Borja,Ginecología,2024-10-21,296.37
+P2664,Diego García,34,M,San Miguel,Medicina General,2024-02-10,398.08
+P2665,Elena Rodríguez,31,F,San Isidro,Cirugía,2024-04-25,374.8
+P2666,Antonio García,15,M,No especificado,Medicina General,2024-01-12,237.22
+P2667,Elena Díaz,41,F,Surco,Ginecología,2024-11-03,448.7
+P2668,Rosa García,15,F,No especificado,Urología,2024-04-08,263.69
+P2669,Pedro Gómez,49,M,Pueblo Libre,Ginecología,2024-10-04,210.41
+P2670,Laura Ramírez,81,F,Miraflores,Medicina General,2024-01-16,232.72
+P2671,Lucía González,1,F,Magdalena,Urología,2024-08-29,442.8
+P2672,Miguel García,34,M,Surquillo,Urología,2024-03-23,319.37
+P2673,María González,16,F,Barranco,Cirugía,2024-01-11,262.16
+P2674,Rosa Díaz,49,F,Pueblo Libre,Dermatología,2024-07-31,233.67
+P2675,Patricia Sánchez,28,F,Surquillo,Cirugía,2024-02-29,132.1
+P2676,Claudia García,71,F,Lince,Odontología,2024-01-31,249.75
+P2677,Elena Martínez,17,F,Jesús María,Cardiología,2024-11-06,429.14
+P2678,Patricia López,75,F,San Miguel,Medicina General,2024-07-13,69.45
+P2679,Diego Sánchez,7,M,San Isidro,Dermatología,2024-01-11,473.67
+P2680,Carlos Ramírez,55,M,Surquillo,Traumatología,2024-11-04,178.35
+P2681,Pedro Díaz,84,M,Surco,Dermatología,2024-05-01,212.8
+P2682,Diego Ramírez,64,M,Magdalena,Dermatología,2024-01-16,75.59
+P2683,Javier Díaz,34,M,No especificado,Medicina General,2024-11-13,163.81
+P2684,Isabel Gómez,5,F,Miraflores,Medicina General,2024-09-23,275.73
+P2685,Antonio González,35,M,Barranco,Traumatología,2024-07-13,121.32
+P2686,Roberto Pérez,18,M,No especificado,Urología,2024-11-02,367.38
+P2687,Andrea González,15,F,San Isidro,Neurología,2024-08-13,312.69
+P2688,Pedro Torres,7,M,No especificado,Urología,2024-07-17,459.57
+P2689,Luis Martínez,74,M,San Isidro,Pediatría,2024-01-12,57.26
+P2690,Roberto López,46,M,La Molina,Traumatología,2024-12-18,219.77
+P2691,Rosa García,68,F,La Molina,Ginecología,2024-06-08,134.48
+P2692,Ana Ramírez,63,F,Lince,Medicina General,2024-07-05,343.28
+P2693,Laura Díaz,22,F,Pueblo Libre,Urología,2024-10-13,219.37
+P2694,Fernando Martínez,28,M,Surco,Odontología,2024-02-02,265.84
+P2695,Carmen Pérez,77,F,La Molina,Urología,2024-01-16,80.66
+P2696,Juan Rodríguez,46,M,Jesús María,Urología,2024-08-30,485.62
+P2697,Ricardo Ramírez,19,M,Lince,Pediatría,2024-03-02,243.98
+P2698,Juan Ramírez,32,M,La Molina,Oftalmología,2024-06-25,117.0
+P2699,Antonio Martínez,23,M,Barranco,Cardiología,2024-06-03,368.79
+P2700,Rosa Díaz,64,F,San Borja,Odontología,2024-12-02,112.64
+P2701,Laura Ramírez,45,F,San Miguel,Ginecología,2024-08-11,264.05
+P2702,José Martínez,76,M,Barranco,Cardiología,2024-09-30,493.24
+P2703,Javier Pérez,8,M,Pueblo Libre,Cirugía,2024-09-20,284.74
+P2704,María Díaz,56,F,Jesús María,Traumatología,2024-04-06,219.76
+P2705,Lucía Rodríguez,26,F,Magdalena,Neurología,2024-12-07,94.15
+P2706,Patricia Fernández,4,F,San Borja,Dermatología,2024-04-04,197.91
+P2707,José Ramírez,2,M,Lince,Cirugía,2024-01-03,440.55
+P2708,Roberto López,23,M,Pueblo Libre,Ginecología,2024-12-04,368.43
+P2709,Rosa Gómez,15,F,Barranco,Odontología,2024-05-23,144.9
+P2710,María Martínez,24,F,La Molina,Oftalmología,2024-11-23,57.37
+P2711,Carmen Pérez,87,F,San Borja,Psicología,2024-12-28,146.83
+P2712,Antonio Ramírez,18,M,Surquillo,Medicina General,2024-10-12,340.73
+P2713,Andrea González,35,F,San Miguel,Urología,2024-04-23,449.92
+P2714,Pedro Ramírez,89,M,No especificado,Ginecología,2024-11-15,76.99
+P2715,Claudia Ramírez,29,F,San Isidro,Ginecología,2024-12-10,151.21
+P2716,María Rodríguez,88,F,Barranco,Odontología,2024-07-28,313.32
+P2717,Fernando Martínez,88,M,Surquillo,Medicina General,2024-12-22,366.04
+P2718,Ricardo Ramírez,89,M,No especificado,Oftalmología,2024-12-20,278.71
+P2719,Lucía González,59,F,Pueblo Libre,Urología,2024-04-30,499.97
+P2720,Javier Díaz,66,M,No especificado,Cirugía,2024-02-10,360.26
+P2721,Andrea Ramírez,27,F,La Molina,Ginecología,2024-07-23,373.42
+P2722,Roberto Rodríguez,9,M,Pueblo Libre,Medicina General,2024-09-13,401.43
+P2723,Laura Gómez,25,F,Miraflores,Neurología,2024-10-19,415.79
+P2724,Isabel Fernández,26,F,Pueblo Libre,Odontología,2024-03-15,142.31
+P2725,Javier Díaz,90,M,La Molina,Neurología,2024-08-14,492.75
+P2726,Carlos Díaz,86,M,Surco,Medicina General,2024-07-29,432.26
+P2727,Lucía González,57,F,No especificado,Neurología,2024-05-24,67.98
+P2728,Carmen González,81,F,Lince,Oftalmología,2024-02-16,376.33
+P2729,José López,1,M,San Miguel,Oftalmología,2024-04-22,364.63
+P2730,Rosa López,36,F,La Molina,Neurología,2024-12-23,54.43
+P2731,Luis Díaz,4,M,San Miguel,Oftalmología,2024-10-22,267.78
+P2732,Ricardo Pérez,5,M,La Molina,Neurología,2024-07-17,172.48
+P2733,Ricardo González,88,M,Surquillo,Oftalmología,2024-03-20,156.44
+P2734,Elena López,21,F,San Miguel,Neurología,2024-11-23,167.41
+P2735,Claudia Ramírez,86,F,Lince,Dermatología,2024-08-31,276.06
+P2736,Laura Sánchez,67,F,No especificado,Odontología,2024-05-26,282.99
+P2737,Antonio Sánchez,74,M,Surco,Medicina General,2024-02-20,349.89
+P2738,Ricardo Martínez,87,M,Barranco,Cirugía,2024-01-11,384.52
+P2739,Claudia Fernández,51,F,Jesús María,Odontología,2024-12-02,391.5
+P2740,Lucía Sánchez,14,F,Surquillo,Medicina General,2024-10-04,146.87
+P2741,Antonio Sánchez,52,M,San Borja,Ginecología,2024-02-11,314.2
+P2742,Juan García,70,M,La Molina,Cirugía,2024-11-24,104.72
+P2743,Miguel Martínez,54,M,Surquillo,Urología,2024-06-26,364.42
+P2744,José Díaz,84,M,Surco,Odontología,2024-12-24,350.46
+P2745,Antonio Pérez,18,M,San Miguel,Dermatología,2024-08-26,282.78
+P2746,Juan Pérez,81,M,Pueblo Libre,Psicología,2024-08-25,471.72
+P2747,Patricia Ramírez,49,F,Barranco,Oftalmología,2024-07-02,273.33
+P2748,Diego Gómez,72,M,Surquillo,Psicología,2024-02-24,466.63
+P2749,Carlos López,36,M,San Miguel,Dermatología,2024-01-14,153.0
+P2750,Lucía Torres,88,F,San Miguel,Medicina General,2024-09-10,52.0
+P2751,Lucía García,11,F,San Borja,Cardiología,2024-11-03,412.66
+P2752,Ana Martínez,22,F,La Molina,Medicina General,2024-11-28,171.29
+P2753,Javier Ramírez,80,M,San Borja,Traumatología,2024-12-08,285.22
+P2754,Sofía Ramírez,17,F,San Isidro,Urología,2024-01-25,338.3
+P2755,Lucía Gómez,13,F,Magdalena,Ginecología,2024-07-31,390.64
+P2756,Javier García,9,M,Barranco,Traumatología,2024-01-17,222.11
+P2757,Diego González,20,M,Barranco,Cardiología,2024-08-07,228.65
+P2758,Antonio Gómez,64,M,San Borja,Cirugía,2024-01-01,92.34
+P2759,Antonio Gómez,61,M,Lince,Cardiología,2024-10-24,353.89
+P2760,Rosa Gómez,54,F,La Molina,Urología,2024-08-23,418.91
+P2761,Fernando Sánchez,69,M,Lince,Medicina General,2024-08-25,216.0
+P2762,Miguel Ramírez,70,M,Pueblo Libre,Ginecología,2024-05-11,142.46
+P2763,Claudia Pérez,21,F,Jesús María,Medicina General,2024-06-14,266.73
+P2764,Pedro Rodríguez,39,M,Magdalena,Urología,2024-09-06,134.31
+P2765,Elena Fernández,64,F,San Borja,Neurología,2024-07-19,494.52
+P2766,Antonio Ramírez,6,M,La Molina,Ginecología,2024-03-26,347.19
+P2767,Rosa Ramírez,79,F,San Miguel,Traumatología,2024-06-18,194.25
+P2768,Luis Sánchez,55,M,San Borja,Ginecología,2024-08-25,377.77
+P2769,Patricia López,19,F,San Isidro,Traumatología,2024-02-13,204.31
+P2770,Laura Fernández,23,F,Surco,Psicología,2024-03-17,226.59
+P2771,Carlos López,38,M,No especificado,Traumatología,2024-12-17,262.5
+P2772,Antonio Fernández,14,M,Jesús María,Medicina General,2024-09-01,92.45
+P2773,Sofía Pérez,83,F,Surquillo,Neurología,2024-03-03,337.7
+P2774,Claudia Rodríguez,57,F,No especificado,Urología,2024-01-28,56.56
+P2775,Ana Gómez,35,F,Pueblo Libre,Ginecología,2024-09-19,472.1
+P2776,Antonio Rodríguez,65,M,No especificado,Psicología,2024-06-13,119.65
+P2777,Elena Pérez,63,F,Pueblo Libre,Traumatología,2024-03-21,261.5
+P2778,Isabel Ramírez,85,F,San Borja,Psicología,2024-11-22,304.86
+P2779,Javier Gómez,44,M,San Isidro,Oftalmología,2024-01-12,395.5
+P2780,Juan López,21,M,San Miguel,Cirugía,2024-08-10,187.67
+P2781,Sofía Gómez,16,F,Barranco,Odontología,2024-11-18,416.82
+P2782,Roberto Torres,1,M,Lince,Odontología,2024-04-05,76.64
+P2783,María Martínez,87,F,Magdalena,Cardiología,2024-04-07,269.79
+P2784,Lucía González,35,F,Magdalena,Traumatología,2024-02-05,87.86
+P2785,Isabel López,19,F,Surquillo,Cirugía,2024-02-03,499.74
+P2786,Javier Ramírez,21,M,Jesús María,Cardiología,2024-04-13,163.94
+P2787,Ana Sánchez,84,F,Lince,Urología,2024-08-07,107.4
+P2788,Andrea Torres,60,F,San Isidro,Cirugía,2024-09-13,416.42
+P2789,Fernando Rodríguez,88,M,Miraflores,Pediatría,2024-02-28,161.8
+P2790,Roberto Ramírez,41,M,Surco,Cirugía,2024-07-26,70.5
+P2791,Ana Díaz,22,F,La Molina,Dermatología,2024-04-23,269.13
+P2792,Patricia Rodríguez,43,F,No especificado,Cirugía,2024-10-27,240.58
+P2793,Claudia Díaz,32,F,San Isidro,Neurología,2024-02-04,426.52
+P2794,Lucía Martínez,16,F,Jesús María,Medicina General,2024-09-26,427.54
+P2795,Javier Pérez,61,M,Jesús María,Pediatría,2024-01-26,341.07
+P2796,Elena Torres,43,F,Jesús María,Odontología,2024-06-04,352.67
+P2797,Roberto García,73,M,Jesús María,Medicina General,2024-04-06,143.41
+P2798,Roberto López,9,M,Barranco,Medicina General,2024-02-15,351.88
+P2799,Laura Rodríguez,9,F,Jesús María,Ginecología,2024-08-08,297.06
+P2800,Antonio Sánchez,76,M,Jesús María,Medicina General,2024-10-07,232.81
+P2801,Javier Ramírez,84,M,Pueblo Libre,Traumatología,2024-08-10,208.16
+P2802,Carmen González,10,F,Pueblo Libre,Medicina General,2024-11-06,179.2
+P2803,Patricia Sánchez,49,F,Magdalena,Medicina General,2024-04-09,139.55
+P2804,Miguel Torres,39,M,Miraflores,Ginecología,2024-04-27,424.99
+P2805,José Martínez,4,M,Surco,Odontología,2024-08-30,414.33
+P2806,Luis Fernández,63,M,Miraflores,Oftalmología,2024-06-29,326.0
+P2807,Claudia Sánchez,60,F,Lince,Neurología,2024-08-12,393.1
+P2808,Rosa Díaz,57,F,San Miguel,Psicología,2024-05-15,158.79
+P2809,José López,60,M,Lince,Oftalmología,2024-02-29,258.27
+P2810,Juan Gómez,70,M,Barranco,Ginecología,2024-09-27,224.97
+P2811,Roberto García,85,M,Barranco,Dermatología,2024-04-29,398.33
+P2812,Ricardo Pérez,52,M,San Borja,Odontología,2024-05-16,332.81
+P2813,Antonio Rodríguez,39,M,No especificado,Oftalmología,2024-10-06,431.24
+P2814,Patricia García,40,F,Jesús María,Neurología,2024-12-18,143.35
+P2815,Isabel Rodríguez,6,F,Surco,Cirugía,2024-01-06,482.97
+P2816,Laura Gómez,90,F,San Isidro,Ginecología,2024-04-29,351.8
+P2817,Juan Díaz,56,M,San Isidro,Neurología,2024-11-21,190.82
+P2818,Fernando Díaz,55,M,Surquillo,Medicina General,2024-02-06,92.79
+P2819,Isabel Rodríguez,6,F,San Isidro,Cardiología,2024-08-05,178.78
+P2820,Ana Ramírez,56,F,No especificado,Psicología,2024-09-12,243.65
+P2821,Roberto Rodríguez,22,M,San Borja,Pediatría,2024-06-07,151.83
+P2822,Javier Torres,14,M,San Miguel,Medicina General,2024-12-25,135.03
+P2823,Javier Sánchez,66,M,Miraflores,Cardiología,2024-10-18,176.62
+P2824,Patricia Gómez,71,F,Magdalena,Neurología,2024-09-07,181.44
+P2825,Ana Torres,49,F,Surco,Psicología,2024-12-14,113.83
+P2826,Javier López,64,M,Barranco,Odontología,2024-01-17,139.95
+P2827,Ricardo Gómez,40,M,Surquillo,Pediatría,2024-01-16,55.39
+P2828,Patricia López,24,F,No especificado,Medicina General,2024-08-24,237.99
+P2829,José López,26,M,Magdalena,Cardiología,2024-10-11,490.1
+P2830,Elena Díaz,73,F,San Isidro,Medicina General,2024-09-17,272.85
+P2831,Patricia Díaz,88,F,La Molina,Cirugía,2024-02-09,498.77
+P2832,Roberto Fernández,89,M,No especificado,Cardiología,2024-08-25,92.39
+P2833,Laura Sánchez,20,F,Lince,Dermatología,2024-07-11,488.74
+P2834,Rosa Gómez,25,F,San Isidro,Oftalmología,2024-10-26,235.33
+P2835,Lucía Díaz,87,F,No especificado,Dermatología,2024-02-23,401.79
+P2836,Fernando Fernández,89,M,La Molina,Medicina General,2024-06-27,456.3
+P2837,Javier Díaz,17,M,No especificado,Neurología,2024-05-27,499.97
+P2838,Laura Gómez,49,F,Lince,Medicina General,2024-03-10,398.36
+P2839,Antonio López,86,M,La Molina,Ginecología,2024-12-29,219.95
+P2840,Lucía Rodríguez,11,F,San Isidro,Ginecología,2024-04-01,473.23
+P2841,Juan Fernández,67,M,No especificado,Neurología,2024-11-16,346.52
+P2842,Lucía López,83,F,La Molina,Urología,2024-10-22,240.42
+P2843,José Sánchez,45,M,San Miguel,Dermatología,2024-07-08,230.98
+P2844,Luis Ramírez,25,M,Surco,Traumatología,2024-04-04,477.46
+P2845,Miguel González,22,M,San Miguel,Oftalmología,2024-06-12,409.72
+P2846,Laura Rodríguez,60,F,Surquillo,Traumatología,2024-11-24,364.33
+P2847,Antonio González,90,M,Pueblo Libre,Pediatría,2024-09-23,270.38
+P2848,Claudia Pérez,70,F,La Molina,Pediatría,2024-08-28,131.21
+P2849,Carlos González,68,M,Jesús María,Medicina General,2024-04-10,292.47
+P2850,Andrea Fernández,58,F,Surquillo,Neurología,2024-01-24,407.32
+P2851,Claudia Gómez,47,F,San Borja,Cirugía,2024-07-17,365.04
+P2852,Carmen Martínez,51,F,Magdalena,Oftalmología,2024-01-01,128.31
+P2853,Javier López,90,M,Surquillo,Oftalmología,2024-02-08,145.56
+P2854,Antonio Fernández,41,M,La Molina,Traumatología,2024-01-06,132.87
+P2855,Rosa Sánchez,1,F,Jesús María,Cardiología,2024-02-26,327.67
+P2856,Carlos López,11,M,Lince,Oftalmología,2024-10-24,156.03
+P2857,Juan Torres,18,M,San Isidro,Medicina General,2024-06-27,135.38
+P2858,José Fernández,30,M,Surquillo,Traumatología,2024-05-13,77.26
+P2859,Isabel González,43,F,Jesús María,Cardiología,2024-01-06,454.42
+P2860,Ricardo Torres,71,M,Surquillo,Pediatría,2024-01-05,484.71
+P2861,Roberto Fernández,42,M,San Borja,Dermatología,2024-07-20,478.26
+P2862,Patricia Ramírez,31,F,Barranco,Traumatología,2024-06-24,121.95
+P2863,Roberto Ramírez,21,M,Barranco,Urología,2024-11-02,76.78
+P2864,Roberto López,8,M,San Miguel,Neurología,2024-12-17,184.01
+P2865,José González,12,M,Surco,Medicina General,2024-03-21,200.18
+P2866,Claudia López,40,F,San Miguel,Traumatología,2024-06-22,381.01
+P2867,Rosa Martínez,50,F,Pueblo Libre,Traumatología,2024-08-11,140.25
+P2868,María López,37,F,Surquillo,Medicina General,2024-08-22,336.99
+P2869,José Martínez,70,M,Lince,Odontología,2024-01-24,349.37
+P2870,Pedro González,6,M,San Borja,Cardiología,2024-02-19,495.53
+P2871,Sofía Díaz,63,F,Miraflores,Urología,2024-10-16,387.69
+P2872,Pedro Fernández,5,M,Pueblo Libre,Pediatría,2024-03-20,398.02
+P2873,Isabel López,47,F,San Isidro,Medicina General,2024-07-16,227.31
+P2874,Diego López,12,M,Magdalena,Pediatría,2024-09-03,142.72
+P2875,Andrea Fernández,59,F,Surco,Neurología,2024-02-02,299.53
+P2876,Antonio García,72,M,Jesús María,Pediatría,2024-08-16,245.31
+P2877,Carmen Sánchez,59,F,Magdalena,Pediatría,2024-12-21,191.86
+P2878,José Martínez,51,M,Magdalena,Cardiología,2024-02-05,304.92
+P2879,Diego Rodríguez,4,M,Surquillo,Neurología,2024-09-06,150.4
+P2880,Diego Fernández,17,M,Surquillo,Pediatría,2024-04-08,242.86
+P2881,Ricardo Torres,14,M,La Molina,Ginecología,2024-11-05,213.89
+P2882,Lucía Martínez,24,F,San Isidro,Cirugía,2024-06-09,383.01
+P2883,Rosa Pérez,66,F,San Isidro,Oftalmología,2024-01-17,181.4
+P2884,Elena Rodríguez,61,F,Lince,Traumatología,2024-12-05,413.31
+P2885,Ana García,86,F,Surquillo,Traumatología,2024-11-16,451.25
+P2886,Carlos Díaz,87,M,San Miguel,Psicología,2024-03-11,351.55
+P2887,José Pérez,89,M,Barranco,Neurología,2024-08-23,73.91
+P2888,Ana Díaz,26,F,Miraflores,Medicina General,2024-07-24,226.15
+P2889,Claudia Fernández,34,F,Surco,Dermatología,2024-08-02,110.75
+P2890,Luis López,5,M,San Borja,Oftalmología,2024-05-21,95.82
+P2891,Patricia Fernández,43,F,Surco,Pediatría,2024-01-24,387.98
+P2892,Ana Sánchez,3,F,Jesús María,Dermatología,2024-08-12,137.36
+P2893,Lucía González,13,F,Surquillo,Cardiología,2024-06-09,384.93
+P2894,Diego Sánchez,41,M,Miraflores,Cardiología,2024-08-05,98.12
+P2895,Pedro Fernández,5,M,San Isidro,Traumatología,2024-07-24,270.55
+P2896,Ricardo García,69,M,Lince,Oftalmología,2024-11-12,410.84
+P2897,Miguel Ramírez,50,M,Surco,Cardiología,2024-10-17,72.37
+P2898,Patricia Díaz,78,F,Miraflores,Medicina General,2024-12-05,416.75
+P2899,Juan Díaz,46,M,San Miguel,Urología,2024-01-22,394.32
+P2900,Rosa Díaz,70,F,Pueblo Libre,Dermatología,2024-05-24,384.38
+P2901,Luis Martínez,41,M,No especificado,Odontología,2024-06-22,375.17
+P2902,Pedro López,17,M,Surquillo,Odontología,2024-06-12,441.68
+P2903,María Rodríguez,50,F,Miraflores,Dermatología,2024-05-25,290.44
+P2904,Fernando Rodríguez,12,M,San Isidro,Neurología,2024-04-02,141.25
+P2905,Miguel Fernández,86,M,San Isidro,Neurología,2024-07-18,273.48
+P2906,Miguel Fernández,67,M,Magdalena,Urología,2024-08-13,158.5
+P2907,Luis Gómez,28,M,Surquillo,Pediatría,2024-02-01,442.13
+P2908,Patricia Sánchez,43,F,Lince,Ginecología,2024-03-30,431.64
+P2909,Carlos Ramírez,39,M,No especificado,Ginecología,2024-12-21,132.5
+P2910,Luis Martínez,65,M,Magdalena,Neurología,2024-12-02,421.82
+P2911,Roberto Fernández,4,M,San Isidro,Oftalmología,2024-04-12,210.79
+P2912,Javier García,55,M,Barranco,Pediatría,2024-06-18,165.84
+P2913,Elena Torres,59,F,Lince,Ginecología,2024-01-22,62.82
+P2914,Rosa Gómez,35,F,Barranco,Oftalmología,2024-03-30,479.37
+P2915,Miguel Ramírez,22,M,Magdalena,Medicina General,2024-10-12,478.79
+P2916,Antonio García,63,M,Magdalena,Ginecología,2024-09-18,228.96
+P2917,José Torres,5,M,La Molina,Medicina General,2024-09-10,359.9
+P2918,Laura López,53,F,San Miguel,Odontología,2024-09-02,144.26
+P2919,Pedro Martínez,14,M,No especificado,Urología,2024-05-30,331.02
+P2920,Lucía Díaz,21,F,No especificado,Psicología,2024-07-06,138.69
+P2921,Luis Ramírez,79,M,Lince,Psicología,2024-09-26,487.03
+P2922,Pedro Fernández,17,M,Barranco,Cirugía,2024-01-13,102.3
+P2923,Roberto Fernández,9,M,San Isidro,Dermatología,2024-06-18,207.54
+P2924,María Pérez,56,F,Magdalena,Cirugía,2024-09-10,305.19
+P2925,Miguel Sánchez,45,M,No especificado,Oftalmología,2024-02-15,262.54
+P2926,Miguel Ramírez,36,M,San Miguel,Ginecología,2024-10-31,327.4
+P2927,Roberto Martínez,28,M,Jesús María,Medicina General,2024-08-27,310.06
+P2928,Juan Fernández,21,M,La Molina,Medicina General,2024-03-22,448.12
+P2929,Miguel Díaz,69,M,Jesús María,Odontología,2024-10-07,296.39
+P2930,Diego Torres,39,M,Surquillo,Odontología,2024-10-16,447.69
+P2931,Sofía Rodríguez,75,F,La Molina,Traumatología,2024-11-06,276.36
+P2932,Juan López,60,M,Barranco,Medicina General,2024-12-10,358.42
+P2933,Sofía Fernández,56,F,San Isidro,Medicina General,2024-07-18,262.05
+P2934,José Díaz,72,M,Surquillo,Traumatología,2024-09-10,457.51
+P2935,Andrea González,69,F,San Miguel,Medicina General,2024-08-03,253.51
+P2936,Patricia García,30,F,Miraflores,Oftalmología,2024-02-09,376.63
+P2937,Miguel Fernández,15,M,La Molina,Dermatología,2024-10-04,451.78
+P2938,Luis Martínez,14,M,No especificado,Odontología,2024-10-30,381.92
+P2939,Andrea Gómez,58,F,Surquillo,Medicina General,2024-09-03,54.75
+P2940,Carlos López,30,M,Surquillo,Ginecología,2024-10-12,318.78
+P2941,Claudia García,71,F,No especificado,Medicina General,2024-09-23,216.81
+P2942,Miguel González,39,M,Surco,Medicina General,2024-01-27,399.67
+P2943,Juan Fernández,40,M,La Molina,Traumatología,2024-11-04,118.29
+P2944,Lucía Martínez,55,F,Surco,Traumatología,2024-06-28,158.35
+P2945,Juan Gómez,6,M,Jesús María,Urología,2024-08-13,206.63
+P2946,Claudia Martínez,1,F,Surco,Neurología,2024-05-16,121.57
+P2947,José Martínez,11,M,Barranco,Traumatología,2024-09-18,418.54
+P2948,Roberto Ramírez,82,M,Surquillo,Psicología,2024-06-30,463.02
+P2949,José Torres,85,M,Surco,Dermatología,2024-12-22,426.61
+P2950,Fernando Pérez,68,M,Magdalena,Neurología,2024-05-05,165.65
+P2951,Javier Gómez,82,M,Surco,Dermatología,2024-10-16,338.07
+P2952,Sofía López,14,F,Lince,Cirugía,2024-04-30,109.65
+P2953,María Gómez,28,F,San Miguel,Psicología,2024-11-17,444.06
+P2954,Diego Martínez,13,M,Lince,Dermatología,2024-10-08,487.59
+P2955,José Martínez,74,M,Surquillo,Cardiología,2024-05-19,141.11
+P2956,Diego López,6,M,Surco,Traumatología,2024-11-16,281.69
+P2957,Sofía García,23,F,Surco,Pediatría,2024-01-28,165.77
+P2958,Ricardo Sánchez,55,M,Barranco,Medicina General,2024-08-17,321.48
+P2959,Lucía García,48,F,Surco,Odontología,2024-10-22,233.55
+P2960,Isabel López,44,F,Magdalena,Cirugía,2024-02-02,62.79
+P2961,Roberto Ramírez,68,M,No especificado,Medicina General,2024-05-24,473.37
+P2962,Luis González,47,M,Jesús María,Traumatología,2024-02-06,188.02
+P2963,Roberto Torres,13,M,Miraflores,Cardiología,2024-10-01,109.29
+P2964,Isabel González,68,F,No especificado,Traumatología,2024-05-23,92.63
+P2965,Antonio Ramírez,55,M,San Miguel,Traumatología,2024-09-29,389.15
+P2966,Ricardo García,47,M,San Miguel,Cardiología,2024-10-24,325.69
+P2967,Fernando Díaz,71,M,Barranco,Cirugía,2024-02-29,103.55
+P2968,Juan Torres,9,M,Surco,Medicina General,2024-11-19,127.41
+P2969,Antonio López,13,M,Barranco,Cardiología,2024-03-16,141.43
+P2970,Fernando Díaz,69,M,Lince,Cardiología,2024-01-07,86.08
+P2971,Carlos Pérez,74,M,Barranco,Pediatría,2024-07-05,230.0
+P2972,Rosa Rodríguez,9,F,Jesús María,Urología,2024-04-01,320.06
+P2973,Carlos Fernández,70,M,Lince,Cardiología,2024-03-04,164.51
+P2974,Laura Torres,46,F,No especificado,Dermatología,2024-12-07,406.02
+P2975,Fernando Ramírez,81,M,Jesús María,Dermatología,2024-09-25,406.68
+P2976,Carmen Díaz,81,F,San Miguel,Pediatría,2024-09-02,402.73
+P2977,Sofía Torres,33,F,Surco,Medicina General,2024-08-31,99.32
+P2978,Laura González,8,F,No especificado,Cardiología,2024-11-11,420.98
+P2979,Laura Díaz,15,F,Jesús María,Psicología,2024-08-16,233.87
+P2980,Lucía Gómez,34,F,Magdalena,Ginecología,2024-05-25,259.75
+P2981,Andrea Fernández,57,F,Surquillo,Medicina General,2024-07-26,430.1
+P2982,Antonio García,21,M,San Borja,Pediatría,2024-08-15,433.89
+P2983,Ana Gómez,66,F,Surco,Pediatría,2024-06-03,398.62
+P2984,Elena Rodríguez,79,F,Miraflores,Psicología,2024-01-11,160.81
+P2985,Miguel Torres,21,M,San Borja,Medicina General,2024-02-22,464.47
+P2986,Juan Díaz,9,M,Surquillo,Cirugía,2024-12-31,108.1
+P2987,Patricia Sánchez,82,F,No especificado,Traumatología,2024-09-06,207.09
+P2988,Pedro Pérez,13,M,San Borja,Cirugía,2024-12-04,431.54
+P2989,Laura González,61,F,Surco,Cardiología,2024-11-10,130.24
+P2990,Laura López,43,F,Lince,Traumatología,2024-08-28,225.84
+P2991,Lucía Torres,49,F,Surco,Neurología,2024-10-24,396.96
+P2992,Lucía Martínez,79,F,Pueblo Libre,Cirugía,2024-08-10,92.2
+P2993,Roberto López,82,M,San Miguel,Traumatología,2024-03-19,388.31
+P2994,Juan Sánchez,7,M,No especificado,Neurología,2024-01-04,150.0
+P2995,Fernando Rodríguez,1,M,Pueblo Libre,Ginecología,2024-01-30,282.6
+P2996,María González,15,F,No especificado,Cardiología,2024-02-09,118.77
+P2997,Claudia López,77,F,No especificado,Traumatología,2024-07-24,386.22
+P2998,Sofía García,60,F,San Borja,Traumatología,2024-08-13,185.18
+P2999,Juan Pérez,9,M,Barranco,Cardiología,2024-03-12,389.78
+P3000,Roberto Ramírez,21,M,La Molina,Pediatría,2024-12-08,54.75
